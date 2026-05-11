@@ -327,22 +327,5 @@
   "officialManagement": {
     "title": "About Rubjerg Knude",
     "text": "Rubjerg Knude is managed and maintained by the Danish Nature Agency, and is one of the most important coastal natural heritage sites in Northern Denmark.\n\nAs an iconic natural landmark of the North Sea coast, Rubjerg Knude has witnessed centuries of unique natural evolution through coastline changes and sand dune movement. Today, the scenic area is open to the public free of charge, offering an excellent destination for exploring Denmark's coastal wilderness and an important window for visitors worldwide to experience Nordic natural charm."
-  },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
-      {"name": "Løkken Beach", "url": "https://www.visitdenmark.com"},
-      {"name": "Blokhus Beach", "url": "https://www.visitdenmark.com"},
-      {"name": "Skagen Museum", "url": "https://www.skagensmuseum.dk"},
-      {"name": "Grenen Point", "url": "https://www.visitdenmark.com"}
-    ],
-    "tours": [
-      {"name": "North Sea Coast Road Trip", "url": "https://www.visitdenmark.com"},
-      {"name": "Sand Dune Hiking Tour", "url": "https://www.visitdenmark.com"},
-      {"name": "Northern Denmark Deep Tour", "url": "https://www.stromma.dk"},
-      {"name": "Coastal Cycling Tour", "url": "https://www.visitdenmark.com"}
-    ]
   }
 }

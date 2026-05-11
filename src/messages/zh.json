@@ -327,22 +327,5 @@
   "officialManagement": {
     "title": "关于鲁比约角",
     "text": "鲁比约角由丹麦自然管理局管理维护，是丹麦北部最重要的海岸自然遗产地之一。\n作为北海沿岸标志性自然地标，鲁比约角见证了数百年海岸线变迁与沙丘移动的独特自然演变过程。如今，景区免费向公众开放，是探索丹麦海岸荒野风光的绝佳目的地，也是世界各地游客感受北欧自然魅力的重要窗口。"
-  },
-  "recommendations": {
-    "title": "探索更多",
-    "attractionsTitle": "附近景点",
-    "toursTitle": "推荐行程与活动",
-    "attractions": [
-      {"name": "洛肯海滩", "url": "https://www.visitdenmark.com"},
-      {"name": "布隆内斯海滩", "url": "https://www.visitdenmark.com"},
-      {"name": "斯卡恩博物馆", "url": "https://www.skagensmuseum.dk"},
-      {"name": "格雷诺角", "url": "https://www.visitdenmark.com"}
-    ],
-    "tours": [
-      {"name": "北海海岸自驾游", "url": "https://www.visitdenmark.com"},
-      {"name": "沙丘徒步导览", "url": "https://www.visitdenmark.com"},
-      {"name": "丹麦北部深度游", "url": "https://www.stromma.dk"},
-      {"name": "海岸骑行之旅", "url": "https://www.visitdenmark.com"}
-    ]
   }
 }

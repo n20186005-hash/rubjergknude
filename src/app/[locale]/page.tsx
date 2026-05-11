@@ -13,7 +13,6 @@ import HotelsSection from '@/components/HotelsSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
-import Recommendations from '@/components/Recommendations';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -41,7 +40,6 @@ export default async function HomePage({
         <Gallery />
         <Reviews />
         <MapEmbed />
-        <Recommendations />
       </main>
       <Footer />
     </>
