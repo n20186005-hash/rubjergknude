@@ -1,9 +1,15 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useMessages, useTranslations } from 'next-intl';
 
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
+  const messages = useMessages() as {
+    basicInfo?: {
+      items?: Array<{ label: string; value: string }>;
+    };
+  };
+  const items = messages.basicInfo?.items ?? [];
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -17,15 +23,11 @@ export default function BasicInfo() {
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <InfoCard title={t('officialName')} value={t('officialNameValue')} />
-          <InfoCard title={t('type')} value={t('typeValue')} />
-          <InfoCard title={t('country')} value={t('countryValue')} />
-          <InfoCard title={t('city')} value={t('cityValue')} />
-          <InfoCard title={t('googleRating')} value="4.7/5 (8,278)" />
-          <InfoCard title={t('phone')} value="+45 72 54 36 53" />
-          <div className="md:col-span-2">
-            <InfoCard title={t('address')} value={t('addressValue')} />
-          </div>
+          {items.map((item, index) => (
+            <div key={`${item.label}-${index}`} className={index === items.length - 1 ? 'md:col-span-2 lg:col-span-3' : ''}>
+              <InfoCard title={item.label} value={item.value} />
+            </div>
+          ))}
         </div>
       </div>
     </section>

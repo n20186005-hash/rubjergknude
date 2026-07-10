@@ -91,7 +91,12 @@ function TimeCard({ title, time, timeValue, iconKey }: { title: string; time?: s
         {icons[iconKey]}
         <h3 className="font-medium" style={{ color: 'var(--text-primary)' }}>{title}</h3>
       </div>
-      <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{time || timeValue}</p>
+      {time && <p className="text-sm mb-1" style={{ color: 'var(--text-muted)' }}>{time}</p>}
+      {timeValue ? (
+        <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{timeValue}</p>
+      ) : (
+        <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{time}</p>
+      )}
     </div>
   );
 }

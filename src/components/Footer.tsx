@@ -1,10 +1,11 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
+import { getLocalePath } from '@/i18n/config';
 
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = getLocalePath(locale, '');
 
   return (
     <footer
@@ -24,10 +25,10 @@ export default function Footer() {
               <a href="https://www.visitdenmark.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.council')}
               </a>
-              <a href="https://www.visitcopenhagen.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+              <a href="https://naturstyrelsen.dk/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.tourism')}
               </a>
-              <a href="https://www.copenhagencard.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+              <a href="https://www.visit-nordvestkysten.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.england')}
               </a>
             </div>

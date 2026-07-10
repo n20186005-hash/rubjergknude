@@ -7,6 +7,10 @@ import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
 import InfoSection from '@/components/InfoSection';
+import HistoryTimeline from '@/components/HistoryTimeline';
+import PracticalInfoSection from '@/components/PracticalInfoSection';
+import FaqSection from '@/components/FaqSection';
+import FaqStructuredData from '@/components/FaqStructuredData';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
@@ -25,6 +29,7 @@ export default async function HomePage({
 
   return (
     <>
+      <FaqStructuredData />
       <Header />
       <main>
         <Hero />
@@ -33,7 +38,10 @@ export default async function HomePage({
         <HoursSection />
         <TicketsSection />
         <TransportSection />
+        <PracticalInfoSection />
+        <FaqSection />
         <InfoSection />
+        <HistoryTimeline />
         <RouteSection />
         <PhotoSpotsSection />
         <HotelsSection />

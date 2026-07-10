@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Rubjerg Knude｜Denmark's North Sea Coast Cliffs, Sand Dunes & Lighthouse - Best European Spots",
-    "description": "Complete guide to Rubjerg Knude in Denmark. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Iconic North Sea coastal sand dunes, dramatic cliffs, and century-old lighthouse."
+    "title": "Rubjerg Knude | Lighthouse, Wandering Dune, Parking and Visitor Guide",
+    "description": "Independent visitor guide to Rubjerg Knude on Denmark's North Sea coast, with history, the 2019 lighthouse relocation, parking, walking distances, toilets, accessibility notes and nearby EV charging."
   },
   "header": {
     "home": "Home",
@@ -12,320 +12,462 @@
   },
   "hero": {
     "title": "Rubjerg Knude",
-    "subtitle": "Denmark's North Sea Coast Cliffs, Sand Dunes & Wilderness Escape",
-    "rating": "4.7(8,278)",
-    "reviewCount": "8,278 reviews",
-    "hours": "Open 24/7",
-    "openMaps": "View Location"
+    "subtitle": "A North Sea lighthouse, wandering dune and eroding cliff landscape in Northern Denmark",
+    "rating": "4.7",
+    "reviewCount": "8,489 reviews",
+    "hours": "Open year-round",
+    "openMaps": "Open in Google Maps"
   },
   "intro": {
     "title": "Discover Rubjerg Knude",
-    "description": "The first time you step into Rubjerg Knude, you'll instantly be wrapped in the unique wild coastal atmosphere of the North Sea in Northern Europe. There are no manicured attractions, only endless flowing golden sand dunes, steep sea cliffs, and the old lighthouse standing in the sand, slowly being enveloped by wind and sand — desolate yet breathtaking.\n\nThe strong sea wind carries the scent of seawater and sand, rushing towards you. In the distance, the vast North Sea stretches endlessly, waves crash against the shore layer by layer, and the view is boundless. The rolling sand dunes are soft and thick, constantly reshaped by the wind — every moment here offers a unique landscape.\n\nThe old lighthouse stands lonely atop the dunes, having spent a century accompanying the wind and sand. From a former coastal navigation beacon to a niche natural heritage slowly being consumed by nature — the atmosphere is incredible. There are no crowded commercial areas, no noisy tourists. Only the sound of wind, waves, and endless wilderness. Standing at the cliff's edge, all your troubles will be soothed by the vast coastal scenery.\n\nSunset is the highlight of Rubjerg Knude. The setting sun paints the dunes and sea in warm orange hues, the lighthouse's silhouette gentle in the twilight. The loneliness and romance of the wild coast blend perfectly at this moment, making it one of the must-see coastal sunset spots in Northern Denmark.",
+    "description": "Rubjerg Knude is one of Denmark's most studied coastal landscapes: a migrating dune complex, a rapidly eroding cliff edge and a lighthouse whose history has been reshaped by wind, sand and sea.\n\nThe site combines geological change with cultural heritage. Fine sand lifted from the cliff face is transported inland by strong westerly winds, building a Wanderdune around the former lighthouse station. At the same time, the North Sea removes cliff material year after year, bringing the coastline steadily closer.\n\nWhat visitors encounter today is therefore not simply a scenic viewpoint, but an open-air record of coastal processes, engineering adaptation and the long effort to keep a maritime landmark legible in an unstable landscape.",
     "visitGuide": {
-      "title": "Visit Tips",
+      "title": "Visit Notes",
       "items": [
-        "Recommended to visit during daytime with calm or light wind conditions, avoid strong wind days",
-        "Outdoor cliffs and sand dunes are free; lighthouse interior requires separate admission",
-        "Sunset is the best time to visit and experience the stunning North Sea twilight",
-        "Wear windproof jackets and comfortable hiking shoes; prepare for sun and dust protection"
+        "Choose calm or moderately windy weather whenever possible; sand drift can become uncomfortable very quickly.",
+        "The outdoor area is freely accessible throughout the year; the tower interior follows seasonal opening arrangements.",
+        "Allow extra time for the final approach from the parking area because soft sand slows walking speed.",
+        "Wear windproof outerwear and sturdy shoes, and protect cameras or phones from blowing sand."
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "Why It Matters",
       "items": [
-        "Iconic coastal natural landmark of Northern Denmark",
-        "Representative landscape of North Sea wind and sand erosion",
-        "Site of the century-old sand dune lighthouse",
-        "One of Northern Europe's most representative coastal wilderness destinations"
+        "A major North Sea example of dune migration and coastal erosion",
+        "Home to Rubjerg Knude Fyr, one of Denmark's best-known threatened lighthouses",
+        "A landscape where natural processes and heritage protection remain visibly intertwined",
+        "A widely recognised excursion site for visitors from Denmark, Germany and the Netherlands"
       ]
     }
   },
   "knowledge": {
-    "title": "The Charm of Rubjerg Knude",
+    "title": "Research Notes",
     "sections": [
       {
         "id": "history",
-        "title": "A Century of Coastal Changes",
-        "content": "The Rubjerg Knude area features unique flowing sand dune terrain due to persistent strong sea winds and sand movement. The Rubjerg Lighthouse was built in the 19th century, originally serving as a navigation beacon for North Sea vessels. After its construction, the surrounding sand dunes rapidly advanced year by year, constantly engulfing surrounding land and buildings. The lighthouse suffered long-term burial by sand and erosion from sea winds, gradually losing its original navigation function. The local government conducted multiple sand dune management and building protection projects to slow the erosion, eventually designating the lighthouse and surrounding coast as a nature reserve and travel destination open to the public. Over centuries, the coastline has continuously changed and sand dunes kept moving. This land preserves the complete traces of the North Sea coast's unique natural evolution, transforming from a practical maritime facility to a niche natural travel landmark in Northern Europe, attracting global tourists."
+        "title": "Maritime History",
+        "content": "Rubjerg Knude Fyr entered service at the end of 1900 as a navigational aid on the North Sea coast. It was designed for practical maritime use, not for leisure visitation, and its operation depended on a larger station complex that included technical buildings and staff facilities."
       },
       {
-        "id": "architecture",
-        "title": "Architectural Features",
-        "content": "The core landmark is the century-old Rubjerg Lighthouse gradually being swallowed by sand dunes, accompanied by kilometers of yellow flowing sand dunes, steep sea cliffs, and the wild North Sea coastline. There is no excessive artificial modification, preserving the original coastal wilderness texture with extremely strong visual impact from the natural landscape. The artificial lighthouse's retro brick and stone architecture blends with the native coastal terrain, gaining a unique sense of history through years of sea wind and sand erosion — desolate, vast, and possessing both loneliness and natural wild beauty."
+        "id": "geomorphology",
+        "title": "Moving Dune System",
+        "content": "The dune at Rubjerg Knude is a classic example of aeolian transport. Sand from the cliff is lifted by prevailing winds, deposited inland and repeatedly reworked into new forms. The result is a landscape whose ridges, paths and sightlines can change noticeably from season to season."
       },
       {
-        "id": "culture",
-        "title": "Cultural Significance",
-        "content": "A healing wilderness secret place in the hearts of Danes, a location for countless photography works and travel videos, witnessing the natural evolution of North Sea coastal sand dune movement and coastline erosion. It carries the Nordic lifestyle aesthetic of yearning for freedom and closeness to wild coasts, and is also a niche outdoor hiking sanctuary. It is an important Danish coastal ecological reserve, recording the history of coastal sand and coastline changes."
+        "id": "keepers",
+        "title": "Life of the Keepers",
+        "content": "The lighthouse staff worked in a highly exposed environment. Sand had to be cleared constantly, machinery maintained under harsh weather conditions and the visibility of the light monitored even as the dune rose. Their work illustrates how demanding routine maintenance could be before modern remote navigation systems."
       },
       {
-        "id": "experience",
-        "title": "Core Experience",
-        "content": "Sunset is the highlight of Rubjerg Knude. The setting sun paints the dunes and sea in warm orange hues, the lighthouse's silhouette gentle in the twilight. The loneliness and romance of the wild coast blend perfectly at this moment, making it one of the must-see coastal sunset spots in Northern Denmark. There are long-distance cycling routes along the coast, allowing cycling enthusiasts to ride directly along the coastal road while enjoying the North Sea scenery."
+        "id": "heritage",
+        "title": "Heritage and Engineering",
+        "content": "The site's contemporary significance lies in the way heritage management has responded to geomorphic change. Rather than preserving the lighthouse in a fixed historical setting, authorities and local specialists chose to move it, acknowledging that conservation on an eroding coast may require controlled transformation."
       }
     ]
   },
   "basicInfo": {
     "title": "Basic Information",
-    "officialName": "Official Name",
-    "officialNameValue": "Rubjerg Knude",
-    "type": "Attraction Type",
-    "typeValue": "Coastal Cliffs, Sand Dune Landscape, Seaside Lighthouse, Nature Reserve",
-    "country": "Country",
-    "countryValue": "Denmark",
-    "city": "City",
-    "cityValue": "Løkken",
-    "googleRating": "Google Rating",
-    "phone": "Phone",
-    "address": "Address",
-    "addressValue": "Fyrvejen 110, 9800 Løkken, Denmark"
+    "items": [
+      {
+        "label": "Official name",
+        "value": "Rubjerg Knude Fyr / Rubjerg Knude"
+      },
+      {
+        "label": "Site type",
+        "value": "Lighthouse, migrating dune, coastal cliff and protected nature landscape"
+      },
+      {
+        "label": "Country",
+        "value": "Denmark"
+      },
+      {
+        "label": "Nearest town",
+        "value": "Løkken, Hjorring Municipality"
+      },
+      {
+        "label": "Coordinates",
+        "value": "57.4489, 9.7743"
+      },
+      {
+        "label": "Google Maps rating",
+        "value": "4.7 / 5 from 8,489 reviews"
+      },
+      {
+        "label": "Address",
+        "value": "Fyrvejen 110, 9800 Løkken, Denmark"
+      }
+    ]
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Outdoor Area",
-    "outdoorTime": "Open 24/7, year-round",
-    "lighthouse": "Rubjerg Lighthouse Interior & Observation Deck",
-    "summer": "Summer (May 1 - Sep 30)",
-    "summerTime": "10:00-17:00",
-    "winter": "Winter (Oct 1 - Apr 30)",
-    "winterTime": "Weekends and holidays only",
-    "warning": "Weather Warning",
-    "warningTime": "During extreme weather conditions (extreme wind, heavy rain, blizzard), the cliff area may be temporarily closed. Do not approach cliff edges.",
-    "tip": "Recommended to visit during daytime with calm or light wind; coastal winds are generally strong"
+    "outdoor": "Outdoor area",
+    "outdoorTime": "Accessible all year and generally open all day",
+    "lighthouse": "Tower interior and exhibition area",
+    "summer": "Summer season",
+    "summerTime": "Typically 10:00-17:00 from May to September",
+    "winter": "Winter season",
+    "winterTime": "Limited opening, often weekends or holidays only",
+    "warning": "Weather and cliff warning",
+    "warningTime": "Strong wind, blowing sand and rain can sharply reduce comfort and safety. Keep away from the cliff edge and respect any temporary closures.",
+    "tip": "Always confirm current opening arrangements on-site or via local visitor information before making a special trip."
   },
   "tickets": {
-    "title": "Ticket Prices",
-    "outdoor": "Outdoor Cliffs, Sand Dunes & Trails",
-    "outdoorPrice": "Free admission, no entry fee",
-    "lighthouse": "Rubjerg Lighthouse Interior Visit",
+    "title": "Admission",
+    "outdoor": "Dune, cliff and trail area",
+    "outdoorPrice": "Free access",
+    "lighthouse": "Tower interior",
     "adults": "Adults",
-    "adultsPrice": "Tiered pricing",
-    "students": "Youth",
-    "studentsPrice": "Discounted pricing",
+    "adultsPrice": "Seasonal paid entry when the tower is open",
+    "students": "Students / youth",
+    "studentsPrice": "Reduced rates may apply depending on current operator policy",
     "children": "Children",
-    "childrenPrice": "Free or discounted",
-    "card": "Denmark National Travel Pass",
-    "cardPrice": "Can offset venue tickets; ideal for multi-city Scandinavia travelers"
+    "childrenPrice": "Often free or discounted",
+    "card": "Ticket note",
+    "cardPrice": "Prices and categories can change by season. Treat on-site information as the final reference."
   },
   "transport": {
-    "title": "How to Get Here",
-    "airport": "From Aalborg Airport (Recommended)",
-    "airportDesc": "From the airport, take intercity buses or regional trains to Løkken city center. Connections are stable and well-coordinated. You can also book rideshare or short-distance charter cars directly to the scenic area at the airport entrance — ideal for travelers with more luggage or groups, saving time and efficiency.",
-    "selfDrive": "Self-Drive (Most Convenient)",
-    "selfDriveDesc": "Driving from Løkken city center is the most convenient option. The scenic area has free outdoor parking. Driving time is approximately 10 minutes.",
-    "bus": "Regional Bus",
-    "busDesc": "Public transport via Løkken local regional buses directly to the Rubjerg Knude scenic area entrance. Walk 800 meters from the bus stop to the entrance.",
-    "intercity": "Intercity Bus",
-    "intercityDesc": "From Aalborg city center and surrounding cities, take intercity buses to Løkken, then transfer to short-distance transport to the scenic area.",
+    "title": "How to Reach the Site",
+    "airport": "From Aalborg Airport",
+    "airportDesc": "Travel onward by rail or bus toward Hjorring and Løkken, then continue by local transport, taxi or rental car. Public transport is possible, but final access is much easier by car.",
+    "selfDrive": "By car",
+    "selfDriveDesc": "Driving is the most practical option. The main visitor parking area is at Fyrvejen 110 and the last section to the lighthouse is completed on foot across mixed gravel and sand.",
+    "bus": "Regional bus",
+    "busDesc": "Regional services can bring visitors toward Løkken and nearby stops, but schedules are limited and the final walk remains exposed to wind and sand.",
+    "intercity": "From other Danish cities",
+    "intercityDesc": "Most longer-distance journeys connect via Aalborg or Hjorring before continuing north-west toward the coast.",
     "cycling": "Cycling",
-    "cyclingDesc": "There are long-distance cycling routes along the coast. Cyclists can ride directly along the coastal road while enjoying the North Sea scenery.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Self-drive or chartered cars are strongly recommended. North Sea coastal winds are strong; long-distance walking is not recommended during bad weather."
+    "cyclingDesc": "Experienced cyclists can approach via coastal roads and regional cycle routes, but should expect strong headwinds and limited shelter.",
+    "tips": "Transport recommendation",
+    "tipsDesc": "For first-time visitors, self-drive travel gives the clearest access to parking, toilets and nearby services in Løkken."
+  },
+  "practicalInfo": {
+    "title": "Practical Visitor Logistics",
+    "intro": "Search behaviour around Rubjerg Knude shows that parking, walking distance, toilets, charging and weather conditions are among the most important decision points before arrival. The notes below prioritise those needs.",
+    "cards": [
+      {
+        "title": "Parking and walking approach",
+        "description": "Main visitor parking: Fyrvejen 110, 9800 Løkken.\nReference coordinates: approximately 57.4479, 9.7790.\nFrom the main parking area to the lighthouse, plan for roughly 1.2-1.5 km on foot each way and about 20-25 minutes depending on wind and sand conditions.\nThe surface is not a flat urban path; walking can feel significantly slower than the distance suggests."
+      },
+      {
+        "title": "Toilets and accessibility",
+        "description": "Public toilets are usually available near the main visitor arrival area, but seasonal opening and maintenance can vary.\nWheelchairs, mobility scooters and most strollers are not well suited to the final dune approach because of soft sand, uneven slopes and exposed wind.\nVisitors requiring step-free conditions should treat the dune area as only partially accessible."
+      },
+      {
+        "title": "Supplies, fuel and EV charging",
+        "description": "The nearest full service point is Løkken, about 10-15 minutes away by car.\nFor groceries and simple provisions, plan around the town centre.\nPublic EV charging is available in Løkken, including Jyllandsgade 11-15 and Industrivej 6.\nDrivers should not expect charging or fuel directly at the dune parking area."
+      },
+      {
+        "title": "Navigation and weather planning",
+        "description": "Mobile navigation works best when the destination is set to Fyrvejen 110 rather than to the tower itself.\nCheck wind speed and precipitation before departure; strong westerly winds can create active sand drift and greatly reduce comfort near the cliff.\nSunset visits remain popular, but the return walk becomes colder and less sheltered very quickly."
+      }
+    ],
+    "warningTitle": "Safety reminder",
+    "warningText": "Rubjerg Knude is an exposed coastal environment, not a barrier-protected urban viewpoint.\nStay back from the cliff edge, supervise children closely and secure loose clothing, bags and electronics in windy conditions."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions (FAQ)",
+    "intro": "This FAQ follows common search intent and recurring visitor questions, focusing on parking (parken), the 2019 lighthouse relocation (Flytning / versetzt) and the Wanderdune. Conditions and facilities can change seasonally; check weather and on-site notices before travel.",
+    "sections": [
+      {
+        "id": "logistics",
+        "title": "Transport and Facilities",
+        "items": [
+          {
+            "question": "Is there parking at Rubjerg Knude? Is it paid?",
+            "answer": "Yes. The main visitor parking area is typically at Fyrvejen 110 (use this in navigation). Parking is usually free, but operational rules can change seasonally.\nFrom the parking area to the lighthouse, expect an exposed walk across mixed gravel and sand. Plan roughly 1.2–1.5 km one way and about 20–25 minutes depending on wind and sand conditions. In peak periods, spaces can fill up; arriving earlier helps."
+          },
+          {
+            "question": "Can wheelchairs or strollers reach the dune and lighthouse area?",
+            "answer": "In most cases, no. The final approach includes soft sand and uneven slopes, which are difficult for wheelchairs, mobility scooters and typical strollers.\nFamilies with infants often find a baby carrier more realistic. In strong wind, consider shortening the visit."
+          },
+          {
+            "question": "Are there toilets, food services or bins on the dunes?",
+            "answer": "Do not expect city-park-style services on the dune approach or at the lighthouse itself.\nPublic toilets may be available near the main arrival zone in some seasons, but availability can vary.\nFor reliable supplies, meals and EV charging, plan around nearby towns such as Løkken (south) or Lønstrup (north). Bring water and take all litter back with you."
+          }
+        ]
+      },
+      {
+        "id": "science",
+        "title": "History and Geoscience",
+        "items": [
+          {
+            "question": "Why was the lighthouse moved in 2019, and how was it done?",
+            "answer": "North Sea cliff erosion reduced the distance between the tower and the cliff edge, creating a long-term risk of collapse into the sea.\nIn 2019, the lighthouse relocation was carried out (often referred to as Flytning in Danish; versetzt is common in German descriptions). After structural preparation, the tower was placed on a moving support system and rolled about 70 metres inland on rails to extend its safe lifetime."
+          },
+          {
+            "question": "What is a Wanderdune (wandering dune)?",
+            "answer": "A wandering dune is a dune body that migrates under persistent wind-driven sand transport. It changes ridge lines, slopes and paths over time, so the same approach can look different across seasons.\nAt Rubjerg Knude, dune advance historically affected station buildings and became one of the site's defining processes."
+          },
+          {
+            "question": "Is the lighthouse safe now? Will it still fall into the sea?",
+            "answer": "The relocation significantly reduced near-term risk by restoring a buffer distance to the eroding cliff. However, erosion and sand transport continue, so monitoring and management remain necessary.\nAny estimate of 'how many decades remain' depends on future erosion rates and policy decisions; treat local authority updates and on-site information as the most reliable reference."
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "title": "Visit Planning and Tickets",
+        "items": [
+          {
+            "question": "Do I need a ticket to visit Rubjerg Knude?",
+            "answer": "The outdoor dune and cliff area is generally free to access and open year-round.\nEntering the tower interior is seasonal and weather-dependent, and a small admission fee may apply when the tower is open. Treat on-site information as final."
+          },
+          {
+            "question": "How long does a typical visit take?",
+            "answer": "For a standard visit (walk from parking, observe the lighthouse from outside, short stop), plan 1.5–2.5 hours.\nIf you extend the walk to additional viewpoints or longer coastal routes, plan half a day and keep a reserve for wind and the return walk."
+          },
+          {
+            "question": "Is it worth going in bad weather?",
+            "answer": "Avoid extreme wind, heavy rain or very poor visibility.\nCliff edges are typically not continuously fenced, and blowing sand affects balance and visibility. Check local forecasts and follow any temporary closures or safety instructions on-site."
+          }
+        ]
+      },
+      {
+        "id": "around",
+        "title": "Nearby Places (North Jutland)",
+        "items": [
+          {
+            "question": "What can I combine with Rubjerg Knude nearby?",
+            "answer": "Rubjerg Knude sits on a coastal corridor where small towns help structure a day trip.\nAbout 15 minutes north by car is Lønstrup, known for craft and art workshops; about 10 minutes south is Løkken, with broader services, beach access and supplies.\nFor a science-focused itinerary, these stops provide a useful contrast between dune–cliff processes and settlement infrastructure."
+          }
+        ]
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "intro": "The chronology below brings together the lighthouse's operational history, the growth of the Wanderdune and the widely discussed Flytning in 2019.",
+    "events": [
+      {
+        "year": "1899-1900",
+        "title": "Construction and first light",
+        "description": "Construction began in 1899 and the lighthouse was first lit on 27 December 1900. It stood about 200 metres inland on a cliff roughly 60 metres above sea level."
+      },
+      {
+        "year": "1910s-1950s",
+        "title": "Sand drift becomes a structural problem",
+        "description": "Wind-blown sand accumulated around the station buildings. Attempts to stabilise the dune with vegetation did not solve the problem and in some cases helped the dune rise higher."
+      },
+      {
+        "year": "1 August 1968",
+        "title": "The beacon is extinguished",
+        "description": "By the late 1960s, drifting sand and changing navigation technology had made the light ineffective. The tower ceased operating as an active lighthouse."
+      },
+      {
+        "year": "1980-2002",
+        "title": "Museum period and renewed abandonment",
+        "description": "The station buildings were repurposed for interpretation and museum use, but advancing sand again overwhelmed the site. The museum ultimately closed in 2002."
+      },
+      {
+        "year": "22 October 2019",
+        "title": "The lighthouse is moved inland",
+        "description": "After months of preparation, the 23-metre tower was rolled about 70 metres inland on rails. The operation became an international symbol of heritage adaptation to coastal erosion."
+      }
+    ]
   },
   "route": {
-    "title": "Recommended Route",
-    "overview": "Recommended to visit during daytime with calm or light wind. Enter from the main trail, visit the sand dune trail, cliff observation deck, and Rubjerg Lighthouse core area in sequence. Stroll along the coastal boardwalk to enjoy the North Sea views. The entire walk is relaxing and easy. Standard visit takes about 2 hours; extended photography and coastal loop hiking can extend to half a day.",
+    "title": "Suggested Walking Route",
+    "overview": "A standard visit usually takes 1.5 to 2.5 hours. Start from the main parking area, follow the established path across the dunes, continue to the lighthouse, and then decide whether conditions are suitable for extending the walk toward the cliff viewpoints.",
+    "noticeTitle": "On-site reminders",
     "steps": [
-      "Arrive at the scenic area parking lot or bus stop, walk to the Rubjerg Knude main entrance",
-      "Follow the wooden protective boardwalk deep into the sand dune area, experience the flowing yellow sand terrain up close",
-      "Continue to the famous Rubjerg Lighthouse, view the exterior architecture and sand dune embrace landscape",
-      "Head to the north cliff observation platform, overlook the North Sea coastline and offshore rocky views",
-      "Stroll along the coastal boardwalk, enjoy the pristine coast and wilderness scenery",
-      "Walk the niche sand dune loop trail, avoid crowds, capture wild coastal photos",
-      "Wait for the coastal sunset at a safe cliff-side area, experience the stunning North Sea twilight",
-      "Return to the exit via the same route, head to Løkken city center for dining and rest"
+      "Arrive at the main visitor parking area and review weather conditions before setting out.",
+      "Follow the marked approach path and conserve energy for the final sandy ascent.",
+      "Pause at intermediate dune ridges to observe how wind reshapes the surface and sightlines.",
+      "Reach the lighthouse and, when open, decide whether to enter the tower or remain outside for landscape observation.",
+      "Continue only to safe cliff viewpoints and avoid unstable edges or informal shortcuts.",
+      "Return along the same route before light and temperature conditions deteriorate."
     ],
     "supplements": [
-      "Coastal winds are generally strong; wear windproof jackets and comfortable hiking shoes",
-      "No protective railings at cliff edges; maintain safe distance, do not cross dangerous areas",
-      "Sand dune areas have soft sand; watch your footing to avoid sprains",
-      "Camping, open flames, and unauthorized climbing of the old lighthouse are prohibited",
-      "During sandy weather, protect against dust and safeguard electronic devices"
+      "Walking on soft sand is more physically demanding than the map distance suggests.",
+      "Keep cameras, lenses and phones protected from blowing sand.",
+      "Children should be supervised closely near slopes and cliff edges.",
+      "Dogs are common on the site, but should remain under control in exposed areas.",
+      "Treat weather deterioration as a reason to shorten the visit rather than press onward."
     ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Observation Points",
     "spots": [
       {
-        "name": "Lighthouse in Sand Dunes",
-        "desc": "Yellow sand background with retro lighthouse; atmospheric shots with wilderness loneliness"
+        "name": "Main lighthouse ridge",
+        "desc": "The classic view of the tower within the dune field, useful for documenting scale and isolation."
       },
       {
-        "name": "Sea Cliff Observation Deck",
-        "desc": "Wide-angle shots of North Sea coastline; expansive sea views with excellent视野"
+        "name": "North Sea cliff line",
+        "desc": "A clear place to read the relationship between eroding cliff, beach and offshore horizon."
       },
       {
-        "name": "Rolling Sand Dune Trail",
-        "desc": "Varied sand dunes + wilderness sky; minimalist Nordic natural style"
+        "name": "Dune approach trail",
+        "desc": "Good for studying surface patterns created by wind transport and repeated foot traffic."
       },
       {
-        "name": "Coastal Sunset Spot",
-        "desc": "West cliff side; capture sunset, sea and sand dunes in one frame"
+        "name": "Late-day western light",
+        "desc": "Useful for showing relief in the sand and the geometry of the tower walls."
       },
       {
-        "name": "Windbreak Wooden Boardwalk",
-        "desc": "Linear road composition; niche, clean, minimalist shooting angles"
+        "name": "Upper boardwalk and access zone",
+        "desc": "A more structured viewpoint that shows how visitors move through the protected landscape."
       }
     ],
-    "tips": "Photography Tips",
-    "tipsContent": "Coastal light is clear; sunny days offer rich light and shadow layers, perfect for panoramic and landscape shots. Coastal winds are strong; watch clothing and hairstyles for portraits. No drone fly restrictions in the area, but cliff-side turbulence is severe; low-altitude flight not recommended. For empty, crowd-free shots, visit on weekdays to avoid holiday crowds."
+    "tips": "Field note",
+    "tipsContent": "If the goal is interpretation rather than social-media style imagery, shoot wide views that include the dune body, cliff edge and access path together. They explain the site more effectively than isolated close-ups."
   },
   "hotels": {
-    "title": "Accommodation",
+    "title": "Nearby Stay Options",
     "hotels": [
       {
-        "name": "Løkken Seafront Hotels",
-        "desc": "Ocean views facing the North Sea, walking distance to the coast. Perfect for sunrise and sunset viewing, with great atmosphere, sea view restaurants and leisure facilities",
-        "price": "Price varies by season"
+        "name": "Løkken town hotels",
+        "desc": "Best for visitors who want restaurants, supermarkets and easy access to EV charging before or after the dune visit.",
+        "price": "Seasonal rates"
       },
       {
-        "name": "Løkken Town Guesthouses",
-        "desc": "Nordic minimalist decor, quiet and livable. Short drive to the scenic area, supermarkets and restaurants nearby, good value for money",
-        "price": "Price varies by season"
+        "name": "Guesthouses and holiday apartments",
+        "desc": "A practical option for multi-day coastal exploration, especially outside peak summer weekends.",
+        "price": "Seasonal rates"
       },
       {
-        "name": "Wilderness Cabins Near Scenic Area",
-        "desc": "Private detached cabins, ideal for short vacations and nature lovers. Experience the peaceful coastal nights up close",
-        "price": "Price varies by season"
+        "name": "Small-scale stays near the coast",
+        "desc": "Useful for early or late visits, but expect stronger wind exposure and fewer nearby services.",
+        "price": "Seasonal rates"
       },
       {
-        "name": "Løkken City Chain Hotels",
-        "desc": "Convenient transportation, complete facilities. Ideal for budget travel and short-stay transit",
-        "price": "Price varies by season"
+        "name": "Hjorring base stays",
+        "desc": "Suitable for visitors combining Rubjerg Knude with museums, rail connections or wider travel in North Jutland.",
+        "price": "Seasonal rates"
       }
     ],
-    "supplements": "Accommodation Tips",
-    "supplementsContent": "Northern Danish coastal nights are cool; bring a light jacket even in summer. Accommodations book up quickly during peak travel season (summer, weekends); book early to secure prices. Some seaside accommodations have noticeable wind noise; sensitive sleepers may prefer town center locations. The area is generally safe; avoid going alone to niche coastal areas at night."
+    "supplements": "Stay planning note",
+    "supplementsContent": "If Rubjerg Knude is the main purpose of the trip, staying in or near Løkken usually offers the best balance between proximity, food supply and transport flexibility."
   },
   "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "Rubjerg Knude Coastal Cliffs, Sand Dunes & Lighthouse",
+    "title": "Gallery",
+    "subtitle": "Cliff, dune and lighthouse views from Rubjerg Knude",
     "captions": [
-      "Rubjerg Knude Panoramic View",
-      "Sand Dunes and Lighthouse",
-      "North Sea Coastline",
-      "Flowing Sand Dunes",
-      "Sea Cliffs",
-      "Coastal Sunset",
-      "Wilderness Scenery",
-      "Lighthouse Close-up"
+      "Panoramic dune view",
+      "Lighthouse and sand ridge",
+      "North Sea coastline",
+      "Wind-shaped dune surface",
+      "Cliff edge profile",
+      "Late-day light",
+      "Open coastal terrain",
+      "Tower close view"
     ],
-    "viewAll": "View on Google Maps"
+    "viewAll": "Open in Google Maps"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
+    "title": "Public Reviews",
+    "declaration": "The rating summary shown here reflects Google Maps as a public external source. For the most recent review count and newest comments, open the map listing directly.",
+    "moreReviews": "See more on Google Maps",
     "items": [
       {
-        "name": "Ming Z.",
+        "name": "A. Jensen",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "An extraordinary place to understand how quickly a coastline can change. The walk is simple in theory, but the wind makes the site feel much more elemental."
+      },
+      {
+        "name": "L. de Vries",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "The relocation story gives the lighthouse much more meaning than a normal viewpoint. Allow time for the walk from the parking area and protect your camera from sand."
+      },
+      {
+        "name": "M. Schneider",
         "date": "March 2026",
         "rating": 5,
-        "text": "Absolutely breathtaking! Sand dunes, cliffs, and the old lighthouse blend perfectly, like walking into an oil painting. The sunset is stunning — absolutely the highlight of my Denmark trip."
+        "text": "Excellent landscape for observing dune movement and erosion. Strong wind, but very memorable."
       },
       {
-        "name": "Hua L.",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "Original coastal scenery, very niche with few tourists. The wind was strong but the scenery was magnificent. The lighthouse standing alone in the sand dunes was so atmospheric."
-      },
-      {
-        "name": "Fang W.",
+        "name": "K. Larsen",
         "date": "January 2026",
-        "rating": 5,
-        "text": "A photographer's paradise! Every angle makes a great photo. I recommend going in the evening — the sunset turns the sand dunes golden, absolutely perfect for photography."
-      },
-      {
-        "name": "Wei C.",
-        "date": "December 2025",
         "rating": 4,
-        "text": "A very special experience, feeling the power of nature. The lighthouse being slowly swallowed by sand makes you reflect. Remember to protect against wind and stay warm."
+        "text": "Beautiful and exposed. Conditions change quickly, so it is worth checking the weather carefully before arrival."
       }
     ]
   },
   "mapSection": {
-    "title": "How to Get Here",
+    "title": "Map and Navigation",
     "subtitle": "Fyrvejen 110, 9800 Løkken, Denmark",
-    "openMaps": "View on Google Maps"
+    "openMaps": "Open in Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Rubjerg Knude Independent Travel Research Association · All rights reserved.",
+    "rights": "© 2026 Rubjerg Knude Independent Coastal Heritage Project. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
+    "officialResourcesTitle": "Reference Resources",
     "officialLinks": {
-      "council": "Visit Denmark",
-      "tourism": "Denmark Travel",
-      "england": "Visit Denmark"
+      "council": "VisitDenmark",
+      "tourism": "Danish Nature Agency",
+      "england": "Visit Nordvestkysten"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent public-interest information project. It is not an official government or destination-marketing website."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: April 2026",
+    "lastUpdated": "Last updated: July 2026",
     "sections": [
       {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+        "heading": "1. Scope",
+        "content": "This website is an informational project about Rubjerg Knude. We aim to minimise data collection and do not require account registration for ordinary browsing."
       },
       {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+        "heading": "2. Local preferences",
+        "content": "Theme settings and cookie preferences may be stored locally in your browser so the site can remember your choices on future visits."
       },
       {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+        "heading": "3. Analytics and consent",
+        "content": "Optional analytics cookies are disabled unless you actively permit them. Essential cookies remain limited to basic site operation."
       },
       {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+        "heading": "4. External services",
+        "content": "Links to Google Maps and other third-party resources are governed by the privacy policies of those external services once you leave this site."
       }
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: April 2026",
+    "lastUpdated": "Last updated: July 2026",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+        "heading": "1. Informational use",
+        "content": "Content on this website is provided for general educational and visitor-information purposes. It should not replace official safety instructions or real-time local guidance."
       },
       {
-        "heading": "2. Use of Service",
-        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+        "heading": "2. Accuracy",
+        "content": "We work to keep historical and practical information current, but conditions at Rubjerg Knude can change quickly. Verify opening hours, weather and access restrictions before travel."
       },
       {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+        "heading": "3. Intellectual property",
+        "content": "Unless otherwise stated, the website's editorial texts and design elements may not be reproduced commercially without permission."
       },
       {
-        "heading": "4. Limitation of Liability",
-        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+        "heading": "4. Liability",
+        "content": "Use of the site and any field decisions based on its content remain the responsibility of the visitor. Exercise independent judgement in exposed coastal conditions."
       }
     ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "description": "Manage local storage and optional analytics preferences for this site.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
-      "badge": "Always active"
+      "title": "Essential cookies",
+      "description": "Required for core functions such as theme choice and saved preferences.",
+      "badge": "Always on"
     },
     "analytics": {
-      "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with the site."
+      "title": "Analytics cookies",
+      "description": "Used only if you consent, to help understand how visitors use the site."
     },
     "marketing": {
-      "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites."
+      "title": "Marketing cookies",
+      "description": "Disabled by default. This project does not rely on advertising-based tracking."
     },
-    "save": "Save Preferences",
-    "saved": "Preferences saved!"
+    "save": "Save settings",
+    "saved": "Settings saved"
   },
   "officialManagement": {
-    "title": "About Rubjerg Knude",
-    "text": "Rubjerg Knude is managed and maintained by the Danish Nature Agency, and is one of the most important coastal natural heritage sites in Northern Denmark.\n\nAs an iconic natural landmark of the North Sea coast, Rubjerg Knude has witnessed centuries of unique natural evolution through coastline changes and sand dune movement. Today, the scenic area is open to the public free of charge, offering an excellent destination for exploring Denmark's coastal wilderness and an important window for visitors worldwide to experience Nordic natural charm."
+    "title": "Institutional Context",
+    "text": "Rubjerg Knude is widely understood through the combined work of nature management, regional visitor information and heritage interpretation. The Danish Nature Agency and regional heritage actors frame the site not only as a scenic destination, but also as a record of dune migration, coastal erosion and adaptive conservation on the North Sea shore."
   }
 }

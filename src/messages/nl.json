@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "title": "Rubjerg Knude | Vuurtoren, wandelduin, parkeren en bezoekersgids",
+    "description": "Onafhankelijke bezoekersgids voor Rubjerg Knude aan de Deense Noordzeekust, met geschiedenis, de verplaatsing van de vuurtoren in 2019, parkeren, loopafstand, toiletten, toegankelijkheid en EV-laadpunten bij Løkken."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galerij",
+    "reviews": "Beoordelingen",
+    "map": "Kaart",
+    "backToHome": "Terug naar home"
+  },
+  "hero": {
+    "title": "Rubjerg Knude",
+    "subtitle": "Vuurtoren, wandelduin en eroderende klif aan de Noordzeekust van Noord-Denemarken",
+    "rating": "4.7",
+    "reviewCount": "8.489 beoordelingen",
+    "hours": "Het hele jaar te bezoeken",
+    "openMaps": "Openen in Google Maps"
+  },
+  "intro": {
+    "title": "Rubjerg Knude begrijpen",
+    "description": "Rubjerg Knude is geen gewoon uitkijkpunt, maar een open kustlandschap waar kusterosie, door wind verplaatst zand en erfgoedzorg tegelijk zichtbaar zijn. Het bekendste element is Rubjerg Knude Fyr, een vuurtoren waarvan de omgeving door het wandelduin voortdurend is herschreven.\n\nFijn zand wordt door sterke westenwinden van de klif opgenomen en landinwaarts getransporteerd, waar het nieuwe ruggen, hellingen en looplijnen vormt. Tegelijkertijd neemt de Noordzee jaar na jaar materiaal van de klifrand weg, waardoor de afstand tussen toren en zee kleiner werd.\n\nDe plek werkt daardoor bijna als een openluchtarchief van kustdynamiek. Bezoekers zien hier niet alleen een indrukwekkend landschap, maar ook menselijke aanpassing in een voortdurend veranderende omgeving.",
+    "visitGuide": {
+      "title": "Bezoekstips",
+      "items": [
+        "Kies bij voorkeur een dag met weinig tot matige wind; bij harde wind wordt stuivend zand snel hinderlijk.",
+        "Het buitenterrein is het hele jaar vrij toegankelijk; de toren volgt seizoensgebonden openingstijden.",
+        "Reserveer extra tijd voor het laatste stuk vanaf de parkeerplaats, want los zand vertraagt het lopen.",
+        "Winddichte kleding, stevige schoenen en bescherming voor camera of telefoon zijn sterk aan te raden."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Waarom deze plek belangrijk is",
+      "items": [
+        "Belangrijk voorbeeld van duinmigratie en kusterosie aan de Noordzee",
+        "Locatie van Rubjerg Knude Fyr, een van de bekendste bedreigde vuurtorens van Denemarken",
+        "Plaats waar natuurprocessen en erfgoedbescherming direct samen zichtbaar zijn",
+        "Populaire bestemming voor bezoekers uit Denemarken, Duitsland en Nederland"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Wetenschappelijke context",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Maritieme geschiedenis",
+        "content": "Rubjerg Knude Fyr werd eind 1900 in gebruik genomen als praktisch navigatiebaken aan de Noordzeekust. Het maakte deel uit van een groter technisch station met bijgebouwen en personeel."
+      },
+      {
+        "id": "geomorphology",
+        "title": "Systeem van het wandelduin",
+        "content": "Het duin van Rubjerg Knude is een klassiek voorbeeld van aeolisch zandtransport. Zand van de klif wordt opgenomen, verplaatst en opnieuw afgezet, waardoor ruggen, hellingen en zichtlijnen voortdurend veranderen."
+      },
+      {
+        "id": "keepers",
+        "title": "Werk van de vuurtorenwachters",
+        "content": "Het personeel werkte in een zeer blootgestelde kustzone. Zand moest voortdurend worden verwijderd, techniek onderhouden en de zichtbaarheid van het licht bewaakt. De geschiedenis van de plek is daarom ook een geschiedenis van zwaar dagelijks onderhoudswerk."
+      },
+      {
+        "id": "heritage",
+        "title": "Erfgoed en techniek",
+        "content": "Rubjerg Knude laat zien dat behoud aan een eroderende kust niet altijd betekent dat alles op de oorspronkelijke plek moet blijven staan. De verplaatsing van 2019 is een sterk voorbeeld van adaptief behoud."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basisinformatie",
+    "items": [
+      {
+        "label": "Officiële naam",
+        "value": "Rubjerg Knude Fyr / Rubjerg Knude"
+      },
+      {
+        "label": "Type locatie",
+        "value": "Vuurtoren, wandelduin, kustklif en beschermd natuurlandschap"
+      },
+      {
+        "label": "Land",
+        "value": "Denemarken"
+      },
+      {
+        "label": "Dichtstbijzijnde plaats",
+        "value": "Løkken, gemeente Hjørring"
+      },
+      {
+        "label": "Coördinaten",
+        "value": "57.4489, 9.7743"
+      },
+      {
+        "label": "Google Maps",
+        "value": "4,7 / 5 op basis van 8.489 beoordelingen"
+      },
+      {
+        "label": "Adres",
+        "value": "Fyrvejen 110, 9800 Løkken, Denmark"
+      }
+    ]
+  },
+  "hours": {
+    "title": "Openingstijden",
+    "outdoor": "Buitengebied",
+    "outdoorTime": "Het hele jaar toegankelijk en meestal de hele dag open",
+    "lighthouse": "Toreninterieur en expositieruimte",
+    "summer": "Zomerseizoen",
+    "summerTime": "Meestal 10:00-17:00 van mei tot september",
+    "winter": "Winterseizoen",
+    "winterTime": "Beperkte opening, vaak alleen in weekenden of op feestdagen",
+    "warning": "Waarschuwing voor weer en klifrand",
+    "warningTime": "Harde wind, stuivend zand en regen kunnen comfort en veiligheid snel verminderen. Blijf uit de buurt van de klifrand en respecteer tijdelijke afsluitingen.",
+    "tip": "Controleer bij een gerichte reis de actuele openingstijden nogmaals voor vertrek."
+  },
+  "tickets": {
+    "title": "Toegang",
+    "outdoor": "Duin, klif en wandelpaden",
+    "outdoorPrice": "Gratis toegang",
+    "lighthouse": "Binnen in de toren",
+    "adults": "Volwassenen",
+    "adultsPrice": "Seizoensgebonden betaalde toegang wanneer de toren open is",
+    "students": "Studenten / jongeren",
+    "studentsPrice": "Mogelijke korting afhankelijk van het actuele beleid",
+    "children": "Kinderen",
+    "childrenPrice": "Vaak gratis of met korting",
+    "card": "Ticketopmerking",
+    "cardPrice": "Prijzen en categorieën kunnen per seizoen veranderen. Informatie ter plaatse geldt als definitieve referentie."
+  },
+  "transport": {
+    "title": "Bereikbaarheid",
+    "airport": "Vanaf luchthaven Aalborg",
+    "airportDesc": "Reis verder per trein of bus richting Hjørring en Løkken en ga daarna verder met taxi, huurauto of lokaal vervoer. Openbaar vervoer is mogelijk, maar de laatste toegang is met de auto veel eenvoudiger.",
+    "selfDrive": "Met de auto",
+    "selfDriveDesc": "De meest praktische manier. De hoofdparkeerplaats ligt aan Fyrvejen 110; het laatste stuk naar de vuurtoren gaat te voet over grind en zand.",
+    "bus": "Regionale bus",
+    "busDesc": "Regionale bussen brengen bezoekers in de buurt van Løkken, maar de dienstregeling is beperkt en het laatste traject blijft blootgesteld aan wind en zand.",
+    "intercity": "Vanuit andere Deense steden",
+    "intercityDesc": "Langere reizen lopen meestal via Aalborg of Hjørring en gaan daarna verder richting de noordwestkust.",
+    "cycling": "Fietsen",
+    "cyclingDesc": "Ervaren fietsers kunnen via kustwegen en regionale routes naderen, maar moeten rekening houden met stevige tegenwind en weinig beschutting.",
+    "tips": "Aanbeveling",
+    "tipsDesc": "Voor een eerste bezoek is reizen met de auto meestal het duidelijkst en het makkelijkst voor parkeren, toiletten en bevoorrading."
+  },
+  "practicalInfo": {
+    "title": "Praktische bezoekersinformatie",
+    "intro": "Zoekopdrachten rond Rubjerg Knude gaan vaak over parkeren, loopafstand, toiletten, laadpunten en weersomstandigheden. Daarom bundelt dit onderdeel vooral die logistieke informatie.",
+    "cards": [
+      {
+        "title": "Parkeren en looproute",
+        "description": "Hoofdparkeerplaats: Fyrvejen 110, 9800 Løkken.\nReferentiecoördinaten: ongeveer 57.4479, 9.7790.\nVan parkeerplaats naar vuurtoren moet per richting ongeveer 1,2-1,5 km en circa 20-25 minuten worden gerekend.\nHet is geen vlak stedelijk pad; los zand maakt de route zwaarder dan de kaart suggereert."
+      },
+      {
+        "title": "Toiletten en toegankelijkheid",
+        "description": "Openbare toiletten bevinden zich meestal bij het hoofdontvangstgebied, maar beschikbaarheid en onderhoud kunnen per seizoen verschillen.\nRolstoelen, mobiliteitshulpmiddelen en de meeste kinderwagens zijn voor het laatste duingedeelte weinig geschikt.\nZacht zand, wisselende hellingen en harde wind maken het terrein slechts gedeeltelijk toegankelijk."
+      },
+      {
+        "title": "Bevoorrading, brandstof en EV-laden",
+        "description": "Het dichtstbijzijnde volledige servicepunt is Løkken, op ongeveer 10-15 minuten rijden.\nBoodschappen en eenvoudige proviand plan je het best rond het dorpscentrum.\nOpenbare EV-laadpunten in Løkken zijn onder meer te vinden aan Jyllandsgade 11-15 en Industrivej 6.\nReken niet op direct laden of tanken bij de duinparkeerplaats zelf."
+      },
+      {
+        "title": "Navigatie en weer",
+        "description": "Gebruik bij voorkeur Fyrvejen 110 als navigatiebestemming in plaats van de toren zelf.\nControleer vóór vertrek windkracht en neerslag; sterke westenwind kan actief stuivend zand veroorzaken.\nBezoeken rond zonsondergang blijven populair, maar de terugweg wordt daarna snel kouder en meer blootgesteld."
+      }
+    ],
+    "warningTitle": "Veiligheidsherinnering",
+    "warningText": "Rubjerg Knude is een open en blootgesteld kustmilieu, geen stedelijk beveiligd uitkijkplatform.\nBlijf weg van de klifrand, houd kinderen goed in de gaten en zet losse spullen vast bij harde wind."
+  },
+  "faq": {
+    "title": "FAQ – veelgestelde vragen",
+    "intro": "Deze FAQ volgt veelvoorkomende zoekintentie en bezoekersvragen, met nadruk op parkeren (parken), de verplaatsing van de vuurtoren in 2019 (Flytning / versetzt) en het wandelduin (Wanderdune). Voorzieningen en omstandigheden kunnen per seizoen verschillen; controleer weer en aanwijzingen ter plaatse.",
+    "sections": [
+      {
+        "id": "logistics",
+        "title": "Vervoer en voorzieningen",
+        "items": [
+          {
+            "question": "Is er parkeren bij Rubjerg Knude en is het betaald?",
+            "answer": "Ja. De hoofdparkeerplaats ligt doorgaans bij Fyrvejen 110 (gebruik dit als navigatiebestemming). Parkeren is meestal gratis, maar regels kunnen seizoensgebonden veranderen.\nVanaf de parkeerplaats naar de vuurtoren loop je door een open terrein met grind en zand. Reken op ongeveer 1,2–1,5 km enkele reis en circa 20–25 minuten, afhankelijk van wind en zandcondities. In drukke periodes kan het vol raken."
+          },
+          {
+            "question": "Kunnen rolstoelen of kinderwagens het duingebied bereiken?",
+            "answer": "In de meeste gevallen niet goed. Het laatste deel bestaat uit zacht zand en wisselende hellingen, wat rolstoelen, mobiliteitshulpmiddelen en gewone kinderwagens sterk beperkt.\nVoor baby’s is een draagzak vaak praktischer. Bij harde wind is inkorten van de route verstandig."
+          },
+          {
+            "question": "Zijn er toiletten, eten of prullenbakken op de duinen?",
+            "answer": "Reken niet op stadsparkachtige voorzieningen langs het duinpad of bij de vuurtoren zelf.\nOpenbare toiletten kunnen in sommige seizoenen beschikbaar zijn bij de hoofdontvangstzone, maar dit is niet gegarandeerd.\nVoor betrouwbare bevoorrading, maaltijden en EV-laden plan je het best rond plaatsen als Løkken (zuid) of Lønstrup (noord). Neem water mee en neem al je afval weer mee terug."
+          }
+        ]
+      },
+      {
+        "id": "science",
+        "title": "Geschiedenis en geowetenschap",
+        "items": [
+          {
+            "question": "Waarom werd de vuurtoren in 2019 verplaatst (Flytning) en hoe gebeurde dat?",
+            "answer": "Door kusterosie van de Noordzee werd de afstand tussen de toren en de klifrand steeds kleiner, met een langetermijnrisico dat de toren in zee zou verdwijnen.\nIn 2019 werd de toren voorbereid en op een verplaatsbaar draag- en railsysteem gezet. Vervolgens werd hij ongeveer 70 meter landinwaarts gerold. De ingreep wordt vaak Flytning genoemd (Deens); in Duitstalige contexten komt ook versetzt voor."
+          },
+          {
+            "question": "Wat is een Wanderdune (wandelduin)?",
+            "answer": "Een wandelduin is een duinlichaam dat migreert door aanhoudend windgedreven zandtransport. Ruggen, hellingen en paden veranderen, waardoor dezelfde route er per seizoen anders kan uitzien.\nBij Rubjerg Knude beïnvloedde duinmigratie historisch ook de gebouwen van het stationsterrein."
+          },
+          {
+            "question": "Is de vuurtoren nu veilig? Kan hij alsnog in zee vallen?",
+            "answer": "De verplaatsing heeft het risico op korte termijn sterk verminderd door opnieuw een bufferafstand tot de eroderende klif te creëren. Erosie en zandtransport blijven echter actief.\nSchattingen over \"hoeveel decennia\" hangen af van toekomstige erosiesnelheden en beheerkeuzes; lokale updates en informatie ter plaatse zijn de beste referentie."
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "title": "Bezoekplanning en tickets",
+        "items": [
+          {
+            "question": "Heb ik een ticket nodig om Rubjerg Knude te bezoeken?",
+            "answer": "Het buitenterrein met duin en klif is doorgaans gratis toegankelijk en het hele jaar te bezoeken.\nToegang tot het interieur van de toren is seizoens- en weerafhankelijk; wanneer de toren open is kan een kleine entree gelden. Informatie ter plaatse is leidend."
+          },
+          {
+            "question": "Hoe lang duurt een bezoek meestal?",
+            "answer": "Voor een standaardbezoek (wandeling vanaf de parkeerplaats, buitenobservatie van de toren, korte stop) is 1,5–2,5 uur realistisch.\nVoor langere wandelingen langs de kust of extra observatiepunten is een halve dag vaak beter, met reserves voor wind en terugweg."
+          },
+          {
+            "question": "Is een bezoek aan te raden bij slecht weer?",
+            "answer": "Vermijd extreme wind, zware regen of zeer slechte zichtbaarheid.\nKlifranden zijn meestal niet continu afgezet en stuivend zand beïnvloedt zicht en stabiliteit. Controleer de lokale voorspelling en volg tijdelijke afsluitingen."
+          }
+        ]
+      },
+      {
+        "id": "around",
+        "title": "In de omgeving (Noord-Jutland)",
+        "items": [
+          {
+            "question": "Wat is er in de buurt te combineren met Rubjerg Knude?",
+            "answer": "Rubjerg Knude ligt in een kustcorridor waar nabije plaatsen een dagtrip goed kunnen structureren.\nOngeveer 15 minuten noordwaarts ligt Lønstrup, bekend om kunst- en ambachtswerkplaatsen; ongeveer 10 minuten zuidwaarts ligt Løkken met bredere voorzieningen en strand.\nVoor een meer inhoudelijke route geven deze stops een nuttig contrast tussen kustprocessen en infrastructuur."
+          }
+        ]
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Historische tijdlijn",
+    "intro": "Deze tijdlijn verbindt de geschiedenis van de vuurtoren, de groei van het wandelduin en de veelbesproken verplaatsing van 2019.",
+    "events": [
+      {
+        "year": "1899-1900",
+        "title": "Bouw en eerste licht",
+        "description": "De bouw begon in 1899 en het eerste licht brandde op 27 december 1900. De toren stond toen ongeveer 200 meter van de kustlijn op een klif van circa 60 meter hoog."
+      },
+      {
+        "year": "1910s-1950s",
+        "title": "Zandverstuiving wordt een structureel probleem",
+        "description": "Door de wind verplaatst zand hoopte zich steeds verder op rond de gebouwen. Pogingen om het duin met beplanting te stabiliseren losten het probleem niet duurzaam op."
+      },
+      {
+        "year": "1 augustus 1968",
+        "title": "Het baken dooft",
+        "description": "Door stuivend zand en veranderende navigatietechniek verloor de vuurtoren zijn functie; het licht werd definitief gedoofd."
+      },
+      {
+        "year": "1980-2002",
+        "title": "Museumfase en nieuwe opgave",
+        "description": "De bijgebouwen kregen een museale en educatieve functie, maar werden opnieuw door zand bedreigd. Het museum sloot uiteindelijk in 2002."
+      },
+      {
+        "year": "22 oktober 2019",
+        "title": "De toren verhuist 70 meter landinwaarts",
+        "description": "Na maanden voorbereiding werd de 23 meter hoge toren ongeveer 70 meter over rails verplaatst. De ingreep werd internationaal gezien als voorbeeld van adaptief erfgoedbeheer."
+      }
+    ]
+  },
+  "route": {
+    "title": "Aanbevolen route",
+    "overview": "Een normaal bezoek duurt vaak 1,5 tot 2,5 uur. Start bij de hoofdparkeerplaats, volg het gemarkeerde pad door het duin naar de vuurtoren en beslis daarna op basis van weer en energie of de klifuitzichten erbij passen.",
+    "noticeTitle": "Ter plaatse",
+    "steps": [
+      "Kom aan bij de hoofdparkeerplaats en beoordeel eerst wind, temperatuur en licht voor de terugweg.",
+      "Volg de gemarkeerde route en spaar energie voor de laatste klim door los zand.",
+      "Pauzeer eventueel op tussengelegen duinruggen om het oppervlak en de windwerking te observeren.",
+      "Bereik de vuurtoren en beslis, indien open, of een bezoek aan het interieur zinvol is.",
+      "Ga alleen verder naar klifuitzichten als de omstandigheden veilig zijn en vermijd informele shortcuts.",
+      "Keer via dezelfde route terug voordat kou en schemering toenemen."
+    ],
+    "supplements": [
+      "Los zand maakt de wandeling zwaarder dan de kaartafstand doet vermoeden.",
+      "Camera's, lenzen en telefoons moeten tegen zand worden beschermd.",
+      "Houd kinderen steeds onder toezicht bij hellingen en klifranden.",
+      "Honden komen vaak voor op de locatie, maar moeten in blootgestelde zones goed onder controle blijven.",
+      "Bij verslechterend weer is inkorten van de route meestal de verstandigste keuze."
+    ]
+  },
+  "photoSpots": {
+    "title": "Observatiepunten",
+    "spots": [
+      {
+        "name": "Hoofdduinrug bij de toren",
+        "desc": "Klassieke plek om de schaalverhouding tussen toren en duin te begrijpen."
+      },
+      {
+        "name": "Kliflijn aan de Noordzee",
+        "desc": "Geschikt om klif, strand en horizon samen te lezen."
+      },
+      {
+        "name": "Toegangspad door het duin",
+        "desc": "Laat windribbels, voetsporen en padverloop goed zien."
+      },
+      {
+        "name": "Westelijk avondlicht",
+        "desc": "Laag licht benadrukt reliëf in het zand en de geometrie van de toren."
+      },
+      {
+        "name": "Bovenste toegangszone",
+        "desc": "Toont hoe bezoekers zich door het beschermde landschap bewegen."
+      }
+    ],
+    "tips": "Documentatienoot",
+    "tipsContent": "Voor inhoudelijke documentatie zijn brede beelden met duinlichaam, klifrand en toegangspad vaak informatiever dan geïsoleerde close-ups van de toren."
+  },
+  "hotels": {
+    "title": "Overnachten in de omgeving",
+    "hotels": [
+      {
+        "name": "Hotels in Løkken",
+        "desc": "Praktisch voor bezoekers die restaurants, supermarkt en laadpunten dichtbij willen hebben.",
+        "price": "Seizoensprijzen"
+      },
+      {
+        "name": "Appartementen en pensions",
+        "desc": "Handig voor meerdaagse verkenningen van de kust, vooral buiten het hoogseizoen.",
+        "price": "Seizoensprijzen"
+      },
+      {
+        "name": "Kleinschalig verblijf aan de kust",
+        "desc": "Geschikt voor vroege of late bezoeken, maar vaak meer blootgesteld aan wind en met minder voorzieningen.",
+        "price": "Seizoensprijzen"
+      },
+      {
+        "name": "Basis in Hjørring",
+        "desc": "Passend wanneer Rubjerg Knude wordt gecombineerd met musea, treinverbindingen of andere bestemmingen in Noord-Jutland.",
+        "price": "Seizoensprijzen"
+      }
+    ],
+    "supplements": "Planningsnotitie",
+    "supplementsContent": "Als Rubjerg Knude het hoofddoel van de reis is, biedt verblijf in of nabij Løkken meestal de beste balans tussen nabijheid, bevoorrading en flexibiliteit."
+  },
+  "gallery": {
+    "title": "Galerij",
+    "subtitle": "Klif, duin en vuurtoren van Rubjerg Knude",
+    "captions": [
+      "Panorama van het duin",
+      "Vuurtoren en zandrug",
+      "Noordzeekust",
+      "Door wind gevormd zandoppervlak",
+      "Profiel van de klif",
+      "Avondlicht",
+      "Open kustterrein",
+      "Close-up van de toren"
+    ],
+    "viewAll": "Openen in Google Maps"
+  },
+  "reviews": {
+    "title": "Openbare beoordelingen",
+    "declaration": "Het overzicht hier is gebaseerd op Google Maps als openbare externe bron. Voor de meest recente aantallen en nieuwe reacties is het kaartitem zelf de beste referentie.",
+    "moreReviews": "Meer bekijken in Google Maps",
+    "items": [
+      {
+        "name": "A. Jensen",
+        "date": "mei 2026",
+        "rating": 5,
+        "text": "Een uitzonderlijke plek om te begrijpen hoe snel een kust kan veranderen. De route lijkt eenvoudig, maar de wind maakt alles veel elementairder."
+      },
+      {
+        "name": "L. de Vries",
+        "date": "april 2026",
+        "rating": 5,
+        "text": "Met kennis van de verplaatsing krijgt de vuurtoren veel meer betekenis dan een gewoon uitzichtpunt. Trek genoeg tijd uit voor de wandeling vanaf de parkeerplaats."
+      },
+      {
+        "name": "M. Schneider",
+        "date": "maart 2026",
+        "rating": 5,
+        "text": "Uitstekend landschap om zowel duinmigratie als erosie te observeren. Erg winderig, maar zeer memorabel."
+      },
+      {
+        "name": "K. Larsen",
+        "date": "januari 2026",
+        "rating": 4,
+        "text": "Mooi en tegelijk erg blootgesteld. Het weer verandert snel, dus controleer de voorspelling goed voor vertrek."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Kaart en navigatie",
+    "subtitle": "Fyrvejen 110, 9800 Løkken, Denmark",
+    "openMaps": "Openen in Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Onafhankelijk Kusterfgoedproject Rubjerg Knude. Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "cookies": "Cookie-instellingen",
+    "officialResourcesTitle": "Referentiebronnen",
+    "officialLinks": {
+      "council": "VisitDenmark",
+      "tourism": "Deense natuurautoriteit",
+      "england": "Visit Nordvestkysten"
+    },
+    "disclaimer": "Deze website is een onafhankelijk informatieproject van publiek belang en geen officiële overheids- of marketingwebsite."
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt: juli 2026",
+    "sections": [
+      {
+        "heading": "1. Reikwijdte",
+        "content": "Deze website is een informatieproject over Rubjerg Knude. We streven naar minimale gegevensverzameling; voor normaal lezen is geen account nodig."
+      },
+      {
+        "heading": "2. Lokale voorkeuren",
+        "content": "Themakeuze en cookievoorkeuren kunnen lokaal in de browser worden opgeslagen zodat de site deze bij een volgend bezoek kan onthouden."
+      },
+      {
+        "heading": "3. Analyse en toestemming",
+        "content": "Optionele analysecookies blijven uitgeschakeld totdat u actief toestemming geeft. Noodzakelijke cookies blijven beperkt tot de basiswerking van de site."
+      },
+      {
+        "heading": "4. Externe diensten",
+        "content": "Wanneer u via links naar Google Maps of andere derden deze site verlaat, gelden de privacyregels van die externe dienst."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Gebruiksvoorwaarden",
+    "lastUpdated": "Laatst bijgewerkt: juli 2026",
+    "sections": [
+      {
+        "heading": "1. Informatief gebruik",
+        "content": "De inhoud van deze site is bedoeld voor algemene educatieve en praktische bezoekersinformatie. Zij vervangt geen officiële veiligheidsinstructies of lokale realtime informatie."
+      },
+      {
+        "heading": "2. Nauwkeurigheid",
+        "content": "Wij actualiseren historische en praktische informatie zo goed mogelijk, maar weer, opening en toegang kunnen snel veranderen. Controleer dit opnieuw voor vertrek."
+      },
+      {
+        "heading": "3. Intellectueel eigendom",
+        "content": "Tenzij anders vermeld mogen redactionele teksten en ontwerpelementen van deze website niet commercieel worden gekopieerd zonder toestemming."
+      },
+      {
+        "heading": "4. Verantwoordelijkheid",
+        "content": "Beslissingen in het veld blijven de verantwoordelijkheid van de bezoeker. Gebruik eigen oordeel in blootgestelde kustomstandigheden."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-instellingen",
+    "description": "Beheer lokale opslag en optionele analysevoorkeuren voor deze website.",
+    "essential": {
+      "title": "Noodzakelijke cookies",
+      "description": "Nodig voor kernfuncties zoals themakeuze en opgeslagen voorkeuren.",
+      "badge": "Altijd actief"
+    },
+    "analytics": {
+      "title": "Analysecookies",
+      "description": "Worden alleen gebruikt met uw toestemming om het gebruik van de site beter te begrijpen."
+    },
+    "marketing": {
+      "title": "Marketingcookies",
+      "description": "Standaard uitgeschakeld. Dit project steunt niet op advertentiegerichte tracking."
+    },
+    "save": "Instellingen opslaan",
+    "saved": "Instellingen opgeslagen"
+  },
+  "officialManagement": {
+    "title": "Institutionele context",
+    "text": "Rubjerg Knude wordt vandaag niet alleen gezien als een indrukwekkend landschap, maar ook als een voorbeeld van hoe natuurbeheer, regionale publieksinformatie en erfgoedinterpretatie samenkomen. De locatie vertelt tegelijk over zandverstuiving, kusterosie en adaptief behoud aan de Noordzee."
+  }
+}

@@ -1,12 +1,17 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useMessages, useTranslations } from 'next-intl';
 
 export default function RouteSection() {
   const t = useTranslations('route');
-
-  const steps = Array.from({ length: 8 }, (_, i) => i + 1);
-  const supplements = Array.from({ length: 5 }, (_, i) => i);
+  const messages = useMessages() as {
+    route?: {
+      steps?: string[];
+      supplements?: string[];
+    };
+  };
+  const steps = messages.route?.steps ?? [];
+  const supplements = messages.route?.supplements ?? [];
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -31,11 +36,11 @@ export default function RouteSection() {
           />
 
           <div className="space-y-6">
-            {steps.map((step) => (
+            {steps.map((description, index) => (
               <RouteStep
-                key={step}
-                step={step}
-                description={t(`steps.${step - 1}` as any)}
+                key={`${index + 1}-${description}`}
+                step={index + 1}
+                description={description}
               />
             ))}
           </div>
@@ -47,13 +52,13 @@ export default function RouteSection() {
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
         >
           <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
-            游览须知
+            {t('noticeTitle')}
           </h3>
           <ul className="space-y-3">
-            {supplements.map((i) => (
-              <li key={i} className="flex items-start gap-3">
+            {supplements.map((item, index) => (
+              <li key={`${index}-${item}`} className="flex items-start gap-3">
                 <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
-                <span style={{ color: 'var(--text-secondary)' }}>{t(`supplements.${i}` as any)}</span>
+                <span style={{ color: 'var(--text-secondary)' }}>{item}</span>
               </li>
             ))}
           </ul>

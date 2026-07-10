@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "title": "Rubjerg Knude | Leuchtturm, Wanderdüne, Parken und Besucherguide",
+    "description": "Unabhängiger Besucherführer zu Rubjerg Knude an der dänischen Nordseeküste mit Geschichte, Flytning des Leuchtturms 2019, Parken, Gehzeiten, Toiletten, Barrierefreiheit und EV-Ladestationen bei Løkken."
+  },
+  "header": {
+    "home": "Start",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "hero": {
+    "title": "Rubjerg Knude",
+    "subtitle": "Leuchtturm, Wanderdüne und Erosionskliff an der Nordseeküste Norddänemarks",
+    "rating": "4.7",
+    "reviewCount": "8.489 Bewertungen",
+    "hours": "Ganzjährig zugänglich",
+    "openMaps": "In Google Maps öffnen"
+  },
+  "intro": {
+    "title": "Rubjerg Knude verstehen",
+    "description": "Rubjerg Knude ist kein gewöhnlicher Aussichtspunkt, sondern eine offen lesbare Küstenlandschaft, in der Küstenerosion, äolische Formung und Denkmalpflege gleichzeitig sichtbar werden. Das bekannteste Zeichen dieses Prozesses ist Rubjerg Knude Fyr, der vom Vorrücken der Wanderdüne über Jahrzehnte hinweg immer wieder neu gerahmt wurde.\n\nFeiner Sand wird von der Kliffkante durch starke Westwinde aufgenommen, landeinwärts transportiert und zu neuen Rücken und Hängen umgelagert. Parallel dazu trägt die Nordsee Jahr für Jahr Material vom Küstenabbruch ab und verkürzt damit den Abstand zwischen Turm und Meer.\n\nDer Ort wirkt heute wie ein Freiluftarchiv der Küstendynamik. Besucher sehen hier nicht nur eine eindrucksvolle Landschaft, sondern auch die Spuren technischer Anpassung und historischer Nutzung in einem instabilen Naturraum.",
+    "visitGuide": {
+      "title": "Hinweise für den Besuch",
+      "items": [
+        "Wenn möglich ruhige oder mäßig windige Tage wählen; bei starkem Wind wird Sandverwehung schnell belastend.",
+        "Der Außenbereich ist ganzjährig frei zugänglich; der Turm folgt saisonalen Öffnungszeiten.",
+        "Für den letzten Abschnitt vom Parkplatz zum Leuchtturm zusätzliche Zeit einplanen, da weicher Sand das Gehen verlangsamt.",
+        "Winddichte Kleidung, feste Schuhe und Schutz für Kamera oder Telefon sind sehr zu empfehlen."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Warum der Ort wichtig ist",
+      "items": [
+        "Bedeutendes Beispiel für Dünenwanderung und Küstenerosion an der Nordsee",
+        "Standort von Rubjerg Knude Fyr, einem der bekanntesten gefährdeten Leuchttürme Dänemarks",
+        "Ort, an dem Naturprozesse und Kulturerbeschutz direkt zusammen sichtbar werden",
+        "Beliebtes Ziel für Besucher aus Dänemark, Deutschland und den Niederlanden"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Fachlicher Überblick",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Maritime Geschichte",
+        "content": "Rubjerg Knude Fyr wurde Ende 1900 als praktisches Seezeichen in Betrieb genommen. Der Komplex war auf Navigation ausgerichtet und gehörte zu einer größeren technischen Station mit Nebengebäuden und Personalbereichen."
+      },
+      {
+        "id": "geomorphology",
+        "title": "System der Wanderdüne",
+        "content": "Die Düne von Rubjerg Knude ist ein klassisches Beispiel äolischer Umlagerung. Sand vom Kliff wird aufgenommen, weitertransportiert und wieder abgelagert. Dadurch verändern sich Rücken, Hangformen und sogar Sichtachsen fortlaufend."
+      },
+      {
+        "id": "keepers",
+        "title": "Arbeitswelt der Leuchtturmwärter",
+        "content": "Die Besatzung arbeitete in einem extrem exponierten Küstenraum. Sand musste ständig entfernt, Technik gewartet und die Sichtbarkeit des Lichts überwacht werden. Die Geschichte des Ortes erzählt daher auch von harter alltäglicher Küstenarbeit."
+      },
+      {
+        "id": "heritage",
+        "title": "Denkmalschutz und Ingenieurleistung",
+        "content": "Rubjerg Knude zeigt, dass Erhalt an einer erodierenden Küste nicht immer Stillstand bedeutet. Die Versetzung des Turms 2019 war ein Beispiel dafür, wie adaptive Erhaltung langfristig sinnvoller sein kann als ein Festhalten am ursprünglichen Standort."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Grundinformationen",
+    "items": [
+      {
+        "label": "Offizieller Name",
+        "value": "Rubjerg Knude Fyr / Rubjerg Knude"
+      },
+      {
+        "label": "Ortstyp",
+        "value": "Leuchtturm, Wanderdüne, Küstenkliff und geschützte Naturfläche"
+      },
+      {
+        "label": "Land",
+        "value": "Dänemark"
+      },
+      {
+        "label": "Nächster Ort",
+        "value": "Løkken, Kommune Hjørring"
+      },
+      {
+        "label": "Koordinaten",
+        "value": "57.4489, 9.7743"
+      },
+      {
+        "label": "Google Maps",
+        "value": "4,7 / 5 aus 8.489 Bewertungen"
+      },
+      {
+        "label": "Adresse",
+        "value": "Fyrvejen 110, 9800 Løkken, Denmark"
+      }
+    ]
+  },
+  "hours": {
+    "title": "Öffnungszeiten",
+    "outdoor": "Außenbereich",
+    "outdoorTime": "Ganzjährig zugänglich, in der Regel ganztägig",
+    "lighthouse": "Turminneres und Ausstellungsbereich",
+    "summer": "Sommersaison",
+    "summerTime": "Meist 10:00-17:00 von Mai bis September",
+    "winter": "Wintersaison",
+    "winterTime": "Eingeschränkte Öffnung, oft nur an Wochenenden oder Feiertagen",
+    "warning": "Wetter- und Kliffhinweis",
+    "warningTime": "Starker Wind, fliegender Sand und Regen können Komfort und Sicherheit deutlich mindern. Abstand zur Kliffkante halten und temporäre Sperrungen beachten.",
+    "tip": "Vor einer gezielten Anreise aktuelle Öffnungszeiten möglichst noch einmal prüfen."
+  },
+  "tickets": {
+    "title": "Eintritt",
+    "outdoor": "Düne, Kliff und Wege",
+    "outdoorPrice": "Freier Zugang",
+    "lighthouse": "Turminneres",
+    "adults": "Erwachsene",
+    "adultsPrice": "Bei Öffnung des Turms meist saisonal kostenpflichtig",
+    "students": "Studierende / Jugendliche",
+    "studentsPrice": "Je nach Betreiberregelung ermäßigt",
+    "children": "Kinder",
+    "childrenPrice": "Häufig frei oder ermäßigt",
+    "card": "Ticket-Hinweis",
+    "cardPrice": "Preise und Kategorien können sich saisonal ändern; maßgeblich sind die Angaben vor Ort."
+  },
+  "transport": {
+    "title": "Anreise",
+    "airport": "Ab Aalborg Airport",
+    "airportDesc": "Weiterreise über Bahn oder Bus in Richtung Hjørring und Løkken, anschließend per Taxi, Mietwagen oder lokalem Anschluss. Öffentlicher Verkehr ist möglich, aber das letzte Stück ist mit Auto deutlich einfacher.",
+    "selfDrive": "Mit dem Auto",
+    "selfDriveDesc": "Die praktischste Anreiseform. Der Hauptparkplatz liegt an der Fyrvejen 110; der letzte Abschnitt zum Leuchtturm erfolgt zu Fuß über Kies und Sand.",
+    "bus": "Regionalbus",
+    "busDesc": "Regionalbusse bringen Besucher in die Nähe von Løkken, aber die Takte sind begrenzt und der finale Zugang bleibt wind- und sandexponiert.",
+    "intercity": "Aus anderen dänischen Städten",
+    "intercityDesc": "Längere Fahrten verlaufen meist über Aalborg oder Hjørring und anschließend weiter zur Nordwestküste.",
+    "cycling": "Mit dem Fahrrad",
+    "cyclingDesc": "Geübte Radfahrer können sich über Küstenstraßen und regionale Routen nähern, sollten aber starken Gegenwind einplanen.",
+    "tips": "Empfehlung",
+    "tipsDesc": "Für Erstbesucher ist die Selbstanreise mit dem Auto am sinnvollsten, weil Parken, Toiletten und Versorgung so am einfachsten planbar sind."
+  },
+  "practicalInfo": {
+    "title": "Praktische Besucherinfos",
+    "intro": "Bei Suchanfragen zu Rubjerg Knude stehen Parken, Gehstrecke, Toiletten, Barrierefreiheit, Laden und Wetter meist im Mittelpunkt. Die folgenden Hinweise beantworten genau diese Fragen.",
+    "cards": [
+      {
+        "title": "Parken und Fußweg",
+        "description": "Hauptparkplatz: Fyrvejen 110, 9800 Løkken.\nOrientierungskoordinaten: ungefähr 57.4479, 9.7790.\nVom Parkplatz bis zum Leuchtturm sollte man pro Richtung rund 1,2-1,5 km und etwa 20-25 Minuten einplanen.\nDer Untergrund ist nicht eben, sondern teilweise sandig und daher langsamer als die reine Distanz vermuten lässt."
+      },
+      {
+        "title": "Toiletten und Barrierefreiheit",
+        "description": "Öffentliche Toiletten befinden sich in der Regel im Bereich der Hauptankunft, ihre Verfügbarkeit kann saisonal schwanken.\nRollstühle, Mobilitätshilfen und die meisten Kinderwagen sind für den letzten Dünenabschnitt nur eingeschränkt geeignet.\nWeicher Sand, ungleichmäßige Neigung und starker Wind machen das Gelände nur teilweise barrierearm."
+      },
+      {
+        "title": "Versorgung, Tanken und EV-Laden",
+        "description": "Der nächste vollständige Versorgungsort ist Løkken, etwa 10-15 Minuten mit dem Auto entfernt.\nEinkäufe und einfache Verpflegung lassen sich am besten im Ortszentrum organisieren.\nÖffentliche EV-Ladestationen finden sich in Løkken unter anderem an der Jyllandsgade 11-15 sowie an der Industrivej 6.\nDirekt am Dünenparkplatz sollte man weder mit Tanken noch mit Laden rechnen."
+      },
+      {
+        "title": "Navigation und Wetter",
+        "description": "Für die Anfahrt besser Fyrvejen 110 als Ziel setzen und nicht den Turm selbst.\nVor der Fahrt Windgeschwindigkeit und Niederschlag prüfen; starke Westwinde können aktive Sandverwehung auslösen.\nBesuche zum Sonnenuntergang sind beliebt, aber der Rückweg wird danach sehr schnell kälter und ungeschützter."
+      }
+    ],
+    "warningTitle": "Sicherheitshinweis",
+    "warningText": "Rubjerg Knude ist ein exponierter Küstenraum und keine urban gesicherte Aussichtsplattform.\nZur Kliffkante Abstand halten, Kinder eng beaufsichtigen und lose Kleidung oder Geräte bei Wind gut sichern."
+  },
+  "faq": {
+    "title": "FAQ – häufige Fragen",
+    "intro": "Diese FAQ orientiert sich an typischen Suchanfragen und häufigen Besucherfragen, insbesondere zu Parken (parken), zur Versetzung des Leuchtturms 2019 (Flytning / versetzt) und zur Wanderdüne (Wanderdüne). Bedingungen und Infrastruktur können saisonal variieren; vor der Anreise Wetter und Hinweise vor Ort prüfen.",
+    "sections": [
+      {
+        "id": "logistics",
+        "title": "Anreise und Infrastruktur",
+        "items": [
+          {
+            "question": "Gibt es Parken (parken) am Rubjerg Knude? Ist es kostenpflichtig?",
+            "answer": "Ja. Der Hauptparkplatz liegt in der Regel bei Fyrvejen 110 (am besten so in die Navigation eingeben). Parken ist meist kostenlos, Regeln können sich jedoch saisonal ändern.\nVom Parkplatz bis zum Leuchtturm ist ein windoffener Fußweg über Kies und Sand einzuplanen: ungefähr 1,2–1,5 km pro Richtung und etwa 20–25 Minuten – je nach Wind und Sanddrift. In der Hauptsaison können Plätze knapp werden."
+          },
+          {
+            "question": "Ist der Dünenweg mit Rollstuhl oder Kinderwagen möglich?",
+            "answer": "Meist nicht sinnvoll. Der letzte Abschnitt besteht aus weichem Sand und ungleichmäßigen Hängen, was Rollstühle, Mobilitätshilfen und gewöhnliche Kinderwagen stark einschränkt.\nFür Kleinkinder ist eine Tragehilfe oft realistischer. Bei starkem Wind besser kürzer planen."
+          },
+          {
+            "question": "Gibt es Toiletten, Gastronomie oder Abfallbehälter an der Düne?",
+            "answer": "Am Dünenweg und direkt am Leuchtturm sollte man keine durchgehende Versorgung wie in einem Stadtpark erwarten.\nToiletten können je nach Saison im Bereich der Hauptankunft verfügbar sein, sind aber nicht garantiert.\nFür verlässliche Verpflegung, Einkauf und EV-Laden (Ladestationen) bieten sich Orte wie Løkken (südlich) oder Lønstrup (nördlich) an. Wasser mitnehmen und Abfall wieder mitnehmen."
+          }
+        ]
+      },
+      {
+        "id": "science",
+        "title": "Geschichte und Geologie",
+        "items": [
+          {
+            "question": "Warum wurde der Leuchtturm 2019 versetzt (Flytning) und wie lief das ab?",
+            "answer": "Die Nordsee erodiert die Kliffkante kontinuierlich, wodurch der Abstand zwischen Turm und Abbruchkante über Jahrzehnte schrumpfte.\n2019 wurde der Turm im Rahmen der Flytning (dän. Begriff; im Deutschen häufig als versetzt beschrieben) vorbereitet, auf ein bewegliches Tragsystem gesetzt und auf Schienen etwa 70 Meter landeinwärts gerollt, um die Gefährdung zu reduzieren und die Erhaltungszeit zu verlängern."
+          },
+          {
+            "question": "Was ist eine Wanderdüne (Wanderdüne)?",
+            "answer": "Eine Wanderdüne ist ein Dünenkörper, der durch anhaltenden Wind-Sand-Transport wandert. Rückenlinien, Hänge und Wege verändern sich, sodass der Zugang je nach Saison deutlich anders wirken kann.\nBei Rubjerg Knude hat die Dünenwanderung historisch auch Gebäude des Stationsareals beeinflusst."
+          },
+          {
+            "question": "Ist der Leuchtturm jetzt dauerhaft sicher?",
+            "answer": "Die Versetzung hat das kurzfristige Risiko deutlich reduziert, weil wieder eine Pufferdistanz zur erodierenden Küste geschaffen wurde. Dennoch bleiben Erosion und Sandtransport aktive Prozesse.\nAussagen wie „noch 30–40 Jahre“ hängen von zukünftigen Erosionsraten und Managemententscheidungen ab; lokale Behördeninformationen und Hinweise vor Ort sind die verlässlichste Referenz."
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "title": "Besuchsplanung und Tickets",
+        "items": [
+          {
+            "question": "Brauche ich ein Ticket für Rubjerg Knude?",
+            "answer": "Der Außenbereich (Düne, Kliff, Wege) ist in der Regel frei zugänglich und ganzjährig offen.\nDer Zugang zum Turminneren ist saison- und wetterabhängig; bei Öffnung kann ein kleiner Eintritt erhoben werden. Maßgeblich sind die Angaben vor Ort."
+          },
+          {
+            "question": "Wie viel Zeit sollte man einplanen?",
+            "answer": "Für einen Standardbesuch (Fußweg ab Parkplatz, Außenbeobachtung des Turms, kurze Pausen) sind 1,5–2,5 Stunden realistisch.\nFür längere Küstenwege oder zusätzliche Aussichtspunkte besser einen halben Tag einplanen und Reserven für Wind und Rückweg lassen."
+          },
+          {
+            "question": "Lohnt sich der Besuch bei schlechtem Wetter?",
+            "answer": "Bei extremem Wind, starkem Regen oder sehr schlechter Sicht ist ein Besuch nicht empfehlenswert.\nKliffkanten sind meist nicht durchgehend gesichert, und Sandverwehung kann Sicht und Standfestigkeit beeinträchtigen. Wetter prüfen und Sperrungen/Anweisungen vor Ort beachten."
+          }
+        ]
+      },
+      {
+        "id": "around",
+        "title": "In der Umgebung (Nordjütland)",
+        "items": [
+          {
+            "question": "Welche Orte lassen sich gut mit Rubjerg Knude kombinieren?",
+            "answer": "Rubjerg Knude liegt in einem Küstenkorridor, in dem nahe Orte eine Tagesroute strukturieren.\nEtwa 15 Minuten nördlich liegt Lønstrup mit Kunst- und Handwerkswerkstätten; etwa 10 Minuten südlich liegt Løkken mit besserer Versorgung und Strandzugang.\nFür eine sachliche Beobachtung bieten diese Stopps einen Kontrast zwischen Küstenprozessen und Siedlungsinfrastruktur."
+          }
+        ]
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Zeitleiste",
+    "intro": "Diese Chronologie verbindet Betriebsgeschichte, Entwicklung der Wanderdüne und die viel beachtete Flytning des Leuchtturms im Jahr 2019.",
+    "events": [
+      {
+        "year": "1899-1900",
+        "title": "Bau und erstes Licht",
+        "description": "Der Bau begann 1899, die erste Inbetriebnahme erfolgte am 27. Dezember 1900. Der Turm stand damals rund 200 Meter von der Küste entfernt auf einem etwa 60 Meter hohen Kliff."
+      },
+      {
+        "year": "1910er-1950er",
+        "title": "Sand driftet zum strukturellen Problem",
+        "description": "Verwehter Sand lagerte sich zunehmend um die Gebäude ab. Begrünungsversuche zur Stabilisierung der Düne lösten das Problem nicht dauerhaft."
+      },
+      {
+        "year": "1. August 1968",
+        "title": "Das Seezeichen erlischt",
+        "description": "Sandverlagerung und neue Navigationstechniken machten den Leuchtturmbetrieb entbehrlich; das Licht wurde endgültig abgeschaltet."
+      },
+      {
+        "year": "1980-2002",
+        "title": "Museumsphase und erneute Aufgabe",
+        "description": "Die Nebengebäude dienten zeitweise musealen Zwecken, wurden aber erneut von wanderndem Sand bedrängt. Das Museum schloss 2002."
+      },
+      {
+        "year": "22. Oktober 2019",
+        "title": "Versetzung des Turms um 70 Meter",
+        "description": "Nach monatelanger Vorbereitung wurde der 23 Meter hohe Turm auf Schienen etwa 70 Meter landeinwärts bewegt. Die Aktion wurde international als Beispiel adaptiver Denkmalpflege wahrgenommen."
+      }
+    ]
+  },
+  "route": {
+    "title": "Empfohlener Rundgang",
+    "overview": "Für einen typischen Besuch sind 1,5 bis 2,5 Stunden realistisch. Vom Hauptparkplatz folgt man dem markierten Zugang durch die Düne zum Turm und entscheidet danach je nach Wetter, ob ein Abstecher zu den Kliffblicken sinnvoll ist.",
+    "noticeTitle": "Hinweise vor Ort",
+    "steps": [
+      "Am Hauptparkplatz ankommen und zuerst Wind, Temperatur und Rückweg einschätzen.",
+      "Dem markierten Weg folgen und Kraft für den letzten sandigen Aufstieg sparen.",
+      "Auf mittleren Dünenrücken kurz anhalten, um Formung und Oberflächenmuster der Düne zu beobachten.",
+      "Den Leuchtturm erreichen und je nach Öffnung entscheiden, ob der Turm innen besucht wird.",
+      "Nur bei sicheren Bedingungen zu den Kliffblicken weitergehen und auf informelle Abkürzungen verzichten.",
+      "Vor Einbruch von Kälte oder Dunkelheit auf demselben Weg zurückkehren."
+    ],
+    "supplements": [
+      "Weicher Sand macht den Weg deutlich anstrengender als die Distanz auf der Karte vermuten lässt.",
+      "Kameras, Objektive und Telefone sollten vor Sand geschützt werden.",
+      "Kinder an Hängen und Kliffkanten immer eng beaufsichtigen.",
+      "Hunde sind häufig vor Ort, sollten in exponierten Bereichen gut kontrolliert werden.",
+      "Bei Wetterverschlechterung ist eine verkürzte Route meist die vernünftigere Entscheidung."
+    ]
+  },
+  "photoSpots": {
+    "title": "Beobachtungspunkte",
+    "spots": [
+      {
+        "name": "Hauptdünenrücken am Turm",
+        "desc": "Klassischer Blick auf den Leuchtturm im Verhältnis zum Dünenkörper."
+      },
+      {
+        "name": "Nordsee-Kliffkante",
+        "desc": "Gut geeignet, um Kliff, Strand und Horizont gemeinsam zu lesen."
+      },
+      {
+        "name": "Zugangsweg durch die Düne",
+        "desc": "Zeigt Windrippel, Trittspuren und Wegeführung besonders anschaulich."
+      },
+      {
+        "name": "Westliches Abendlicht",
+        "desc": "Späte Sonne betont Relief, Sandstruktur und Geometrie der Turmfassade."
+      },
+      {
+        "name": "Oberer Zugang mit Steg",
+        "desc": "Dokumentiert, wie Besucher den geschützten Landschaftsraum betreten."
+      }
+    ],
+    "tips": "Dokumentationshinweis",
+    "tipsContent": "Für eine sachliche Dokumentation sind Weitwinkelansichten mit Düne, Kliffkante und Weg oft aussagekräftiger als isolierte Nahaufnahmen des Turms."
+  },
+  "hotels": {
+    "title": "Übernachtung in der Umgebung",
+    "hotels": [
+      {
+        "name": "Hotels in Løkken",
+        "desc": "Sinnvoll für Besucher, die Gastronomie, Supermarkt und Ladestationen in Reichweite haben möchten.",
+        "price": "Saisonpreise"
+      },
+      {
+        "name": "Ferienwohnungen und Pensionen",
+        "desc": "Praktisch für mehrtägige Küstenerkundungen, besonders außerhalb der Hauptsaison.",
+        "price": "Saisonpreise"
+      },
+      {
+        "name": "Kleinere Küstenunterkünfte",
+        "desc": "Gut für frühe oder späte Besuche, jedoch oft stärker dem Wind ausgesetzt und mit weniger Versorgung.",
+        "price": "Saisonpreise"
+      },
+      {
+        "name": "Standort Hjørring",
+        "desc": "Geeignet für Kombinationen mit Museumsbesuchen, Bahnanschluss und weiteren Zielen in Nordjütland.",
+        "price": "Saisonpreise"
+      }
+    ],
+    "supplements": "Planungshinweis",
+    "supplementsContent": "Wenn Rubjerg Knude im Mittelpunkt der Reise steht, bietet eine Unterkunft in oder bei Løkken meist das beste Verhältnis aus Nähe, Versorgung und Flexibilität."
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Kliff-, Dünen- und Leuchtturmansichten von Rubjerg Knude",
+    "captions": [
+      "Panoramablick auf die Düne",
+      "Leuchtturm und Sandrücken",
+      "Nordseeküste",
+      "Windgeformte Sandoberfläche",
+      "Profil der Kliffkante",
+      "Abendlicht",
+      "Offenes Küstengelände",
+      "Turm aus der Nähe"
+    ],
+    "viewAll": "In Google Maps öffnen"
+  },
+  "reviews": {
+    "title": "Öffentliche Bewertungen",
+    "declaration": "Die hier gezeigte Bewertungsübersicht basiert auf Google Maps als externer öffentlicher Quelle. Für aktuelle Zahlen und neue Kommentare bitte den Karteneintrag direkt öffnen.",
+    "moreReviews": "Mehr bei Google Maps",
+    "items": [
+      {
+        "name": "A. Jensen",
+        "date": "Mai 2026",
+        "rating": 5,
+        "text": "Ein außergewöhnlicher Ort, um zu verstehen, wie schnell sich eine Küste verändern kann. Der Weg ist einfach, aber der Wind macht die Landschaft sehr elementar."
+      },
+      {
+        "name": "L. de Vries",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Mit der Geschichte der Versetzung im Kopf wirkt der Leuchtturm viel bedeutungsvoller als ein normaler Aussichtspunkt. Für den Weg vom Parkplatz genügend Zeit einplanen."
+      },
+      {
+        "name": "M. Schneider",
+        "date": "März 2026",
+        "rating": 5,
+        "text": "Ausgezeichnete Landschaft, um Dünenwanderung und Erosion zu beobachten. Sehr windig, aber sehr eindrucksvoll."
+      },
+      {
+        "name": "K. Larsen",
+        "date": "Januar 2026",
+        "rating": 4,
+        "text": "Schön und zugleich stark exponiert. Das Wetter kann schnell umschlagen, daher vor der Anreise besser genau prüfen."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Karte und Navigation",
+    "subtitle": "Fyrvejen 110, 9800 Løkken, Denmark",
+    "openMaps": "In Google Maps öffnen"
+  },
+  "footer": {
+    "rights": "© 2026 Unabhängiges Küstenerbe-Projekt Rubjerg Knude. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Referenzquellen",
+    "officialLinks": {
+      "council": "VisitDenmark",
+      "tourism": "Dänische Naturbehörde",
+      "england": "Visit Nordvestkysten"
+    },
+    "disclaimer": "Diese Website ist ein unabhängiges Informationsprojekt im öffentlichen Interesse und keine offizielle Regierungs- oder Marketingseite."
+  },
+  "privacy": {
+    "title": "Datenschutz",
+    "lastUpdated": "Zuletzt aktualisiert: Juli 2026",
+    "sections": [
+      {
+        "heading": "1. Geltungsbereich",
+        "content": "Diese Website ist ein Informationsprojekt zu Rubjerg Knude. Wir bemühen uns um minimale Datenerhebung; für normales Lesen ist keine Registrierung erforderlich."
+      },
+      {
+        "heading": "2. Lokale Einstellungen",
+        "content": "Theme-Auswahl und Cookie-Präferenzen können lokal im Browser gespeichert werden, damit die Seite Ihre Einstellungen bei späteren Besuchen wiedererkennt."
+      },
+      {
+        "heading": "3. Analyse und Einwilligung",
+        "content": "Optionale Analyse-Cookies bleiben deaktiviert, bis Sie aktiv zustimmen. Notwendige Cookies werden auf die Grundfunktionen der Website beschränkt."
+      },
+      {
+        "heading": "4. Externe Dienste",
+        "content": "Sobald Sie über Links zu Google Maps oder anderen Drittanbietern diese Website verlassen, gelten die Datenschutzregeln des jeweiligen externen Dienstes."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Juli 2026",
+    "sections": [
+      {
+        "heading": "1. Informationszweck",
+        "content": "Die Inhalte dienen allgemeinen Bildungs- und Besucherinformationen. Sie ersetzen keine offiziellen Sicherheitshinweise oder lokale Echtzeitinformationen."
+      },
+      {
+        "heading": "2. Genauigkeit",
+        "content": "Historische und praktische Angaben werden laufend aktualisiert, doch Wetter, Öffnungen und Zugang können sich am Ort rasch ändern. Vor der Reise bitte noch einmal prüfen."
+      },
+      {
+        "heading": "3. Urheberrecht",
+        "content": "Soweit nicht anders angegeben, dürfen redaktionelle Texte und Gestaltungselemente der Website nicht ohne Erlaubnis kommerziell vervielfältigt werden."
+      },
+      {
+        "heading": "4. Verantwortung",
+        "content": "Feldentscheidungen bleiben in der Verantwortung der Besucher. In exponierten Küstenbedingungen ist eigenständige Vorsicht unerlässlich."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "description": "Verwalten Sie lokale Speicher- und optionale Analysepräferenzen für diese Website.",
+    "essential": {
+      "title": "Notwendige Cookies",
+      "description": "Erforderlich für Kernfunktionen wie Theme-Auswahl und gespeicherte Einstellungen.",
+      "badge": "Immer aktiv"
+    },
+    "analytics": {
+      "title": "Analyse-Cookies",
+      "description": "Werden nur mit Ihrer Zustimmung verwendet, um die Nutzung der Website besser zu verstehen."
+    },
+    "marketing": {
+      "title": "Marketing-Cookies",
+      "description": "Standardmäßig deaktiviert. Dieses Projekt stützt sich nicht auf werbebasiertes Tracking."
+    },
+    "save": "Einstellungen speichern",
+    "saved": "Einstellungen gespeichert"
+  },
+  "officialManagement": {
+    "title": "Institutioneller Kontext",
+    "text": "Rubjerg Knude wird heute nicht nur als landschaftlich eindrucksvoller Ort verstanden, sondern auch als Beispiel dafür, wie Naturverwaltung, regionale Besucherinformation und Kulturerbeinterpretation zusammenwirken. Der Standort erzählt gleichzeitig von Wanderdünen, Küstenerosion und adaptiver Erhaltung an der Nordsee."
+  }
+}

@@ -3,12 +3,8 @@
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname } from 'next/navigation';
 import { routing, type Locale } from '@/i18n/routing';
+import { getLocalePath, siteConfig } from '@/i18n/config';
 import { useState, useRef, useEffect } from 'react';
-
-const labels: Record<string, string> = {
-  zh: '中文',
-  en: 'English',
-};
 
 export default function LanguageToggle() {
   const locale = useLocale();
@@ -29,26 +25,17 @@ export default function LanguageToggle() {
 
   function switchLocale(next: Locale) {
     setOpen(false);
-    
-    // 如果当前已经在目标语言，不执行任何操作
+
     if (next === locale) return;
 
     const segments = pathname.split('/').filter(Boolean);
-    
-    // Remove current locale prefix if present
+
     if (routing.locales.includes(segments[0] as Locale)) {
       segments.shift();
     }
-    
-    // Construct new path
+
     const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '/';
-    
-    // Navigate
-    if (next === routing.defaultLocale) {
-      router.push(pathWithoutLocale);
-    } else {
-      router.push(`/${next}${pathWithoutLocale === '/' ? '' : pathWithoutLocale}`);
-    }
+    router.push(getLocalePath(next, pathWithoutLocale));
   }
 
   return (
@@ -67,7 +54,7 @@ export default function LanguageToggle() {
           <line x1="2" y1="12" x2="22" y2="12"/>
           <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
         </svg>
-        {labels[locale]}
+        {siteConfig.localeLabels[locale as Locale]}
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className={`transition-transform ${open ? 'rotate-180' : ''}`}>
           <polyline points="6 9 12 15 18 9"/>
         </svg>
@@ -91,7 +78,7 @@ export default function LanguageToggle() {
               onMouseEnter={(e) => (e.currentTarget.style.background = 'var(--bg-tertiary)')}
               onMouseLeave={(e) => (e.currentTarget.style.background = 'transparent')}
             >
-              {labels[loc]}
+              {siteConfig.localeLabels[loc]}
             </button>
           ))}
         </div>

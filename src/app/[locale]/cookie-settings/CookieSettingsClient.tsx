@@ -2,6 +2,7 @@
 
 import { useTranslations, useLocale } from 'next-intl';
 import { useState, useEffect } from 'react';
+import { getLocalePath } from '@/i18n/config';
 
 function CookieToggle({
   label,
@@ -53,7 +54,7 @@ export default function CookieSettingsClient() {
   const t = useTranslations('cookieSettings');
   const ht = useTranslations('header');
   const locale = useLocale();
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = getLocalePath(locale, '/');
 
   const [analytics, setAnalytics] = useState(false);
   const [marketing, setMarketing] = useState(false);

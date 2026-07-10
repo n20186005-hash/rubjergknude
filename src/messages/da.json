@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "title": "Rubjerg Knude | Fyrtårn, vandreklit, parkering og besøgsguide",
+    "description": "Uafhængig guide til Rubjerg Knude med historie, Flytning af fyret i 2019, parkering, gangafstand, toiletter, tilgængelighed og EV-ladestationer i nærheden af Løkken."
+  },
+  "header": {
+    "home": "Forside",
+    "gallery": "Galleri",
+    "reviews": "Anmeldelser",
+    "map": "Kort",
+    "backToHome": "Tilbage til forsiden"
+  },
+  "hero": {
+    "title": "Rubjerg Knude",
+    "subtitle": "Fyrtårn, vandreklit og erosionsklint på Nordjyllands vestkyst",
+    "rating": "4.7",
+    "reviewCount": "8.489 anmeldelser",
+    "hours": "Kan besøges hele året",
+    "openMaps": "Åbn i Google Maps"
+  },
+  "intro": {
+    "title": "Forstå Rubjerg Knude",
+    "description": "Rubjerg Knude er ikke blot et udsigtspunkt, men et åbent kystlandskab, hvor kysterosion, vindtransport af sand og kulturarvsforvaltning kan aflæses samtidigt. Det mest kendte element er Rubjerg Knude Fyr, som over årtier er blevet omformet af den omgivende vandreklit.\n\nFint sand løftes fra klinten af stærke vestenvinde og transporteres ind over land, hvor det danner nye rygge, skråninger og adgangsforhold. Samtidig æder Vesterhavet gradvist af kystskrænten og forkorter afstanden mellem fyret og havet.\n\nStedet fungerer derfor næsten som et friluftsarkiv over kystdynamik. Man oplever ikke kun stor natur, men også sporene af menneskelig tilpasning til et foranderligt landskab.",
+    "visitGuide": {
+      "title": "Besøgstips",
+      "items": [
+        "Vælg gerne dage med svag eller moderat vind; kraftig sandfygning gør opholdet markant hårdere.",
+        "Udendørsområdet er frit tilgængeligt hele året, mens åbning af tårnet følger sæsonen.",
+        "Sæt ekstra tid af til det sidste stykke fra parkering til fyr, da løst sand sænker tempoet.",
+        "Vindtæt overtøj, gode sko og beskyttelse af kamera eller mobil anbefales."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Hvorfor stedet er vigtigt",
+      "items": [
+        "Et centralt eksempel på klitvandring og kysterosion ved Vesterhavet",
+        "Hjemsted for Rubjerg Knude Fyr, et af Danmarks mest kendte truede fyrtårne",
+        "Et sted hvor naturprocesser og kulturarvsbeskyttelse kan opleves direkte",
+        "Et velbesøgt udflugtsmål for gæster fra Danmark, Tyskland og Nederlandene"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Faglig introduktion",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Maritim historie",
+        "content": "Rubjerg Knude Fyr blev taget i brug i slutningen af 1900 som et praktisk sømærke på Vesterhavskysten. Anlægget var del af en større teknisk station med bygninger og bemanding."
+      },
+      {
+        "id": "geomorphology",
+        "title": "Vandreklittens system",
+        "content": "Klitten ved Rubjerg Knude er et klassisk eksempel på vindbåren sandtransport. Sand fra klinten flyttes, aflejres og omformes igen, så ryglinjer, skråninger og udsigter ændrer sig over tid."
+      },
+      {
+        "id": "keepers",
+        "title": "Fyrpersonalets arbejdsliv",
+        "content": "Personalet arbejdede i et meget udsat miljø. Sand skulle fjernes løbende, teknikken vedligeholdes og lysets synlighed overvåges i dårligt vejr. Stedets historie fortæller derfor også om hårdt dagligt arbejde i kystzonen."
+      },
+      {
+        "id": "heritage",
+        "title": "Kulturarv og ingeniørgreb",
+        "content": "Rubjerg Knude viser, at bevaring ved en eroderende kyst ikke altid betyder at lade alt stå stille. Flytningen i 2019 er et tydeligt eksempel på adaptiv bevaring i praksis."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Grundoplysninger",
+    "items": [
+      {
+        "label": "Officielt navn",
+        "value": "Rubjerg Knude Fyr / Rubjerg Knude"
+      },
+      {
+        "label": "Stedstype",
+        "value": "Fyrtårn, vandreklit, kystklint og beskyttet naturlandskab"
+      },
+      {
+        "label": "Land",
+        "value": "Danmark"
+      },
+      {
+        "label": "Nærmeste by",
+        "value": "Løkken, Hjørring Kommune"
+      },
+      {
+        "label": "Koordinater",
+        "value": "57.4489, 9.7743"
+      },
+      {
+        "label": "Google Maps",
+        "value": "4,7 / 5 baseret på 8.489 anmeldelser"
+      },
+      {
+        "label": "Adresse",
+        "value": "Fyrvejen 110, 9800 Løkken, Denmark"
+      }
+    ]
+  },
+  "hours": {
+    "title": "Åbningstider",
+    "outdoor": "Udendørsområde",
+    "outdoorTime": "Tilgængeligt hele året og normalt hele dagen",
+    "lighthouse": "Tårn og udstillingsområde",
+    "summer": "Sommersæson",
+    "summerTime": "Typisk 10:00-17:00 fra maj til september",
+    "winter": "Vintersæson",
+    "winterTime": "Begrænset åbning, ofte kun weekender eller helligdage",
+    "warning": "Vejr- og klintadvarsel",
+    "warningTime": "Stærk vind, sandfygning og regn kan hurtigt forringe både komfort og sikkerhed. Hold afstand til klintkanten og respekter midlertidige afspærringer.",
+    "tip": "Ved en målrettet tur er det klogt at tjekke aktuelle åbningstider igen før afgang."
+  },
+  "tickets": {
+    "title": "Entré",
+    "outdoor": "Klit, klint og stier",
+    "outdoorPrice": "Gratis adgang",
+    "lighthouse": "Tårnets indre",
+    "adults": "Voksne",
+    "adultsPrice": "Sæsonbetalt adgang når tårnet er åbent",
+    "students": "Studerende / unge",
+    "studentsPrice": "Mulige rabatter afhænger af gældende ordning",
+    "children": "Børn",
+    "childrenPrice": "Ofte gratis eller reduceret",
+    "card": "Billetbemærkning",
+    "cardPrice": "Priser og kategorier kan ændres efter sæson. Oplysninger på stedet bør regnes som den endelige reference."
+  },
+  "transport": {
+    "title": "Sådan kommer du frem",
+    "airport": "Fra Aalborg Lufthavn",
+    "airportDesc": "Rejs videre mod Hjørring og Løkken med tog eller bus, og fortsæt derfra med lokal transport, taxa eller lejebil. Offentlig transport er mulig, men bil giver den letteste sidste adgang.",
+    "selfDrive": "Bil",
+    "selfDriveDesc": "Bil er den mest praktiske løsning. Hovedparkeringen ligger ved Fyrvejen 110, og det sidste stykke til fyret foregår til fods over grus og sand.",
+    "bus": "Regional bus",
+    "busDesc": "Regionale busser kan føre besøgende mod Løkken og nærliggende stop, men køreplanen er begrænset og den sidste strækning er stadig udsat for vind og sand.",
+    "intercity": "Fra andre danske byer",
+    "intercityDesc": "De fleste længere rejser går via Aalborg eller Hjørring før videre transport mod Nordvestkysten.",
+    "cycling": "Cykel",
+    "cyclingDesc": "Erfarne cyklister kan nærme sig via kystveje og regionale ruter, men bør forvente kraftig modvind og meget lidt læ.",
+    "tips": "Transportanbefaling",
+    "tipsDesc": "For førstegangsbesøgende er bil den mest overskuelige løsning, især hvis parkering, toiletter og forsyning skal koordineres nemt."
+  },
+  "practicalInfo": {
+    "title": "Praktisk besøgslogistik",
+    "intro": "Søgninger om Rubjerg Knude handler ofte om parkering, gåafstand, toiletter, ladestandere og vejrforhold. Derfor samler dette afsnit de mest efterspurgte praktiske oplysninger.",
+    "cards": [
+      {
+        "title": "Parkering og gangafstand",
+        "description": "Hovedparkering: Fyrvejen 110, 9800 Løkken.\nReferencekoordinater: cirka 57.4479, 9.7790.\nFra parkeringen til fyret bør man regne med cirka 1,2-1,5 km hver vej og omkring 20-25 minutters gang.\nUnderlaget er ikke en plan bysti, men delvist løst sand, så turen føles længere end kortet antyder."
+      },
+      {
+        "title": "Toiletter og tilgængelighed",
+        "description": "Offentlige toiletter findes normalt nær hovedankomsten, men åbning og vedligehold kan variere med sæsonen.\nKørestole, mobilitetshjælpemidler og de fleste barnevogne egner sig dårligt til det sidste stykke over klitten.\nBlødt sand, skiftende hældning og kraftig vind betyder, at området kun er delvist tilgængeligt."
+      },
+      {
+        "title": "Forsyning, brændstof og EV-ladning",
+        "description": "Det nærmeste fulde servicepunkt er Løkken, cirka 10-15 minutter væk i bil.\nDagligvarer og enkel forplejning planlægges bedst omkring bymidten.\nOffentlige ladestationer i Løkken findes blandt andet ved Jyllandsgade 11-15 og Industrivej 6.\nMan bør ikke regne med direkte opladning eller tankning ved klitparkeringen."
+      },
+      {
+        "title": "Navigation og vejr",
+        "description": "Sæt helst navigationen til Fyrvejen 110 i stedet for direkte til selve fyret.\nKontrollér vindstyrke og nedbør inden afgang; stærk vestenvind kan skabe aktiv sandfygning.\nSolnedgang er populær, men hjemturen bliver hurtigt både koldere og mere ubeskyttet."
+      }
+    ],
+    "warningTitle": "Sikkerhedspåmindelse",
+    "warningText": "Rubjerg Knude er et udsat kystmiljø og ikke en bymæssigt afskærmet udsigtsplatform.\nHold afstand til klintkanten, hold øje med børn og fastgør løse ting i blæsevejr."
+  },
+  "faq": {
+    "title": "FAQ – ofte stillede spørgsmål",
+    "intro": "Denne FAQ bygger på typiske søgeintentioner og tilbagevendende spørgsmål, især om parkering, Flytning (2019), samt vandreklit (vandreklit). Forhold og faciliteter kan variere med sæson og vejr; tjek prognoser og information på stedet før afgang.",
+    "sections": [
+      {
+        "id": "logistics",
+        "title": "Transport og faciliteter",
+        "items": [
+          {
+            "question": "Er der parkering ved Rubjerg Knude, og koster det noget?",
+            "answer": "Ja. Hovedparkeringen ligger typisk ved Fyrvejen 110 (brug den adresse i navigation). Parkering er ofte gratis, men regler kan ændre sig sæsonmæssigt.\nFra parkeringen til fyret skal man gå i et udsat terræn med grus og sand. Regn med ca. 1,2–1,5 km hver vej og omkring 20–25 minutter afhængigt af vind og sandfygning. I højsæson kan pladserne blive fyldt."
+          },
+          {
+            "question": "Kan kørestol eller barnevogn komme ud på klitten?",
+            "answer": "Som udgangspunkt nej. Det sidste stykke foregår i løst sand og på ujævne hældninger, hvilket gør kørestole, hjælpemidler og almindelige barnevogne meget vanskelige.\nFor små børn er en bæresele ofte mere realistisk. Ved kraftig vind bør man overveje at forkorte turen."
+          },
+          {
+            "question": "Findes der toiletter, mad eller affaldsspande ved fyret?",
+            "answer": "Man bør ikke forvente bypark-lignende service på klitstien eller ved selve fyret.\nToiletter kan i nogle sæsoner være tilgængelige nær hovedankomsten, men det er ikke garanteret.\nFor stabil forsyning, spisesteder og EV-ladning planlæg omkring byer som Løkken (syd) eller Lønstrup (nord). Medbring vand og tag affald med tilbage."
+          }
+        ]
+      },
+      {
+        "id": "science",
+        "title": "Historie og naturfag",
+        "items": [
+          {
+            "question": "Hvorfor blev fyret flyttet i 2019 (Flytning), og hvordan foregik det?",
+            "answer": "Kysterosion fra Vesterhavet reducerede gradvist afstanden mellem tårnet og klintkanten, hvilket på sigt gav risiko for sammenstyrtning.\nI 2019 blev fyret forberedt, sat på et bevægeligt bæresystem og flyttet cirka 70 meter ind i landet på skinner. Indgrebet omtales ofte som Flytning og blev et tydeligt eksempel på adaptiv bevaring."
+          },
+          {
+            "question": "Hvad er en vandreklit?",
+            "answer": "En vandreklit er en klit, der flytter sig, fordi sand hele tiden transporteres af vinden og aflejres igen. Det ændrer overflader, rygge og adgangsforhold, så samme rute kan se forskellig ud fra sæson til sæson.\nVed Rubjerg Knude påvirkede sandflugt historisk også bygningerne ved stationsområdet."
+          },
+          {
+            "question": "Er fyret sikkert nu, og kan det stadig ende i havet?",
+            "answer": "Flytningen reducerede den kortsigtede risiko ved at skabe en ny bufferafstand til klintkanten. Men erosion og sandtransport fortsætter, og stedet vil kræve løbende overvågning og forvaltning.\nEstimater for \"hvor mange år\" afhænger af fremtidige erosionsrater; regn lokale myndigheders opdateringer og information på stedet som den bedste reference."
+          }
+        ]
+      },
+      {
+        "id": "planning",
+        "title": "Planlægning og billetter",
+        "items": [
+          {
+            "question": "Skal man betale entré for at besøge Rubjerg Knude?",
+            "answer": "Udendørsområdet med klit og klint er normalt gratis og kan besøges året rundt.\nAdgang til tårnets indre er sæson- og vejrafhængig, og der kan være en mindre entré, når tårnet er åbent. Oplysninger på stedet bør regnes som den endelige reference."
+          },
+          {
+            "question": "Hvor lang tid tager et besøg typisk?",
+            "answer": "For et almindeligt besøg (gang fra parkering, observation ved fyret, kort ophold) bør man afsætte 1,5–2,5 time.\nHvis turen udvides med længere gåture langs kysten, er en halv dag ofte mere realistisk, især i blæsevejr."
+          },
+          {
+            "question": "Kan man tage derud i dårligt vejr?",
+            "answer": "Det frarådes ved ekstrem blæst, kraftig regn eller meget dårlig sigt.\nKlintkanten er typisk ikke gennemgående afspærret, og sandfygning kan påvirke både balance og udsyn. Tjek vejret og respekter midlertidige afspærringer."
+          }
+        ]
+      },
+      {
+        "id": "around",
+        "title": "I nærheden (Nordjylland)",
+        "items": [
+          {
+            "question": "Hvad kan man kombinere med Rubjerg Knude i området?",
+            "answer": "Rubjerg Knude ligger i et kystbælte, hvor nærliggende byer kan bruges til at strukturere en dagstur.\nCirka 15 minutter nordpå ligger Lønstrup med kunst og håndværk; cirka 10 minutter sydpå ligger Løkken med bedre forsyning og strand.\nFor en mere faglig tur giver disse stop en nyttig kontrast mellem naturprocesser og infrastruktur."
+          }
+        ]
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Historisk tidslinje",
+    "intro": "Tidslinjen samler driften af fyret, udviklingen af vandreklitten og den meget omtalte Flytning i 2019.",
+    "events": [
+      {
+        "year": "1899-1900",
+        "title": "Opførelse og første lys",
+        "description": "Byggeriet begyndte i 1899, og fyret blev tændt første gang den 27. december 1900. Dengang stod tårnet omkring 200 meter fra havet på en cirka 60 meter høj klint."
+      },
+      {
+        "year": "1910'erne-1950'erne",
+        "title": "Sandflugt bliver et strukturelt problem",
+        "description": "Vindsand ophobede sig gradvist omkring bygningerne. Forsøg på at tæmme klitten med beplantning løste ikke problemet varigt."
+      },
+      {
+        "year": "1. august 1968",
+        "title": "Fyret slukkes",
+        "description": "Sandflugt og ændrede navigationsforhold gjorde fyrfunktionen overflødig, og lyset blev slukket for sidste gang."
+      },
+      {
+        "year": "1980-2002",
+        "title": "Museumstid og ny opgivelse",
+        "description": "De tidligere bygninger blev brugt til formidling og museum, men sandet pressede igen anlægget. Museet lukkede i 2002."
+      },
+      {
+        "year": "22. oktober 2019",
+        "title": "Fyret flyttes 70 meter ind i landet",
+        "description": "Efter måneders forberedelse blev det 23 meter høje fyr flyttet cirka 70 meter på skinner. Flytningen blev et internationalt eksempel på adaptiv kulturarvsbevaring."
+      }
+    ]
+  },
+  "route": {
+    "title": "Anbefalet rute",
+    "overview": "Et almindeligt besøg varer ofte 1,5 til 2,5 time. Start ved hovedparkeringen, følg den etablerede adgang gennem klitten til fyret, og afgør derefter ud fra vejr og kræfter om udsigtspunkterne ved klinten skal indgå.",
+    "noticeTitle": "På stedet",
+    "steps": [
+      "Ankom til hovedparkeringen og vurder først vind, temperatur og lysforhold for hjemturen.",
+      "Følg den markerede rute og spar kræfter til den sidste opstigning i løst sand.",
+      "Hold evt. pause på mellemste klitrygge for at se, hvordan vinden former overfladen.",
+      "Nå fyret og vurder, hvis det er åbent, om tårnet skal besøges indvendigt.",
+      "Gå kun videre til klintudsigter under sikre forhold og undgå uformelle genveje.",
+      "Vend tilbage samme vej før kulde og mørke tiltager."
+    ],
+    "supplements": [
+      "Løst sand gør turen mere krævende end kortafstanden antyder.",
+      "Kameraer, objektiver og telefoner bør beskyttes mod sand.",
+      "Børn skal holdes tæt under opsyn ved skråninger og klintkant.",
+      "Hunde ses ofte på stedet, men bør være under kontrol i udsatte zoner.",
+      "Hvis vejret forværres, er en kortere rute som regel det klogeste valg."
+    ]
+  },
+  "photoSpots": {
+    "title": "Observationspunkter",
+    "spots": [
+      {
+        "name": "Klitryggen ved fyret",
+        "desc": "Det klassiske sted til at forstå skalaen mellem tårn og klit."
+      },
+      {
+        "name": "Klintlinjen mod Vesterhavet",
+        "desc": "Velegnet til at læse forholdet mellem klint, strand og horisont."
+      },
+      {
+        "name": "Adgangsstien gennem klitten",
+        "desc": "God til at registrere vindmønstre, spor og stiforløb."
+      },
+      {
+        "name": "Vestligt aftenslys",
+        "desc": "Sen sol fremhæver sandets relief og fyrtårnets geometri."
+      },
+      {
+        "name": "Øvre adgangszone",
+        "desc": "Viser hvordan besøgende bevæger sig ind i det beskyttede landskab."
+      }
+    ],
+    "tips": "Dokumentationsnote",
+    "tipsContent": "Hvis målet er formidling frem for sociale medier, giver brede billeder med både klit, klint og adgangssti ofte den bedste forklaring af stedet."
+  },
+  "hotels": {
+    "title": "Overnatning i nærheden",
+    "hotels": [
+      {
+        "name": "Hoteller i Løkken",
+        "desc": "Praktisk for gæster, der vil have restauranter, supermarked og ladestandere tæt på.",
+        "price": "Sæsonpriser"
+      },
+      {
+        "name": "Ferieboliger og gæstehuse",
+        "desc": "Velegnet til flere dages udforskning af kysten, især uden for højsommeren.",
+        "price": "Sæsonpriser"
+      },
+      {
+        "name": "Små opholdssteder ved kysten",
+        "desc": "Gode til tidlige eller sene besøg, men ofte mere udsatte for vind og med færre services.",
+        "price": "Sæsonpriser"
+      },
+      {
+        "name": "Base i Hjørring",
+        "desc": "Passer godt hvis Rubjerg Knude kombineres med museer, tog eller andre steder i Nordjylland.",
+        "price": "Sæsonpriser"
+      }
+    ],
+    "supplements": "Planlægningsnote",
+    "supplementsContent": "Hvis Rubjerg Knude er hovedmålet, giver overnatning i eller nær Løkken ofte den bedste balance mellem nærhed, forsyning og fleksibilitet."
+  },
+  "gallery": {
+    "title": "Galleri",
+    "subtitle": "Klint, klit og fyr ved Rubjerg Knude",
+    "captions": [
+      "Panorama over klitten",
+      "Fyr og sandryg",
+      "Vesterhavskyst",
+      "Vindformet sandflade",
+      "Klintprofil",
+      "Aftenlys",
+      "Åbent kystterræn",
+      "Nærbillede af tårnet"
+    ],
+    "viewAll": "Åbn i Google Maps"
+  },
+  "reviews": {
+    "title": "Offentlige anmeldelser",
+    "declaration": "Oversigten her bygger på Google Maps som offentlig ekstern kilde. For nyeste tal og seneste anmeldelser bør selve kortopslaget åbnes direkte.",
+    "moreReviews": "Se flere i Google Maps",
+    "items": [
+      {
+        "name": "A. Jensen",
+        "date": "Maj 2026",
+        "rating": 5,
+        "text": "Et enestående sted at forstå hvor hurtigt en kyst kan ændre sig. Turen er enkel på papiret, men vinden gør oplevelsen meget rå."
+      },
+      {
+        "name": "L. de Vries",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Når man kender historien om Flytning, bliver fyret langt mere betydningsfuldt end et almindeligt udsigtspunkt. Giv god tid til gåturen fra parkeringen."
+      },
+      {
+        "name": "M. Schneider",
+        "date": "Marts 2026",
+        "rating": 5,
+        "text": "Fremragende landskab til at observere både klitvandring og erosion. Meget blæsende, men meget mindeværdigt."
+      },
+      {
+        "name": "K. Larsen",
+        "date": "Januar 2026",
+        "rating": 4,
+        "text": "Smukt og meget udsat. Vejret skifter hurtigt, så det er værd at tjekke prognosen grundigt inden afgang."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Kort og navigation",
+    "subtitle": "Fyrvejen 110, 9800 Løkken, Denmark",
+    "openMaps": "Åbn i Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Rubjerg Knude Uafhængigt Kystarvsprojekt. Alle rettigheder forbeholdes.",
+    "privacy": "Privatlivspolitik",
+    "terms": "Brugsvilkår",
+    "cookies": "Cookie-indstillinger",
+    "officialResourcesTitle": "Referencekilder",
+    "officialLinks": {
+      "council": "VisitDenmark",
+      "tourism": "Naturstyrelsen",
+      "england": "Visit Nordvestkysten"
+    },
+    "disclaimer": "Dette website er et uafhængigt informationsprojekt i offentlighedens interesse og er ikke en officiel myndigheds- eller markedsføringsside."
+  },
+  "privacy": {
+    "title": "Privatlivspolitik",
+    "lastUpdated": "Senest opdateret: juli 2026",
+    "sections": [
+      {
+        "heading": "1. Omfang",
+        "content": "Denne side er et informationsprojekt om Rubjerg Knude. Vi tilstræber minimal dataindsamling, og almindelig læsning kræver ingen konto."
+      },
+      {
+        "heading": "2. Lokale præferencer",
+        "content": "Valg af tema og cookie-indstillinger kan lagres lokalt i browseren, så siden kan huske dem ved senere besøg."
+      },
+      {
+        "heading": "3. Analyse og samtykke",
+        "content": "Valgfrie analyse-cookies forbliver slået fra, indtil du aktivt giver samtykke. Nødvendige cookies begrænses til basal drift."
+      },
+      {
+        "heading": "4. Eksterne tjenester",
+        "content": "Når du forlader denne side via links til Google Maps eller andre tredjeparter, gælder deres egne privatlivsregler."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Brugsvilkår",
+    "lastUpdated": "Senest opdateret: juli 2026",
+    "sections": [
+      {
+        "heading": "1. Informationsformål",
+        "content": "Indholdet er til generel oplysning og besøgsplanlægning. Det erstatter ikke officielle sikkerhedsanvisninger eller lokal realtidsinformation."
+      },
+      {
+        "heading": "2. Nøjagtighed",
+        "content": "Vi opdaterer historiske og praktiske oplysninger løbende, men vejr, åbning og adgang kan ændre sig hurtigt på stedet. Tjek derfor igen før rejsen."
+      },
+      {
+        "heading": "3. Ophavsret",
+        "content": "Medmindre andet er angivet, må redaktionelle tekster og designelementer ikke gengives kommercielt uden tilladelse."
+      },
+      {
+        "heading": "4. Ansvar",
+        "content": "Beslutninger i felten træffes på eget ansvar. Udvis selvstændig forsigtighed i et udsat kystmiljø."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-indstillinger",
+    "description": "Administrér lokal lagring og valgfrie analysepræferencer for denne side.",
+    "essential": {
+      "title": "Nødvendige cookies",
+      "description": "Kræves til kernefunktioner som temavalg og gemte præferencer.",
+      "badge": "Altid aktiv"
+    },
+    "analytics": {
+      "title": "Analyse-cookies",
+      "description": "Bruges kun med dit samtykke for bedre at forstå brugen af siden."
+    },
+    "marketing": {
+      "title": "Marketing-cookies",
+      "description": "Er slået fra som standard. Projektet er ikke afhængigt af reklamebaseret sporing."
+    },
+    "save": "Gem indstillinger",
+    "saved": "Indstillinger gemt"
+  },
+  "officialManagement": {
+    "title": "Institutionel sammenhæng",
+    "text": "Rubjerg Knude forstås i dag ikke kun som et dramatisk landskab, men også som et eksempel på samspillet mellem naturforvaltning, regional formidling og kulturarvsarbejde. Stedet fortæller samtidigt om sandflugt, kysterosion og adaptiv bevaring ved Vesterhavet."
+  }
+}

@@ -1,11 +1,10 @@
 import { defineRouting } from 'next-intl/routing';
+import { defaultLocale, supportedLocales } from './config';
 
 export const routing = defineRouting({
-  locales: ['zh', 'en'],
-  defaultLocale: 'zh',
-  localePrefix: {
-    mode: 'as-needed',
-  },
+  locales: supportedLocales,
+  defaultLocale,
+  localePrefix: 'always',
   pathnames: {
     '/': '/',
     '/privacy-policy': '/privacy-policy',
