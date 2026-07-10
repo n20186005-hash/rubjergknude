@@ -5,6 +5,10 @@
   },
   "header": {
     "home": "Start",
+    "tickets": "Eintritt",
+    "transport": "Anreise",
+    "practicalInfo": "Praktische Infos",
+    "faq": "FAQ",
     "gallery": "Galerie",
     "reviews": "Bewertungen",
     "map": "Karte",

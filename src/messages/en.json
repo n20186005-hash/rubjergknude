@@ -5,6 +5,10 @@
   },
   "header": {
     "home": "Home",
+    "tickets": "Admission",
+    "transport": "Getting Here",
+    "practicalInfo": "Practical Info",
+    "faq": "FAQ",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",

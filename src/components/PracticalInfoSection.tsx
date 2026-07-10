@@ -17,7 +17,7 @@ export default function PracticalInfoSection() {
   const cards = messages.practicalInfo?.cards ?? [];
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="practicalInfo" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-5xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"

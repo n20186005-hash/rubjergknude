@@ -5,6 +5,10 @@
   },
   "header": {
     "home": "首页",
+    "tickets": "门票与入场",
+    "transport": "如何抵达",
+    "practicalInfo": "实用后勤信息",
+    "faq": "常见问题",
     "gallery": "图库",
     "reviews": "评价",
     "map": "地图",

@@ -5,6 +5,10 @@
   },
   "header": {
     "home": "Forside",
+    "tickets": "Entré",
+    "transport": "Transport",
+    "practicalInfo": "Praktisk info",
+    "faq": "FAQ",
     "gallery": "Galleri",
     "reviews": "Anmeldelser",
     "map": "Kort",

@@ -10,6 +10,7 @@ export default function Header() {
   const t = useTranslations('header');
   const locale = useLocale();
   const [scrolled, setScrolled] = useState(false);
+  const navSections = ['tickets', 'transport', 'practicalInfo', 'faq', 'gallery', 'reviews', 'map'] as const;
 
   useEffect(() => {
     const handler = () => setScrolled(window.scrollY > 50);
@@ -31,12 +32,12 @@ export default function Header() {
           Rubjerg Knude
         </a>
 
-        <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+        <nav className="hidden md:flex items-center gap-3 lg:gap-4 overflow-x-auto whitespace-nowrap max-w-[55vw]">
+          {navSections.map((section) => (
             <a
               key={section}
               href={`${getLocalePath(locale, '/')}#${section}`}
-              className="text-sm font-medium transition-colors"
+              className="text-xs lg:text-sm font-medium transition-colors"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
               {t(section)}

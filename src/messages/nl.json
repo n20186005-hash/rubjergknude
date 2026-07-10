@@ -5,6 +5,10 @@
   },
   "header": {
     "home": "Home",
+    "tickets": "Toegang",
+    "transport": "Bereikbaarheid",
+    "practicalInfo": "Praktische info",
+    "faq": "FAQ",
     "gallery": "Galerij",
     "reviews": "Beoordelingen",
     "map": "Kaart",
