@@ -59,7 +59,7 @@ export async function generateRegionalMetadata(
   };
 }
 
-export default async function RegionalGuide({
+export async function RegionalGuide({
   namespace,
   params,
 }: {
@@ -234,3 +234,5 @@ export default async function RegionalGuide({
     </>
   );
 }
+
+export default RegionalGuide;
