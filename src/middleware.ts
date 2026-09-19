@@ -1,6 +1,7 @@
 import { NextResponse, type NextRequest } from 'next/server';
 import createMiddleware from 'next-intl/middleware';
 import { routing } from './i18n/routing';
+import { defaultLocale, supportedLocales } from './i18n/config';
 
 const intlMiddleware = createMiddleware(routing);
 
@@ -12,19 +13,45 @@ const intlMiddleware = createMiddleware(routing);
 // a self-redirect structurally impossible.
 const APEX_HOST = 'rubjergknude.com';
 const CANONICAL_HOST = 'www.rubjergknude.com';
+const PATH_PLACEHOLDER = '/:path*';
+
+function buildRedirectUrl(request: NextRequest, pathname: string) {
+  const url = new URL(request.url);
+  url.protocol = 'https:';
+  url.port = '';
+  url.host = CANONICAL_HOST;
+  url.pathname = pathname;
+  return url;
+}
+
+function normalizePathname(pathname: string) {
+  if (pathname === '/') {
+    return `/${defaultLocale}`;
+  }
+
+  const localeWithPlaceholder = supportedLocales.find((locale) => pathname === `/${locale}${PATH_PLACEHOLDER}`);
+  if (localeWithPlaceholder) {
+    return `/${localeWithPlaceholder}`;
+  }
+
+  return pathname;
+}
 
 export default function middleware(request: NextRequest) {
+  const url = new URL(request.url);
+  const normalizedPathname = normalizePathname(url.pathname);
   const hostHeader = request.headers.get('host');
   if (hostHeader) {
     const hostname = hostHeader.split(':')[0].toLowerCase();
     if (hostname === APEX_HOST) {
-      const url = new URL(request.url);
-      url.protocol = 'https:';
-      url.port = '';
-      url.host = CANONICAL_HOST;
-      return NextResponse.redirect(url, 308);
+      return NextResponse.redirect(buildRedirectUrl(request, normalizedPathname), 308);
     }
   }
+
+  if (normalizedPathname !== url.pathname) {
+    return NextResponse.redirect(buildRedirectUrl(request, normalizedPathname), 308);
+  }
+
   return intlMiddleware(request);
 }
 
