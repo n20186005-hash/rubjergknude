@@ -19,7 +19,14 @@ type TideResponse = {
   extremes?: Extreme[];
 };
 
-async function getTides(): Promise<TideResponse | null> {
+// A validated response: extremes are guaranteed to be present and non-empty.
+type TideData = {
+  station?: { name?: string };
+  distance?: number;
+  extremes: Extreme[];
+};
+
+async function getTides(): Promise<TideData | null> {
   try {
     const start = new Date().toISOString();
     const end = new Date(Date.now() + 3 * 24 * 60 * 60 * 1000).toISOString();
@@ -32,8 +39,9 @@ async function getTides(): Promise<TideResponse | null> {
     });
     if (!res.ok) return null;
     const data = (await res.json()) as TideResponse;
-    if (!data.extremes || data.extremes.length === 0) return null;
-    return data;
+    const extremes = data.extremes;
+    if (!extremes || extremes.length === 0) return null;
+    return { ...data, extremes };
   } catch {
     return null;
   }

@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/:path*',
-        has: [{ type: 'host', value: 'rubjergknude.com' }],
+        has: [{ type: 'host' as const, value: 'rubjergknude.com' }],
         destination: 'https://www.rubjergknude.com/:path*',
         permanent: true,
       },
