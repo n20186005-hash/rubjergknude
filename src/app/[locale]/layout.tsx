@@ -19,6 +19,7 @@ export async function generateMetadata({
   const selfUrl = `${siteConfig.baseUrl}${getLocalePath(locale)}`;
 
   return {
+    metadataBase: new URL(siteConfig.baseUrl),
     title: messages.meta.title,
     description: messages.meta.description,
     alternates: {

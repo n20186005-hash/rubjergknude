@@ -1,6 +1,15 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
-import { getLocalePath } from '@/i18n/config';
+import { getLocalePath, GUIDES } from '@/i18n/config';
+
+function GuideLink({ ns, path, prefix }: { ns: string; path: string; prefix: string }) {
+  const t = useTranslations(ns);
+  return (
+    <a href={`${prefix}${path}`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+      {t('footerLink')}
+    </a>
+  );
+}
 
 export default function Footer() {
   const t = useTranslations('footer');
@@ -43,6 +52,9 @@ export default function Footer() {
             <a href={`${prefix}/cookie-settings`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('cookies')}
             </a>
+            {GUIDES.map((g) => (
+              <GuideLink key={g.ns} ns={g.ns} path={g.path} prefix={prefix} />
+            ))}
           </div>
         </div>
 

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Rubjerg Knude | Lighthouse, Wandering Dune, Parking and Visitor Guide",
-    "description": "Independent visitor guide to Rubjerg Knude on Denmark's North Sea coast, with history, the 2019 lighthouse relocation, parking, walking distances, toilets, accessibility notes and nearby EV charging."
+    "title": "Rubjerg Knude | Lighthouse, Dune & Visitor Guide in Denmark",
+    "description": "Plan your visit to Rubjerg Knude, Denmark's relocated lighthouse on the North Sea. Free outdoor access, parking at Fyrvejen 110, walking distances, toilets, accessibility and the best sunset viewpoint."
   },
   "header": {
     "home": "Home",
@@ -473,5 +473,299 @@
   "officialManagement": {
     "title": "Institutional Context",
     "text": "Rubjerg Knude is widely understood through the combined work of nature management, regional visitor information and heritage interpretation. The Danish Nature Agency and regional heritage actors frame the site not only as a scenic destination, but also as a record of dune migration, coastal erosion and adaptive conservation on the North Sea shore."
+  },
+  "northJutland": {
+    "meta": {
+      "title": "North Jutland & Lønstrup Travel Guide | Near Rubjerg Knude",
+      "description": "Plan a North Jutland coastal trip around Rubjerg Knude: the art village of Lønstrup, the beach town of Løkken, top things to do (seværdigheder), family activities and where to stay on Denmark's northwest coast."
+    },
+    "hero": {
+      "title": "North Jutland & Lønstrup Travel Guide",
+      "subtitle": "Build a coastal day trip around Rubjerg Knude — villages, beaches and things to do in Denmark's northwest."
+    },
+    "intro": "Rubjerg Knude sits on Denmark's northwest coast, in a stretch of North Jutland (Nordjylland) where small coastal villages, wide beaches and shifting dunes meet. Most visitors arrive for the lighthouse, but the surrounding region is worth a full day: fishing-town heritage, art studios, easy cycling and some of the country's most open coastline. This guide gathers the practical, search-friendly basics — Lønstrup, Løkken, things to do and where to stay — so you can plan a coherent North Jutland trip rather than a single stop.",
+    "sections": [
+      {
+        "id": "region",
+        "title": "Why North Jutland",
+        "body": "North Jutland (Nordjylland) is Denmark's northern region, anchored by the Limfjord and the North Sea coast. Around Rubjerg Knude the landscape is exceptionally open: long sandy beaches, low dunes and flat farmland behind the shore. The area is popular for self-drive coastal touring, cycling and quiet beach walks, and it pairs naturally with a visit to the lighthouse."
+      },
+      {
+        "id": "lonstrup",
+        "title": "Lønstrup",
+        "body": "Lønstrup is a small village about 15 minutes north of Rubjerg Knude, known for craft galleries, art studios and a relaxed creative atmosphere. Once a fishing village, it now draws visitors with ceramics, glass and textile workshops, cliff-top walking and a handful of cafés. It is a good base if you want a slower, design-led coastal stay."
+      },
+      {
+        "id": "lokken",
+        "title": "Løkken",
+        "body": "Løkken lies about 10 minutes south of Rubjerg Knude and is the main service town for the area. Expect a broad Blue Flag beach, supermarkets, restaurants, EV charging and the most reliable parking and supplies. Most visitors use Løkken as the practical hub — fuel, food and last-minute planning — before or after the dune walk."
+      },
+      {
+        "id": "thingsToDo",
+        "title": "Things to do (seværdigheder)",
+        "body": "Top things to do (seværdigheder) in the area include the Rubjerg Knude dune and lighthouse, cliff walks toward Lønstrup, the beaches at Løkken and Lønstrup, local art studios, and seasonal events run by regional tourism (Visit Nordvestkysten). Add a cycling loop on coastal roads and you have a full, low-stress day."
+      },
+      {
+        "id": "combine",
+        "title": "Combine with Rubjerg Knude",
+        "body": "Rubjerg Knude works best as the anchor of a coastal loop. Drive or cycle between Løkken (services), Rubjerg Knude (the dune and lighthouse) and Lønstrup (art and cliffs). Because the three are only 10–15 minutes apart, you can adapt the order to weather and wind, which matters on this exposed coast."
+      },
+      {
+        "id": "practical",
+        "title": "Practical planning",
+        "body": "Practical notes: self-drive is the easiest way to link the villages; public transport is limited and the final dune approach is always exposed to wind and sand. Plan supplies around Løkken, charge EVs there, and check wind and tide before setting out. Allow a half day to a full day for the combined loop."
+      }
+    ],
+    "highlightsTitle": "Highlights of the North Jutland coast",
+    "highlights": [
+      { "name": "Rubjerg Knude Fyr", "desc": "The relocated lighthouse and migrating dune that anchor the whole region." },
+      { "name": "Lønstrup", "desc": "Art studios, galleries and cliff walks in a former fishing village." },
+      { "name": "Løkken beach", "desc": "Wide Blue Flag beach with services, dining and EV charging." },
+      { "name": "Coastal cycling", "desc": "Flat, scenic routes linking villages and beaches along the North Sea." }
+    ],
+    "ctaTitle": "Ready to plan the lighthouse stop?",
+    "ctaText": "Return to the main Rubjerg Knude guide for parking, opening hours, the 2019 relocation story and visitor logistics.",
+    "backHome": "Back to Rubjerg Knude guide",
+    "footerLink": "North Jutland Guide"
+  },
+  "lonstrup": {
+    "meta": { "title": "Lønstrup Travel Guide | Art Village Near Rubjerg Knude", "description": "Lønstrup, Denmark: a cliff-top art village near Rubjerg Knude with galleries, ceramics and glass studios, cafés and coastal walks. Plan your visit from Rubjerg Knude." },
+    "hero": { "title": "Lønstrup Travel Guide", "subtitle": "The creative cliff-top village near Rubjerg Knude — galleries, studios and coastal walks in North Jutland." },
+    "intro": "Lønstrup is a small village on Denmark's North Sea coast, about 15 minutes north of Rubjerg Knude. Once a fishing settlement, it is now known for its cluster of art galleries, ceramics, glass and textile studios, and a relaxed creative atmosphere. Perched on low cliffs above the beach, it makes a natural pairing with a visit to the lighthouse and the dunes. This guide covers what to see, how to get there and why Lønstrup is worth a stop on a North Jutland coastal trip.",
+    "sections": [
+      { "id": "art", "title": "Art & galleries", "body": "Lønstrup's draw is its creative community. You'll find galleries and workshops for ceramics, glassblowing, painting and textiles, many open to visitors. Studios often sell directly, so it's a good place to pick up a unique Danish-design keepsake." },
+      { "id": "cliffs", "title": "The cliffs & beach", "body": "The village sits on low clay cliffs above a wide sandy beach. Paths lead down to the shore for walking and swimming, and the cliff-top route south toward Rubjerg Knude is one of the most scenic coastal walks in the area." },
+      { "id": "food", "title": "Food & cafés", "body": "A handful of cafés and restaurants serve coffee, cakes and seafood with a view. It's a pleasant place to break up a day of driving or walking along the northwest coast." },
+      { "id": "getting", "title": "Getting there", "body": "Lønstrup is reached by car from the main coastal road; parking is available in and around the village. It is about 15 minutes from Rubjerg Knude and 25 minutes from Løkken. Public transport is limited, so self-drive is easiest." },
+      { "id": "combine", "title": "Combine with Rubjerg Knude", "body": "Because Lønstrup and Rubjerg Knude are only about 15 minutes apart, most visitors combine them: the lighthouse and dune in one direction, the art village and cliffs in the other. Check wind and weather, as the coast is exposed." }
+    ],
+    "highlightsTitle": "Why visit Lønstrup",
+    "highlights": [
+      { "name": "Art studios", "desc": "Ceramics, glass and textile workshops open to visitors." },
+      { "name": "Cliff-top walks", "desc": "Scenic paths toward Rubjerg Knude along the North Sea." },
+      { "name": "Quiet beaches", "desc": "Wide sandy shore below the village, good for walks and swimming." },
+      { "name": "Creative atmosphere", "desc": "A former fishing village turned design destination." }
+    ],
+    "ctaTitle": "Plan the lighthouse stop too",
+    "ctaText": "Rubjerg Knude, the relocated lighthouse and migrating dune, is only 15 minutes away. Return to the main guide for parking, opening hours and the 2019 relocation story.",
+    "backHome": "Back to Rubjerg Knude guide",
+    "footerLink": "Lønstrup Guide",
+    "relatedTitle": "More North Jutland guides"
+  },
+  "lokken": {
+    "meta": { "title": "Løkken Travel Guide | Beach Town Near Rubjerg Knude", "description": "Løkken, Denmark: the main service town near Rubjerg Knude with a Blue Flag beach, supermarkets, restaurants, EV charging and the most reliable parking on the North Jutland coast." },
+    "hero": { "title": "Løkken Travel Guide", "subtitle": "The practical hub of Denmark's northwest coast — beach, food, parking and EV charging near Rubjerg Knude." },
+    "intro": "Løkken is a traditional Danish beach town on the North Sea, about 10 minutes south of Rubjerg Knude. With a broad Blue Flag beach, shops, supermarkets, restaurants and EV charging, it is the natural service base for visitors to the lighthouse and the surrounding coast. This guide explains why Løkken is the place to stock up, eat and charge before or after the dune walk.",
+    "sections": [
+      { "id": "beach", "title": "The beach", "body": "Løkken's wide sandy beach is Blue Flag certified and backed by classic Danish holiday cabins (sommerhuse). It's popular for swimming, walking and kite flying, and is one of the most family-friendly stretches of the northwest coast." },
+      { "id": "services", "title": "Services & shopping", "body": "Unlike the smaller villages, Løkken has supermarkets, bakeries, a pharmacy and a range of shops, making it the easiest place to plan supplies and last-minute needs on a coastal day trip." },
+      { "id": "food", "title": "Food & drink", "body": "Restaurants and cafés line the main street and the beach approach, serving Danish classics and seafood. It's the most reliable spot for a sit-down meal near Rubjerg Knude." },
+      { "id": "parking", "title": "Parking & EV charging", "body": "Løkken offers the most dependable parking in the area and EV charging points, so it's the recommended place to charge an electric car and leave the car if you prefer to cycle or walk to the dune." },
+      { "id": "combine", "title": "Combine with Rubjerg Knude", "body": "At about 10 minutes apart, Løkken and Rubjerg Knude form the core of a short loop: services and beach in Løkken, the lighthouse and dune at Rubjerg Knude. Lønstrup sits a further 15 minutes north for art and cliffs." }
+    ],
+    "highlightsTitle": "Why base yourself in Løkken",
+    "highlights": [
+      { "name": "Blue Flag beach", "desc": "Wide, family-friendly sandy beach with cabins behind it." },
+      { "name": "Reliable parking", "desc": "The easiest and most dependable parking near Rubjerg Knude." },
+      { "name": "EV charging", "desc": "Charge electric cars in town before the exposed dune approach." },
+      { "name": "Shops & food", "desc": "Supermarkets, bakeries and restaurants for trip planning." }
+    ],
+    "ctaTitle": "Ready for the dune walk?",
+    "ctaText": "From Løkken it's a short drive to Rubjerg Knude. Return to the main guide for parking at Fyrvejen 110, walking distances and accessibility.",
+    "backHome": "Back to Rubjerg Knude guide",
+    "footerLink": "Løkken Guide",
+    "relatedTitle": "More North Jutland guides"
+  },
+  "rabjergMile": {
+    "meta": { "title": "Råbjerg Mile | The Migrating Dune Near Rubjerg Knude", "description": "Råbjerg Mile, Denmark's migrating dune near Rubjerg Knude and Skagen: a vast wandering sand dune, walking trails, free access and how to combine it with Rubjerg Knude." },
+    "hero": { "title": "Råbjerg Mile Travel Guide", "subtitle": "Northern Europe's largest migrating dune — a vast sea of sand near Rubjerg Knude and Skagen." },
+    "intro": "Råbjerg Mile is a migrating coastal dune in North Jutland, about 20–25 minutes east of Rubjerg Knude. It is the largest moving dune in Northern Europe, a dramatic expanse of bare sand that slowly travels inland, swallowing paths and plantations as it goes. Free to visit and easy to walk, it pairs naturally with Rubjerg Knude as a second dune experience. This guide covers access, what to expect and how to plan both dunes in one trip.",
+    "sections": [
+      { "id": "what", "title": "What is Råbjerg Mile", "body": "Råbjerg Mile is a 1 km-wide migrating dune, roughly 40 metres high, that moves several metres a year. It began as a coastal dune and now sits inland, a striking 'desert' landscape surrounded by heath and forest." },
+      { "id": "walk", "title": "Walking the dune", "body": "A marked trail leads from the parking area to the dune, about 1 km across heath and through a plantation. The final approach is open sand, so sturdy shoes and wind protection help." },
+      { "id": "free", "title": "Free & open", "body": "Like Rubjerg Knude, Råbjerg Mile has no ticket or fence; access is free and the area is open all year. Facilities are limited, so plan supplies around nearby towns." },
+      { "id": "getting", "title": "Getting there", "body": "Råbjerg Mile is reached by car from the coastal road between Frederikshavn and Skagen, with a dedicated parking area. It is roughly 20–25 minutes from Rubjerg Knude, so the two are easy to combine in a half day." },
+      { "id": "combine", "title": "Combine with Rubjerg Knude", "body": "The two dunes tell different stories: Rubjerg Knude wraps a relocated lighthouse in migrating sand; Råbjerg Mile is pure wandering dune. Visiting both shows the scale of dune migration on Denmark's north coast." }
+    ],
+    "highlightsTitle": "Why visit Råbjerg Mile",
+    "highlights": [
+      { "name": "Largest moving dune", "desc": "Northern Europe's biggest migrating dune, about 40 m high." },
+      { "name": "Free access", "desc": "No ticket or fence; open all year." },
+      { "name": "Easy trails", "desc": "Marked walking route from the car park to the sand." },
+      { "name": "Pair with Rubjerg Knude", "desc": "Two very different dune experiences in one half-day." }
+    ],
+    "ctaTitle": "See the lighthouse dune too",
+    "ctaText": "Rubjerg Knude, with its relocated lighthouse in the sand, is 20–25 minutes away. Return to the main guide for parking, opening hours and the 2019 relocation story.",
+    "backHome": "Back to Rubjerg Knude guide",
+    "footerLink": "Råbjerg Mile Guide",
+    "relatedTitle": "More North Jutland guides"
+  },
+  "hjorring": {
+    "meta": { "title": "Hjørring Travel Guide | Base Town Near Rubjerg Knude", "description": "Hjørring, Denmark: the main town and municipality near Rubjerg Knude with supermarkets, transport links, museums and services — your practical base for the North Jutland coast." },
+    "hero": { "title": "Hjørring Travel Guide", "subtitle": "The largest town near Rubjerg Knude — services, transport and culture for your North Jutland base." },
+    "intro": "Hjørring is the main town of the municipality that includes Rubjerg Knude and the surrounding coast, about 20–25 minutes inland from the lighthouse. With supermarkets, a train connection, museums and full services, it is the practical base for visitors who want more than the beach. This guide explains how Hjørring fits into a Rubjerg Knude trip and what the town offers.",
+    "sections": [
+      { "id": "municipality", "title": "The municipality", "body": "Rubjerg Knude, Lønstrup and Løkken all sit within Hjørring Municipality (Hjørring Kommune). Understanding this helps with maps, local tourism (Visit Nordvestkysten) and regional planning." },
+      { "id": "services", "title": "Services & transport", "body": "Hjørring has the area's fullest range of supermarkets, banks, a hospital and a train station with links toward Aalborg and beyond, making it the most convenient place to resupply on a longer trip." },
+      { "id": "culture", "title": "Culture & museums", "body": "The town offers museums, a cinema and events, giving a cultural counterpoint to the coastal villages. It's a good rainy-day option near Rubjerg Knude." },
+      { "id": "getting", "title": "Getting there", "body": "Hjørring lies inland from the coast, about 20–25 minutes by car from Rubjerg Knude via the main roads. It is the recommended place to handle errands before heading out to the dune and villages." },
+      { "id": "combine", "title": "Combine with Rubjerg Knude", "body": "Use Hjørring as your inland base: shop and travel by train, then make the short drive to Rubjerg Knude, Lønstrup and Løkken for the coast. The three coastal stops are 10–25 minutes from town." }
+    ],
+    "highlightsTitle": "Why use Hjørring as a base",
+    "highlights": [
+      { "name": "Full services", "desc": "Supermarkets, banks, hospital and the area's main transport hub." },
+      { "name": "Train links", "desc": "Rail connections toward Aalborg and the rest of Denmark." },
+      { "name": "Culture", "desc": "Museums, cinema and events for a rainy-day plan." },
+      { "name": "Central location", "desc": "20–25 minutes from Rubjerg Knude, Lønstrup and Løkken." }
+    ],
+    "ctaTitle": "Head to the coast",
+    "ctaText": "From Hjørring, Rubjerg Knude is a short drive. Return to the main guide for parking, opening hours and the 2019 lighthouse relocation story.",
+    "backHome": "Back to Rubjerg Knude guide",
+    "footerLink": "Hjørring Guide",
+    "relatedTitle": "More North Jutland guides"
+  },
+  "weather": {
+    "title": "Current Weather & Forecast",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precip": "Rain chance",
+    "uv": "UV",
+    "umbrella": "Likely rain today — bring a waterproof layer and keep cameras protected from spray.",
+    "noRain": "Mostly dry — a good window for the coastal walk, though wind can still be strong.",
+    "forecast": "7-Day Outlook",
+    "today": "Today",
+    "updated": "Coastal conditions change quickly; check again before you set out.",
+    "error": "Live weather is briefly unavailable. Please check a weather service before travelling.",
+    "cond": { "clear": "Clear", "partlyCloudy": "Partly cloudy", "cloudy": "Cloudy", "fog": "Fog", "drizzle": "Drizzle", "rain": "Rain", "snow": "Snow", "thunder": "Thunder" }
+  },
+  "services": {
+    "title": "Facilities & Nearby Services",
+    "intro": "Rubjerg Knude has minimal built infrastructure by design — it is a protected coastal landscape, not a serviced leisure park. Most visitor needs are met in the surrounding towns. The overview is type-based and neutral; we do not endorse specific businesses.",
+    "whereLabel": "Where",
+    "tip": "Plan supplies, charging and meals around Løkken (south, ~10 min) or Lønstrup (north, ~15 min). There are no toilets or shops at the dune itself.",
+    "items": [
+      { "name": "Toilets (WC)", "desc": "Public toilet facilities are typically provided near the main arrival area in high season, but availability is seasonal and limited outside summer. There are none at the lighthouse or along the dune trail.", "where": "Main parking area / Løkken" },
+      { "name": "Parking", "desc": "A main visitor parking area serves the site at Fyrvejen 110. It is the most reliable place to leave a car; in peak periods it can fill, so earlier arrival helps.", "where": "Fyrvejen 110, Løkken" },
+      { "name": "Food & drink", "desc": "There are no cafés or restaurants at the site. Casual dining, coffee and seafood concentrate in the nearby coastal towns, especially Løkken and Lønstrup.", "where": "Løkken, Lønstrup" },
+      { "name": "Accommodation", "desc": "Stays range from seaside hotels and guesthouses to holiday apartments and campsites in the wider area. The closest clusters are in Løkken and Hjørring.", "where": "Løkken, Hjørring" },
+      { "name": "Groceries & shops", "desc": "Supermarkets, bakeries and pharmacies are in the towns, not at the dune. Løkken and Hjørring offer the fullest everyday shopping.", "where": "Løkken, Hjørring" },
+      { "name": "Fuel & EV charging", "desc": "Petrol stations and public EV charging points are in the towns. There is no fuel or charging at the parking area, so charge and refuel before the final approach.", "where": "Løkken, Hjørring" }
+    ]
+  },
+  "transportGuide": {
+    "title": "How to Get Here — Step by Step",
+    "intro": "Rubjerg Knude is rural and exposed; the last stretch is always on foot across sand. The notes below give a practical sequence for each way of arriving.",
+    "air": { "title": "By air → Aalborg Airport", "intro": "Aalborg Airport (AAL) is the nearest airport with scheduled flights, about an hour's drive from the coast.", "steps": ["Land at Aalborg Airport and collect a rental car, or take the airport bus/train link toward Aalborg city.", "From Aalborg, continue north-west by train or bus toward Hjørring, then toward Løkken.", "The final leg from Løkken to the dune (about 10 minutes) is easiest by rental car, taxi or bicycle.", "If not driving, pre-book a taxi for the last stretch, as rural public transport is limited."], "note": "A rental car makes the coastal loop (Løkken–Rubjerg Knude–Lønstrup) far easier." },
+    "public": { "title": "By public transport", "intro": "Trains and regional buses reach the region, but none stop at the dune; expect a transfer and a final taxi or bike ride.", "steps": ["Take a train to Hjørring (via Aalborg) — the main rail hub for North Jutland.", "From Hjørring, use a regional bus toward Løkken, or a direct connection if available.", "From Løkken, take a taxi or cycle the final 10–15 minutes to the parking area.", "Check seasonal timetables in advance; rural services are less frequent in winter."], "note": "Public transport is possible but slow; self-drive is strongly recommended for first-time visitors." },
+    "taxi": { "title": "By taxi / rideshare", "intro": "Taxis and rideshare serve the area but should be booked ahead outside the towns.", "steps": ["From Aalborg: a taxi takes roughly 60 minutes and is metered.", "From Hjørring: about 25 minutes to the parking area.", "From Løkken: about 10 minutes to the parking area.", "Pre-book, especially in the evening or off-season, as hailing on the spot is unreliable."], "note": "Set the destination as 'Fyrvejen 110, Løkken' to avoid being dropped at the tower itself." },
+    "car": { "title": "By car (recommended)", "intro": "Driving is the most practical option and links the villages and the dune in one loop.", "steps": ["From Aalborg: follow the E39/E17 coastal route west, then north toward Løkken (about 1 hour).", "From Hjørring: take the coastal road via route 55 toward Løkken, then follow signs to Rubjerg Knude (about 25 minutes).", "Set navigation to 'Fyrvejen 110, 9800 Løkken' rather than the tower.", "Park at the main area; the lighthouse is a 1.2–1.5 km walk across sand."], "note": "The final approach is on soft sand — allow extra time and wear sturdy shoes." }
+  },
+  "seasonal": {
+    "title": "Seasonal Visiting Strategy",
+    "intro": "The North Sea coast has a strongly seasonal rhythm. Use the table to match your plan to the time of year; conditions can vary year to year.",
+    "category": "Aspect",
+    "springName": "Spring", "summerName": "Summer", "autumnName": "Autumn", "winterName": "Winter",
+    "weatherLabel": "Weather", "windSandLabel": "Wind & sand", "activitiesLabel": "Best for", "cautionLabel": "Cautions",
+    "spring": { "weather": "Cool, bright intervals; snowmelt gives long, low light.", "windSand": "Wind picks up; sand drift begins as days lengthen.", "activities": "Quiet photography, birdlife, first wildflowers.", "caution": "Unstable paths after winter; dress in layers." },
+    "summer": { "weather": "Warmest and driest period; long daylight, occasionally misty.", "windSand": "Afternoon sea breeze; sand drift moderate.", "activities": "Families, swimming, full services, long walks.", "caution": "Peak crowds and full accommodation — book stays early." },
+    "autumn": { "weather": "Mild early, then stormier; dramatic skies.", "windSand": "Rising wind and active sand drift.", "activities": "Photography, solitude, dramatic coastal light.", "caution": "Shorter days; check closures and light." },
+    "winter": { "weather": "Cold, short days; frost and occasional snow.", "windSand": "Hard wind exposure; icy patches possible.", "activities": "Solitude, stark coastal scenery.", "caution": "Lighthouse interior often closed; wrap up very warm." }
+  },
+  "routePlans": {
+    "title": "Suggested Itineraries",
+    "intro": "Three tailored routes for different travellers, plus a general plan you can adapt on the day depending on wind and light.",
+    "plans": [
+      { "name": "Families with children", "audience": "Slow pace, facilities first", "steps": ["Base in or near Løkken for toilets, food and easy parking.", "Arrive mid-morning; keep the dune walk short and use a baby carrier on sand.", "Picnic or lunch in town, then a short, wind-sheltered beach stop.", "Return before late afternoon when it cools quickly."] },
+      { "name": "Photography & nature", "audience": "Light, dunes, erosion", "steps": ["Start at the cliff line for erosion and sea horizon.", "Move to the dune ridge for the lighthouse-in-sand composition.", "Shoot late-day western light for relief in the sand.", "Extend to Lønstrup cliffs if wind allows."] },
+      { "name": "Low-effort / accessible", "audience": "Step-free, shorter distances", "steps": ["Use the main parking area and the most structured viewpoint.", "Avoid the soft sandy ascent; enjoy the approach zone from firm ground.", "Keep to the upper access path and return before fatigue.", "Pair with a town visit where surfaces are paved."] }
+    ],
+    "generalTitle": "General plan",
+    "halfTitle": "Half-day (2.5–3 h)", "halfDesc": "Park, walk to the lighthouse, observe the dune–cliff landscape, return. Add Løkken for a meal.",
+    "fullTitle": "Full-day (5–6 h)", "fullDesc": "Combine Rubjerg Knude with Løkken (services/beach) and Lønstrup (art/cliffs), adapting order to wind and light."
+  },
+  "science": {
+    "title": "Coastal Science & Heritage",
+    "intro": "Rubjerg Knude is a textbook example of active coastal processes. Understanding the mechanics helps visitors read the landscape and see why management moved the lighthouse.",
+    "topics": [
+      { "title": "Dune migration", "body": "Fine sand lifted from the eroding cliff face is carried inland by persistent westerly winds and rebuilt into moving dunes. Ridges, paths and sightlines can shift noticeably between visits — the site is never quite the same twice." },
+      { "title": "Cliff erosion", "body": "The North Sea removes cliff material year after year, moving the coastline steadily landward. This is the process that ultimately forced the 2019 relocation of the lighthouse inland." },
+      { "title": "Managed retreat", "body": "Rather than freezing the lighthouse in place, authorities moved it about 70 m inland on rails in 2019. It is a rare, visible case of heritage adaptation to a changing coast." }
+    ],
+    "responsibilityTitle": "Visitor responsibility",
+    "responsibilityIntro": "Because the landscape is dynamic and minimally engineered, small choices protect it for others.",
+    "responsibility": ["Stay on marked paths and the structured viewpoint; avoid unstable cliff edges.", "Take all litter away — there are no bins on the dune.", "Keep dogs under control near wildlife and cliffs.", "Follow any temporary closures or safety signs on site.", "Do not climb fenced or unstable areas, even when wind exposes new ground."]
+  },
+  "stories": {
+    "title": "Stories & Background",
+    "intro": "Beyond the geology, Rubjerg Knude carries a century of human stories. The notes below separate documented history from local folklore, which is part of the site's cultural heritage.",
+    "items": [
+      { "title": "Life of the keepers", "body": "From 1900 the lighthouse was manned by keepers who cleared sand constantly and maintained the light through harsh North Sea weather. Their routine shows how demanding remote maritime work was before automated navigation." },
+      { "title": "The sand that swallowed a museum", "body": "In the late 20th century a museum was set up at the station, only for advancing sand to overwhelm it and force closure in 2002. The dune, not people, had the last word." },
+      { "title": "The great move of 2019", "body": "With the cliff edge closing in, the 23-metre tower was placed on a rail system and rolled about 70 m inland. The operation drew international attention as a symbol of adapting heritage to erosion." },
+      { "title": "Local tales of the drifting dune", "body": "Coastal communities long spoke of the 'wandering dune' as a near-living force that buried fields and buildings. These folk accounts are not measurements, but they capture a real, observable process in human terms." }
+    ]
+  },
+  "tides": {
+    "title": "Tides & Coastal Awareness",
+    "intro": "The North Sea along this coast has a semidiurnal tide — about two highs and two lows in every 24 hours, with a modest range. The tide reshapes the shoreline and changes how you move along it, so a quick check before you set out is worthwhile.",
+    "patternTitle": "The tidal rhythm",
+    "patternDesc": "Expect the water to rise and fall roughly twice a day. Near Rubjerg Knude the range is small — typically well under a metre relative to mean sea level — yet it still redraws the beach and the foot of the cliffs.",
+    "lowTitle": "At low tide",
+    "lowDesc": "The beach is at its widest and the sand flats are exposed, good for a shore walk and for seeing the cliff base. The walk from the car park to the lighthouse crosses the higher dunes, so it is not affected by the tide.",
+    "highTitle": "At high tide",
+    "highDesc": "The sea pushes further up the beach and can break right at the base of the eroding cliffs. Keep your distance from the cliff face and never shelter beneath it.",
+    "bestTitle": "Best timing",
+    "bestDesc": "A falling or low tide often brings the calmest, widest shore and the clearest light on the sand. Pair it with a wind and rain check from the weather panel above.",
+    "safetyTitle": "Coastal safety",
+    "safety": [
+      "Sneaker waves can surge higher than the prevailing tide — never turn your back on the sea near the waterline.",
+      "Stay well clear of the cliff base, especially near high tide and after storms when erosion is most active.",
+      "Soft sand and the wet foreshore tire you quickly; allow extra time for the return walk.",
+      "Tide times shift daily — check a current local tide table (for example the Danish Meteorological Institute) before you go."
+    ],
+    "liveTitle": "Upcoming tide extremes (local time)",
+    "liveNote": "Nearest reference station: {station} (~{distance} km away). Times are local (Europe/Copenhagen) and for guidance only.",
+    "high": "High",
+    "low": "Low",
+    "level": "Level",
+    "error": "The live tide table is briefly unavailable. Please check the Danish Meteorological Institute for current times before travelling."
+  },
+  "weatherTips": {
+    "travelTitle": "Travel & clothing",
+    "activityTitle": "Activities",
+    "essentialsTitle": "What to bring",
+    "riskTitle": "Safety notice",
+    "adv": {
+      "sunnyGood": "Fine weather — good for being outdoors.",
+      "sunriseSunset": "Great for sunrise, sunset and coastal views.",
+      "cloudyPhoto": "Soft light — excellent for photography.",
+      "longOutdoor": "No harsh sun — comfortable for longer outdoor time.",
+      "lightRainSlip": "Light rain — surfaces are slippery, watch your step.",
+      "openPoor": "Open-air experiences are less enjoyable in the rain.",
+      "foldUmbrella": "Folding umbrella",
+      "rainLikely": "Rain is likely — bring weather protection.",
+      "rainIndoor": "Prefer indoor stops; delay beach and open-coast time.",
+      "heavyRainAvoid": "Heavy rain — avoid the low beach and the cliff base.",
+      "noOutdoor": "Outdoor wandering is not advised; sea activities may be shut.",
+      "raincoat": "Raincoat (avoid a long umbrella in the wind)",
+      "thunderSafety": "Thunder risk — keep away from the cliff edge, the sea and trees.",
+      "waterClosed": "Water-based activities are most likely closed.",
+      "highTempNoon": "It is warm — avoid being out at midday.",
+      "shortenOutdoor": "Keep outdoor time shorter.",
+      "sunProtectWater": "Sun protection and plenty of drinking water",
+      "uvStrong": "Strong sun — protect your skin.",
+      "uvGear": "Sunscreen, sunglasses and a hat",
+      "bigDiffJacket": "Big day–night temperature swing — bring a layer you can add or remove.",
+      "lowTempCold": "Cold — dress warmly against the wind.",
+      "warmGear": "Warm jacket and scarf",
+      "windModerate": "Breezy — coastal boat trips and some open-air activities may pause.",
+      "coastalStop": "Boat trips and exposed cliff-top activities may be suspended.",
+      "hatBlows": "Hats blow away easily; avoid loose long skirts.",
+      "windStrong": "Strong wind — keep clear of the cliff edge and the surf zone.",
+      "seaClosed": "Sea activities are very likely cancelled.",
+      "fogVisibility": "Poor visibility — ferries and flights may be delayed; sea views are limited.",
+      "mask": "Face mask"
+    }
   }
 }

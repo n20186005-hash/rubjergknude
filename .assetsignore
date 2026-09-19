@@ -1,0 +1,28 @@
+# Files that should NOT be uploaded when deploying to Cloudflare Workers.
+# Excludes dependencies, build caches, secrets and local noise.
+# Source and config are kept so the build step has what it needs.
+
+# Dependencies
+node_modules/
+
+# Build caches / metadata
+.next/
+.vercel/
+.wrangler/
+.cache/
+.turbo/
+coverage/
+*.tsbuildinfo
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Logs & OS / editor noise
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

@@ -473,5 +473,299 @@
   "officialManagement": {
     "title": "Institutionele context",
     "text": "Rubjerg Knude wordt vandaag niet alleen gezien als een indrukwekkend landschap, maar ook als een voorbeeld van hoe natuurbeheer, regionale publieksinformatie en erfgoedinterpretatie samenkomen. De locatie vertelt tegelijk over zandverstuiving, kusterosie en adaptief behoud aan de Noordzee."
+  },
+  "northJutland": {
+    "meta": {
+      "title": "Reisgids Noord-Jutland & Lønstrup | bij Rubjerg Knude",
+      "description": "Plan een Noord-Jutland-kustreis rond Rubjerg Knude: het kunstdorp Lønstrup, het badplaatsje Løkken, topuitstapjes (seværdigheder), gezinsactiviteiten en verblijf aan Denemarkens noordwestkust."
+    },
+    "hero": {
+      "title": "Reisgids Noord-Jutland & Lønstrup",
+      "subtitle": "Stel een kustdaguitstap samen rond Rubjerg Knude – dorpen, stranden en bezienswaardigheden in Denemarkens noordwesten."
+    },
+    "intro": "Rubjerg Knude ligt aan Denemarkens noordwestkust, in een deel van Noord-Jutland waar kleine kustdorpen, brede stranden en wandelduinen samenkomen. De meeste bezoekers komen voor de vuurtoren, maar de omgeving is een hele dag reis waard: vissersdorpserfgoed, kunstateliers, makkelijk fietsen en enkele van de openste kusten van het land. Deze gids bundelt de praktische, zoekvriendelijke basis – Lønstrup, Løkken, uitstapjes en verblijf – zodat je een samenhangende Noord-Jutland-reis plant in plaats van slechts één stop.",
+    "sections": [
+      {
+        "id": "region",
+        "title": "Waarom Noord-Jutland",
+        "body": "Noord-Jutland is Denemarkens noordelijke regio, verbonden met het Limfjord en de Noordzeekust. Rond Rubjerg Knude is het landschap uitzonderlijk open: lange zandstranden, lage duinen en vlak achterland. Het gebied leent zich voor kustritten met de auto, fietsen en rustige strandwandelingen en combineert natuurlijk met een bezoek aan de vuurtoren."
+      },
+      {
+        "id": "lonstrup",
+        "title": "Lønstrup",
+        "body": "Lønstrup is een klein dorp ongeveer 15 minuten ten noorden van Rubjerg Knude, bekend om kunstgalerijen, ateliers en een ontspannen creatieve sfeer. Van een vissersdorp werd het een bestemming voor keramiek-, glas- en textielwerkplaatsen, klifwandelingen en een handvol cafés. Het is een goede basis voor een rustiger, designgericht kustverblijf."
+      },
+      {
+        "id": "lokken",
+        "title": "Løkken",
+        "body": "Løkken ligt ongeveer 10 minuten ten zuiden van Rubjerg Knude en is het belangrijkste voorzieningendorp van de streek. Verwacht een breed Blue Flag-strand, supermarkten, restaurants, EV-laadpunten en de betrouwbaarste parkeerplek en bevoorrading. De meeste bezoekers gebruiken Løkken als praktische hub – tanken, eten en last-minute plannen – voor of na de duinwandeling."
+      },
+      {
+        "id": "thingsToDo",
+        "title": "Bezienswaardigheden (seværdigheder)",
+        "body": "Tot de topuitstapjes (seværdigheder) in de regio behoren de Rubjerg Knude-duin en vuurtoren, klifwandelingen richting Lønstrup, de stranden bij Løkken en Lønstrup, lokale kunstateliers en seizoensevenementen van regionaal toerisme (Visit Nordvestkysten). Voeg een fietstocht over kustwegen toe en je hebt een volle, ontspannen dag."
+      },
+      {
+        "id": "combine",
+        "title": "Combineer met Rubjerg Knude",
+        "body": "Rubjerg Knude werkt het best als ankerpunt van een kustroute. Rijd of fiets tussen Løkken (voorzieningen), Rubjerg Knude (duin en vuurtoren) en Lønstrup (kunst en klif). Omdat de drie maar 10–15 minuten van elkaar liggen, kun je de volgorde aanpassen aan weer en wind, wat aan deze blootgestelde kust veel uitmaakt."
+      },
+      {
+        "id": "practical",
+        "title": "Praktische planning",
+        "body": "Praktische notitie: de auto is de makkelijkste manier om de dorpen te verbinden; openbaar vervoer is beperkt en het laatste duingedeelte is altijd blootgesteld aan wind en zand. Plan bevoorrading en EV-laden rond Løkken en controleer wind en tij voor vertrek. Reken op een halve tot hele dag voor de gecombineerde route."
+      }
+    ],
+    "highlightsTitle": "Hoogtepunten van de Noord-Jutlandse kust",
+    "highlights": [
+      { "name": "Rubjerg Knude Fyr", "desc": "De verplaatste vuurtoren en het wandelduin die de hele regio kenmerken." },
+      { "name": "Lønstrup", "desc": "Kunstateliers, galerijen en klifwandelingen in een voormalig vissersdorp." },
+      { "name": "Løkken Strand", "desc": "Breed Blue Flag-strand met voorzieningen, horeca en EV-laden." },
+      { "name": "Kustfietsen", "desc": "Vlakke, schilderachtige routes langs de Noordzee tussen dorpen en stranden." }
+    ],
+    "ctaTitle": "Klaar om het vuurtorenbezoek te plannen?",
+    "ctaText": "Terug naar de hoofdgids voor Rubjerg Knude met parkeren, openingstijden, de verplaatsing van 2019 en bezoekerslogistiek.",
+    "backHome": "Terug naar de Rubjerg Knude-gids",
+    "footerLink": "Reisgids Noord-Jutland"
+  },
+  "lonstrup": {
+    "meta": { "title": "Reisgids Lønstrup | kunstdorp bij Rubjerg Knude", "description": "Lønstrup in Denemarken: een kunstdorp op de kliffen bij Rubjerg Knude met galerijen, keramiek- en glasateliers, café's en kustwandelingen. Plan je bezoek vanaf Rubjerg Knude." },
+    "hero": { "title": "Reisgids Lønstrup", "subtitle": "Het creatieve klifdorp bij Rubjerg Knude – galerijen, ateliers en kustwandelingen in Noord-Jutland." },
+    "intro": "Lønstrup is een klein dorp aan Denemarkens Noordzeekust, ongeveer 15 minuten ten noorden van Rubjerg Knude. Van een voormalig vissersdorp werd het een plek met galerijen, keramiek-, glas- en textielateliers en een ontspannen creatieve sfeer. Op lage kliffen boven het strand is het een natuurlijke aanvulling op een bezoek aan de vuurtoren en de duinen. Deze gids behandelt wat je ziet, hoe je er komt en waarom Lønstrup een stop waard is op een Noord-Jutland-kustreis.",
+    "sections": [
+      { "id": "art", "title": "Kunst & galerijen", "body": "Het bijzondere aan Lønstrup is de kunstenaarsgemeenschap. Er zijn galerijen en werkplaatsen voor keramiek, glasblazen, schilderen en textiel, veel open voor bezoekers. In de ateliers wordt vaak direct verkocht – een goede plek voor een uniek Deens design-souvenir." },
+      { "id": "cliffs", "title": "Kliffen & strand", "body": "Het dorp ligt op lage kleikliffen boven een breed zandstrand. Paden leiden naar de kust om te wandelen en zwemmen, en de klifroute zuidwaarts naar Rubjerg Knude hoort bij de mooiste kustwandelingen van de streek." },
+      { "id": "food", "title": "Eten & café's", "body": "Een handvol café's en restaurants serveert koffie, gebak en zeevruchten met uitzicht. Een aangename plek om een dag aan de noordwestkust te onderbreken." },
+      { "id": "getting", "title": "Ergens komen", "body": "Lønstrup bereik je met de auto vanaf de kustweg; parkeren kan in en rond het dorp. Het ligt ongeveer 15 minuten van Rubjerg Knude en 25 minuten van Løkken. Openbaar vervoer is beperkt, dus de auto is het makkelijkst." },
+      { "id": "combine", "title": "Combineer met Rubjerg Knude", "body": "Omdat Lønstrup en Rubjerg Knude maar ongeveer 15 minuten van elkaar liggen, combineren de meeste bezoekers beide: vuurtoren en duin de ene kant, kunstdorp en kliffen de andere. Controleer wind en weer, want de kust is blootgesteld." }
+    ],
+    "highlightsTitle": "Waarom Lønstrup bezoeken",
+    "highlights": [
+      { "name": "Kunstateliers", "desc": "Keramiek-, glas- en textielwerkplaatsen open voor bezoekers." },
+      { "name": "Kliffenwandelingen", "desc": "Schilderachtige paden naar Rubjerg Knude langs de Noordzee." },
+      { "name": "Rustige stranden", "desc": "Breed zandstrand onder het dorp, goed om te wandelen en zwemmen." },
+      { "name": "Creatieve sfeer", "desc": "Van een vissersdorp werd een designbestemming." }
+    ],
+    "ctaTitle": "Plan ook het vuurtorenbezoek",
+    "ctaText": "Rubjerg Knude, de verplaatste vuurtoren en het wandelduin, ligt maar 15 minuten verder. Terug naar de hoofdgids voor parkeren, openingstijden en de verplaatsing van 2019.",
+    "backHome": "Terug naar de Rubjerg Knude-gids",
+    "footerLink": "Reisgids Lønstrup",
+    "relatedTitle": "Meer reisgidsen Noord-Jutland"
+  },
+  "lokken": {
+    "meta": { "title": "Reisgids Løkken | badplaats bij Rubjerg Knude", "description": "Løkken in Denemarken: de hoofdvoorzieningenplaats bij Rubjerg Knude met Blue Flag-strand, supermarkten, restaurants, EV-laadpunten en de betrouwbaarste parkeerplek aan de Noord-Jutlandse kust." },
+    "hero": { "title": "Reisgids Løkken", "subtitle": "De praktische hub aan Denemarkens noordwestkust – strand, eten, parkeren en EV-laden bij Rubjerg Knude." },
+    "intro": "Løkken is een traditioneel Deens badplaats aan de Noordzee, ongeveer 10 minuten ten zuiden van Rubjerg Knude. Met een breed Blue Flag-strand, winkels, supermarkten, restaurants en EV-laden is het de natuurlijke voorzieningenbasis voor bezoekers van de vuurtoren en de kust. Deze gids legt uit waarom Løkken de plek is om voor of na de duinwandeling boodschappen te doen, te eten en te laden.",
+    "sections": [
+      { "id": "beach", "title": "Het strand", "body": "Løkkens brede zandstrand is Blue Flag-gecertificeerd en omringd door klassieke Deense vakantiehuisjes (sommerhuse). Het is populair om te zwemmen, wandelen en vliegeren, en behoort tot de meest gezinsvriendelijke stukken van de noordwestkust." },
+      { "id": "services", "title": "Voorzieningen & winkelen", "body": "Anders dan de kleinere dorpen heeft Løkken supermarkten, bakkerijen, een apotheek en diverse winkels – de makkelijkste plek om op een kusttocht proviand en last-minute benodigdheden te plannen." },
+      { "id": "food", "title": "Eten & drinken", "body": "Restaurants en café's flankeren de hoofdstraat en de strandtoegang en serveren Deense klassiekers en zeevruchten. Hier eet je het meest betrouwbaar in de buurt van Rubjerg Knude." },
+      { "id": "parking", "title": "Parkeren & EV-laden", "body": "Løkken biedt de betrouwbaarste parkeerplek van de streek en EV-laadpunten – dus de aanbevolen plek om een EV te laden en te parkeren als je liever naar de duin fietst of loopt." },
+      { "id": "combine", "title": "Combineer met Rubjerg Knude", "body": "Op ongeveer 10 minuten afstand vormen Løkken en Rubjerg Knude de kern van een korte route: voorzieningen en strand in Løkken, vuurtoren en duin bij Rubjerg Knude. Lønstrup ligt nog eens 15 minuten noordelijker voor kunst en kliffen." }
+    ],
+    "highlightsTitle": "Waarom Løkken als basis",
+    "highlights": [
+      { "name": "Blue Flag-strand", "desc": "Breed, gezinsvriendelijk zandstrand met huisjes erachter." },
+      { "name": "Betrouwbaar parkeren", "desc": "De makkelijkste en meest betrouwbare parkeerplek bij Rubjerg Knude." },
+      { "name": "EV-laden", "desc": "Laad EV's in het dorp voor de blootgestelde duintoegang." },
+      { "name": "Winkels & eten", "desc": "Supermarkten, bakkerijen en restaurants voor reisplanning." }
+    ],
+    "ctaTitle": "Klaar voor de duinwandeling?",
+    "ctaText": "Vanuit Løkken is het een korte rit naar Rubjerg Knude. Terug naar de hoofdgids voor parkeren aan de Fyrvejen 110, loopafstanden en toegankelijkheid.",
+    "backHome": "Terug naar de Rubjerg Knude-gids",
+    "footerLink": "Reisgids Løkken",
+    "relatedTitle": "Meer reisgidsen Noord-Jutland"
+  },
+  "rabjergMile": {
+    "meta": { "title": "Råbjerg Mile | het wandelduin bij Rubjerg Knude", "description": "Råbjerg Mile, het wandelduin van Denemarken bij Rubjerg Knude en Skagen: een enorm zandduin, wandelroutes, gratis toegang en hoe je het met Rubjerg Knude combineert." },
+    "hero": { "title": "Reisgids Råbjerg Mile", "subtitle": "Noord-Europa's grootste wandelduin – een enorm zandzee bij Rubjerg Knude en Skagen." },
+    "intro": "Råbjerg Mile is een wandelende kustduin in Noord-Jutland, ongeveer 20–25 minuten ten oosten van Rubjerg Knude. Het is het grootste verplaatsende duin van Noord-Europa, een dramatisch vlak bar zand dat langzaam landinwaarts trekt en onderweg paden en plantages opslokt. Gratis toegankelijk en makkelijk te bewandelen, het vormt een natuurlijke aanvulling op Rubjerg Knude als een tweede duinbeleving. Deze gids behandelt toegang, wat je kunt verwachten en hoe je beide duinen op één tocht plant.",
+    "sections": [
+      { "id": "what", "title": "Wat is Råbjerg Mile", "body": "Råbjerg Mile is een ongeveer 1 km breed wandelduin, zo'n 40 meter hoog, dat zich enkele meters per jaar verplaatst. Het begon als kustduin en ligt nu landinwaarts, een opvallend 'woestijn'-landschap omgeven door heide en bos." },
+      { "id": "walk", "title": "Het duin wandelen", "body": "Een gemarkeerd pad loopt van de parkeerplaats naar het duin, ongeveer 1 km over heide en door een plantage. Het laatste stuk is open zand, dus stevige schoenen en windbescherming helpen." },
+      { "id": "free", "title": "Gratis & open", "body": "Zoals Rubjerg Knude heeft Råbjerg Mile geen ticket en geen hek; de toegang is gratis en het gebied is het hele jaar open. Voorzieningen zijn beperkt, dus plan proviand in nabije dorpen." },
+      { "id": "getting", "title": "Ergens komen", "body": "Råbjerg Mile bereik je met de auto vanaf de kustweg tussen Frederikshavn en Skagen, met een eigen parkeerplaats. Het ligt ongeveer 20–25 minuten van Rubjerg Knude, dus beide zijn op een halve dag te combineren." },
+      { "id": "combine", "title": "Combineer met Rubjerg Knude", "body": "De twee duinen vertellen verschillende verhalen: Rubjerg Knude wikkelt een verplaatste vuurtoren in wandelzand; Råbjerg Mile is puur wandelduin. Samen tonen ze de schaal van duinverplaatsing aan Denemarkens noordkust." }
+    ],
+    "highlightsTitle": "Waarom Råbjerg Mile bezoeken",
+    "highlights": [
+      { "name": "Grootste wandelduin", "desc": "Noord-Europa's grootste verplaatsende duin, ongeveer 40 m hoog." },
+      { "name": "Gratis toegang", "desc": "Geen ticket en geen hek; het hele jaar open." },
+      { "name": "Makkelijke routes", "desc": "Gemarkeerde wandelroute van de parkeerplaats naar het zand." },
+      { "name": "Combineer met Rubjerg Knude", "desc": "Twee zeer verschillende duinbelevingen op een halve dag." }
+    ],
+    "ctaTitle": "Zie ook het vuurtorenduin",
+    "ctaText": "Rubjerg Knude met zijn verplaatste vuurtoren in het zand ligt 20–25 minuten verder. Terug naar de hoofdgids voor parkeren, openingstijden en de verplaatsing van 2019.",
+    "backHome": "Terug naar de Rubjerg Knude-gids",
+    "footerLink": "Reisgids Råbjerg Mile",
+    "relatedTitle": "Meer reisgidsen Noord-Jutland"
+  },
+  "hjorring": {
+    "meta": { "title": "Reisgids Hjørring | basistad bij Rubjerg Knude", "description": "Hjørring in Denemarken: de hoofdstad en gemeente bij Rubjerg Knude met supermarkten, vervoersverbindingen, musea en voorzieningen – je praktische basis voor de Noord-Jutlandse kust." },
+    "hero": { "title": "Reisgids Hjørring", "subtitle": "De grootste stad bij Rubjerg Knude – voorzieningen, vervoer en cultuur voor je Noord-Jutland-basis." },
+    "intro": "Hjørring is de hoofdstad van de gemeente die Rubjerg Knude en de kust omvat, ongeveer 20–25 minuten landinwaarts van de vuurtoren. Met supermarkten, een treinverbinding, musea en volledige voorzieningen is het de praktische basis voor bezoekers die meer willen dan het strand. Deze gids legt uit hoe Hjørring past in een Rubjerg Knude-reis en wat de stad biedt.",
+    "sections": [
+      { "id": "municipality", "title": "De gemeente", "body": "Rubjerg Knude, Lønstrup en Løkken liggen allemaal in de gemeente Hjørring (Hjørring Kommune). Dat helpt bij kaarten, lokale toerismeorganisatie (Visit Nordvestkysten) en regionale planning." },
+      { "id": "services", "title": "Voorzieningen & vervoer", "body": "Hjørring heeft het ruimste aanbod supermarkten, banken, een ziekenhuis en een treinstation met verbindingen naar Aalborg en verder – de handigste plek om proviand aan te vullen op een langere reis." },
+      { "id": "culture", "title": "Cultuur & musea", "body": "De stad biedt musea, een bioscoop en evenementen en daarmee een cultureel tegenwicht tegen de kustdorpen. Een goede optie bij regenweer nabij Rubjerg Knude." },
+      { "id": "getting", "title": "Ergens komen", "body": "Hjørring ligt landinwaarts, ongeveer 20–25 minuten met de auto van Rubjerg Knude via de hoofdwegen. De aanbevolen plek om boodschappen te doen voordat je naar de duinen en dorpen gaat." },
+      { "id": "combine", "title": "Combineer met Rubjerg Knude", "body": "Gebruik Hjørring als je binnenlandse basis: winkel en reis per trein, en maak dan de korte rit naar Rubjerg Knude, Lønstrup en Løkken aan de kust. De drie kuststops liggen 10–25 minuten van de stad." }
+    ],
+    "highlightsTitle": "Waarom Hjørring als basis",
+    "highlights": [
+      { "name": "Volledige voorzieningen", "desc": "Supermarkten, banken, ziekenhuis en het belangrijkste vervoersknooppunt van de streek." },
+      { "name": "Treinverbindingen", "desc": "Spoorverbindingen naar Aalborg en de rest van Denemarken." },
+      { "name": "Cultuur", "desc": "Musea, bioscoop en evenementen voor een regenachtige dag." },
+      { "name": "Centrale ligging", "desc": "20–25 minuten van Rubjerg Knude, Lønstrup en Løkken." }
+    ],
+    "ctaTitle": "Naar de kust",
+    "ctaText": "Vanuit Hjørring is Rubjerg Knude een korte rit. Terug naar de hoofdgids voor parkeren, openingstijden en de vuurtorenverplaatsing van 2019.",
+    "backHome": "Terug naar de Rubjerg Knude-gids",
+    "footerLink": "Reisgids Hjørring",
+    "relatedTitle": "Meer reisgidsen Noord-Jutland"
+  },
+  "weather": {
+    "title": "Actueel weer & voorspelling",
+    "feelsLike": "Voelt als",
+    "humidity": "Luchtvochtigheid",
+    "wind": "Wind",
+    "precip": "Regenkans",
+    "uv": "UV",
+    "umbrella": "Waarschijnlijk regen vandaag — neem een waterdichte laag mee en bescherm camera's tegen spatwater.",
+    "noRain": "Overwegend droog — een goed venster voor de kustwandeling, al kan de wind sterk zijn.",
+    "forecast": "7-daagse verwachting",
+    "today": "Vandaag",
+    "updated": "Kustomstandigheden veranderen snel; controleer opnieuw voor vertrek.",
+    "error": "Live weer is kort onbeschikbaar. Raadpleeg voor vertrek een weerdienst.",
+    "cond": { "clear": "Helder", "partlyCloudy": "Gedeeltelijk bewolkt", "cloudy": "Bewolkt", "fog": "Mist", "drizzle": "Motregen", "rain": "Regen", "snow": "Sneeuw", "thunder": "Onweer" }
+  },
+  "services": {
+    "title": "Voorzieningen & nabije service",
+    "intro": "Rubjerg Knude heeft bewust weinig infrastructuur — het is een beschermd kustlandschap, geen uitgerust recreatiepark. De meeste bezoekersbehoeften worden in de omliggende dorpen gedekt. Het overzicht is typegebaseerd en neutraal; we bevelen geen specifieke bedrijven aan.",
+    "whereLabel": "Waar",
+    "tip": "Plan proviand, laden en maaltijden rond Løkken (zuid, ~10 min) of Lønstrup (noord, ~15 min). Op de duin zelf zijn geen toiletten of winkels.",
+    "items": [
+      { "name": "Toiletten (WC)", "desc": "Openbare toiletten staan meestal bij het hoofdaankomstgebied in het hoogseizoen, maar zijn seizoensgebonden en beperkt buiten de zomer. Bij de vuurtoren of op het duinpad zijn er geen.", "where": "Hoofdparkeerterrein / Løkken" },
+      { "name": "Parkeren", "desc": "Een hoofdparkeerterrein bedient de locatie aan de Fyrvejen 110. Het is de meest betrouwbare plek om te parkeren; in piektijden vol — kom vroeg.", "where": "Fyrvejen 110, Løkken" },
+      { "name": "Eten & drinken", "desc": "Op de locatie zijn geen cafés of restaurants. Informeel eten, koffie en vis concentreren zich in de kustdorpen, vooral Løkken en Lønstrup.", "where": "Løkken, Lønstrup" },
+      { "name": "Overnachten", "desc": "Van badhotels en pensions tot vakantiehuizen en campings is het aanbod breed. De dichtstbijzijnde clusters zijn Løkken en Hjørring.", "where": "Løkken, Hjørring" },
+      { "name": "Boodschappen & winkels", "desc": "Supermarkten, bakkerijen en apotheken liggen in de dorpen, niet op de duin. Løkken en Hjørring bieden de volledigste dagelijkse boodschappen.", "where": "Løkken, Hjørring" },
+      { "name": "Brandstof & EV-laden", "desc": "Tankstations en openbare laadpalen liggen in de dorpen. Op het parkeerterrein is geen brandstof of laden — tank en laad voor het laatste stuk.", "where": "Løkken, Hjørring" }
+    ]
+  },
+  "transportGuide": {
+    "title": "Hiernaartoe — stap voor stap",
+    "intro": "Rubjerg Knude is landelijk en blootgesteld; het laatste stuk gaat altijd te voet door zand. Hieronder een praktische volgorde per aankomstwijze.",
+    "air": { "title": "Met het vliegtuig → Aalborg Airport", "intro": "Aalborg Airport (AAL) is de dichtstbijzijnde luchthaven met lijnvluchten, ongeveer een uur rijden van de kust.", "steps": ["Land in Aalborg en huur een auto, of neem de luchthavenbus/trein naar Aalborg stad.", "Van Aalborg verder noordwest met trein of bus richting Hjørring, dan richting Løkken.", "Het laatste stuk van Løkken naar de duin (ca. 10 min) is het makkelijkst met huurauto, taxi of fiets.", "Zonder auto: taxi vooraf boeken — het landelijke openbaar vervoer is beperkt."], "note": "Een huurauto maakt de kustlus (Løkken–Rubjerg Knude–Lønstrup) veel makkelijker." },
+    "public": { "title": "Met openbaar vervoer", "intro": "Trein en streekbus bereiken de regio, maar stoppen niet bij de duin; reken op overstap en laatste tax- of fietstocht.", "steps": ["Neem de trein naar Hjørring (via Aalborg) — het hoofdknooppunt van Noord-Jutland.", "Van Hjørring streekbus richting Løkken, of directe verbinding indien beschikbaar.", "Van Løkken taxi of fiets voor de laatste 10–15 min naar de parkeerplaats.", "Controleer seizoensdiensten vooraf; landelijke verbindingen zijn 's winters schaarser."], "note": "Openbaar vervoer is mogelijk maar traag; eigen vervoer wordt eerste bezoekers sterk aanbevolen." },
+    "taxi": { "title": "Met taxi / deelrit", "intro": "Taxa's en deelritten bedienen het gebied, maar boek vooraf buiten de dorpen.", "steps": ["Van Aalborg: taxi ca. 60 min, op de meter.", "Van Hjørring: ca. 25 min naar de parkeerplaats.", "Van Løkken: ca. 10 min naar de parkeerplaats.", "Boek vooraf, vooral 's avonds of buiten seizoen — ter plaatse aanhouden is onzeker."], "note": "Geef als bestemming 'Fyrvejen 110, Løkken' om niet bij de toren te worden afgezet." },
+    "car": { "title": "Met de auto (aanbevolen)", "intro": "Rijden is het praktischst en verbindt dorpen en duin in één lus.", "steps": ["Van Aalborg: volg de E39/E17 kustroute west, dan noord richting Løkken (ca. 1 uur).", "Van Hjørring: kustweg via route 55 richting Løkken, dan borden Rubjerg Knude (ca. 25 min).", "Zet navigatie op 'Fyrvejen 110, 9800 Løkken' in plaats van de toren.", "Parkeer op het hoofdterrein; naar de vuurtoren is 1,2–1,5 km te voet door zand."], "note": "Het laatste stuk is zacht zand — reken extra tijd en draag stevige schoenen." }
+  },
+  "seasonal": {
+    "title": "Seizoensstrategie voor bezoek",
+    "intro": "De Noordzeekust heeft een sterk seizoensritme. Gebruik de tabel om plan en jaargetijde af te stemmen; omstandigheden wisselen per jaar.",
+    "category": "Aspect",
+    "springName": "Lente", "summerName": "Zomer", "autumnName": "Herfst", "winterName": "Winter",
+    "weatherLabel": "Weer", "windSandLabel": "Wind & zand", "activitiesLabel": "Beste voor", "cautionLabel": "Let op",
+    "spring": { "weather": "Koel, heldere tussenpozen; sneeuwsmelt geeft lang, laag licht.", "windSand": "Wind neemt toe; zanddrift begint met langere dagen.", "activities": "Rustige fotografie, vogels, eerste wilde bloemen.", "caution": "Instabiele paden na winter; kleed in lagen." },
+    "summer": { "weather": "Warmste en droogste periode; lang daglicht, soms mist.", "windSand": "Middagzeewind; zanddrift matig.", "activities": "Gezinnen, zwemmen, volledige voorzieningen, lange wandelingen.", "caution": "Piekdrukte en volle overnachtingen — boek vroeg." },
+    "autumn": { "weather": "Eerst zacht, dan stormachtiger; dramatische luchten.", "windSand": "Toenemende wind en actieve zanddrift.", "activities": "Fotografie, eenzaamheid, dramatisch kustlicht.", "caution": "Kortere dagen; controleer sluitingen en licht." },
+    "winter": { "weather": "Koud, korte dagen; vorst en soms sneeuw.", "windSand": "Harde windblootstelling; gladde plekken mogelijk.", "activities": "Eenzaamheid, kaal kustlandschap.", "caution": "Toreninterieur vaak dicht; kleed zeer warm." }
+  },
+  "routePlans": {
+    "title": "Voorgestelde routes",
+    "intro": "Drie routes op maat voor verschillende reizigers, plus een algemeen plan dat u naar wind en licht kunt aanpassen.",
+    "plans": [
+      { "name": "Gezinnen met kinderen", "audience": "Rustig tempo, eerst voorzieningen", "steps": ["Baseer in of bij Løkken voor toiletten, eten en makkelijk parkeren.", "Kom 's ochtends; houd de duinwand kort en gebruik een draagzak in het zand.", "Picknick of lunch in de stad, dan kort, windbeschermd strandbezoek.", "Keer terug voor late middag, wanneer het snel afkoelt."] },
+      { "name": "Fotografie & natuur", "audience": "Licht, duinen, erosie", "steps": ["Begin bij de kliffrand met erosie en zeehorizon.", "Ga naar de duinrug voor de toren-in-zand-compositie.", "Fotografeer laat westelijk licht voor relief in het zand.", "Breid uit naar Lønstrups kliffen als de wind het toelaat."] },
+      { "name": "Weinig inspanning / toegankelijk", "audience": "Zonder treden, kortere afstanden", "steps": ["Gebruik het hoofdparkeerterrein en het meest gestructureerde uitzichtpunt.", "Vermijd de zachte zandklim; geniet van de toegangszone van vaste grond.", "Houd de bovenste toegangspad en keer terug voor vermoeidheid.", "Combineer met een dorpsbezoek waar vlakken verhard zijn."] }
+    ],
+    "generalTitle": "Algemeen plan",
+    "halfTitle": "Halve dag (2,5–3 u)", "halfDesc": "Parkeer, wandel naar de vuurtoren, observeer het duin–kliflandschap, keer terug. Løkken voor een maaltijd.",
+    "fullTitle": "Hele dag (5–6 u)", "fullDesc": "Combineer Rubjerg Knude met Løkken (voorzieningen/strand) en Lønstrup (kunst/kliffen); volgorde naar wind en licht."
+  },
+  "science": {
+    "title": "Kustwetenschap & erfgoed",
+    "intro": "Rubjerg Knude is een schoolvoorbeeld van actieve kustprocessen. Inzicht helpt bezoekers het landschap te lezen en te zien waarom men de toren verplaatste.",
+    "topics": [
+      { "title": "Duinverplaatsing", "body": "Fijn zand dat van de eroderende klif wordt opgetild, wordt door aanhoudende westenwind landinwaarts gevoerd en tot wandelende duinen opgebouwd. Ruggen, paden en zichten kunnen merkbaar verschuiven tussen bezoeken — de plek is nooit helemaal hetzelfde." },
+      { "title": "Klifeerosie", "body": "De Noordzee verwijdert jaar na jaar klifmateriaal en schuift de kust gestaag landwaarts. Dit is het proces dat de verplaatsing van de vuurtoren in 2019 uiteindelijk afdwong." },
+      { "title": "Beheerst terugtrekken", "body": "In plaats van de toren vast te houden, verplaatsten autoriteiten hem in 2019 ca. 70 m landinwaarts over rails. Het is een zeldzaam, zichtbaar geval van erfgoedaanpassing aan een veranderende kust." }
+    ],
+    "responsibilityTitle": "Bezoekersverantwoordelijkheid",
+    "responsibilityIntro": "Omdat het landschap dynamisch en minimaal ontsloten is, beschermen kleine keuzes het voor anderen.",
+    "responsibility": ["Blijf op gemarkeerde paden en het gestructureerde uitzichtpunt; vermijd onstabiele klifranden.", "Neem alle afval mee — op de duin zijn geen bakken.", "Houd honden onder controle bij wild en kliffen.", "Volg eventuele tijdelijke sluitingen of veiligheidsborden.", "Beklim geen omheinde of onstabiele zones, ook niet wanneer wind nieuwe grond blootlegt."]
+  },
+  "stories": {
+    "title": "Verhalen & achtergrond",
+    "intro": "Naast de geologie draagt Rubjerg Knude een eeuw menselijke verhalen. De notities scheiden gedocumenteerde geschiedenis van lokale folklore, die deel uitmaakt van het cultureel erfgoed.",
+    "items": [
+      { "title": "Het leven van de wachters", "body": "Vanaf 1900 werd de toren bemand door wachters die voortdurend zand ruimden en het licht onder hard Noordzeeweer onderhielden. Hun routine toont hoe zwaar afgelegen maritiem werk was vóór automatische navigatie." },
+      { "title": "Het zand dat een museum opslokte", "body": "In de late 20e eeuw werd bij het stationshuis een museum ingericht — maar oprukkend zand overweldigde het en dwong in 2002 sluiting. De duin, niet de mensen, had het laatste woord." },
+      { "title": "De grote verhuizing van 2019", "body": "Toen de klifrand naderde, werd de 23 m hoge toren op een railsysteem gezet en ca. 70 m landinwaarts gerold. De operatie kreeg internationale aandacht als symbool van erfgoedaanpassing aan erosie." },
+      { "title": "Lokale sagen van de zwervende duin", "body": "Kustgemeenschappen spraken lang over de 'zwervende duin' als een bijna levende kracht die velden en gebouwen bedolf. Deze volksverhalen zijn geen metingen, maar vatten een reëel, waarneembaar proces menselijk samen." }
+    ]
+  },
+  "tides": {
+    "title": "Tij en kustbewustzijn",
+    "intro": "De Noordzee langs deze kust heeft een semidagelijks tij — ongeveer twee hoog- en twee laagwaterstanden per 24 uur, met een bescheiden verschil. Het tij hertekent de kust en verandert hoe je je verplaatst; een snelle check voor vertrek loont.",
+    "patternTitle": "Het tijritme",
+    "patternDesc": "Reken op ongeveer twee waterstanden per dag. Bij Rubjerg Knude is het verschil klein — meestal ruim onder een meter ten opzichte van gemiddeld zeeniveau —, maar het tekent strand en kliffoot toch opnieuw.",
+    "lowTitle": "Bij laagwater",
+    "lowDesc": "Het strand is op zijn breedst en de zandplaten komen bloot — ideaal voor een strandwandeling en om de kliftop te zien. De wandeling van de parkeerplaats naar de vuurtoren gaat over de hogere duinen en hangt niet van het tij af.",
+    "highTitle": "Bij hoogwater",
+    "highDesc": "De zee reikt verder het strand op en kan breken tot aan de voet van de eroderende klif. Houd afstand tot de klifwand en zoek nooit beschutting eronder.",
+    "bestTitle": "Beste timing",
+    "bestDesc": "Een vallend of laag tij geeft vaak het rustigste, breedste strand en het helderste licht op het zand. Combineer het met een wind- en regencheck in het weerpaneel hierboven.",
+    "safetyTitle": "Kustveiligheid",
+    "safety": [
+      "Opdringende golven kunnen hoger reiken dan het heersende tij — keer de zee bij de waterlijn nooit de rug toe.",
+      "Houd afstand tot de kliftvoet, vooral bij hoogwater en na stormen wanneer erosie het sterkst is.",
+      "Zacht zand en het natte voorland vermoeien snel; reken op extra tijd voor de terugweg.",
+      "Tijdstippen verschuiven dagelijks — raadpleeg voor vertrek een actuele lokale getijdentabel (bijvoorbeeld het Deense Meteorologische Instituut)."
+    ],
+    "liveTitle": "Komende tij-extremen (lokale tijd)",
+    "liveNote": "Dichtstbijzijnde referentiestation: {station} (~{distance} km verderop). Tijden zijn lokale tijd (Europe/Copenhagen) en alleen ter orientatie.",
+    "high": "Hoog",
+    "low": "Laag",
+    "level": "Stand",
+    "error": "De live getijdentabel is kort onbeschikbaar. Raadpleeg voor vertrek het Deense Meteorologische Instituut voor actuele tijden."
+  },
+  "weatherTips": {
+    "travelTitle": "Kleding & reis",
+    "activityTitle": "Activiteiten",
+    "essentialsTitle": "Wat mee te nemen",
+    "riskTitle": "Veiligheidsmelding",
+    "adv": {
+      "sunnyGood": "Mooi weer — fijn om buiten te zijn.",
+      "sunriseSunset": "Ideaal voor zonsopkomst, zonsondergang en kustzicht.",
+      "cloudyPhoto": "Zacht licht — uitstekend om te fotograferen.",
+      "longOutdoor": "Geen felle zon — prettig voor langere tijd buiten.",
+      "lightRainSlip": "Lichte regen — ondergrond is glad, kijk uit waar je loopt.",
+      "openPoor": "Ervaringen buiten zijn minder fijn in de regen.",
+      "foldUmbrella": "Opvouwbare paraplu",
+      "rainLikely": "Regen is waarschijnlijk — neem bescherming mee.",
+      "rainIndoor": "Kies binnenlocaties; stel strand en kusttijd uit.",
+      "heavyRainAvoid": "Zware regen — vermijd het lage strand en de kliftvoet.",
+      "noOutdoor": "Wandelen buiten wordt afgeraden; zee-activiteiten mogelijk gesloten.",
+      "raincoat": "Regenjas (geen lange paraplu bij wind)",
+      "thunderSafety": "Onweergevaar — houd afstand tot de klifrand, de zee en bomen.",
+      "waterClosed": "Wateractiviteiten zijn waarschijnlijk gesloten.",
+      "highTempNoon": "Het is warm — vermijd de middagzon.",
+      "shortenOutdoor": "Houd buitentijd korter.",
+      "sunProtectWater": "Zonbescherming en voldoende drinkwater",
+      "uvStrong": "Felle zon — bescherm je huid.",
+      "uvGear": "Zonnebrand, zonnebril en hoed",
+      "bigDiffJacket": "Groot temperatuurverschil dag/nacht — neem een laag om aan te trekken.",
+      "lowTempCold": "Koud — kleed je warm, zeker tegen de wind.",
+      "warmGear": "Warme jas en sjaal",
+      "windModerate": "Winderig — boottochten en sommige buitenactiviteiten pauzeren.",
+      "coastalStop": "Boottochten en blootgestelde klifactiviteiten kunnen stoppen.",
+      "hatBlows": "Hoeden waaien weg; vermijd wijde lange rokken.",
+      "windStrong": "Harde wind — houd afstand tot de klifrand en de branding.",
+      "seaClosed": "Zee-activiteiten vallen zeer waarschijnlijk uit.",
+      "fogVisibility": "Slecht zicht — veerboten en vluchten kunnen vertragen; beperkt zeezicht.",
+      "mask": "Mondmasker"
+    }
   }
 }

@@ -5,7 +5,7 @@ export type AppLocale = (typeof supportedLocales)[number];
 export const defaultLocale: AppLocale = 'zh';
 
 export const siteConfig = {
-  baseUrl: 'https://rubjergknude.com',
+  baseUrl: 'https://www.rubjergknude.com',
   siteName: 'Rubjerg Knude',
   localeLabels: {
     zh: '中文',
@@ -40,3 +40,11 @@ export function getAlternateLanguageLinks(pathname = '/') {
     supportedLocales.map((locale) => [locale, `${siteConfig.baseUrl}${getLocalePath(locale, pathname)}`]),
   );
 }
+
+export const GUIDES = [
+  { ns: 'northJutland', path: '/north-jutland' },
+  { ns: 'lonstrup', path: '/lonstrup' },
+  { ns: 'lokken', path: '/lokken' },
+  { ns: 'rabjergMile', path: '/rabjerg-mile' },
+  { ns: 'hjorring', path: '/hjorring' },
+] as const;

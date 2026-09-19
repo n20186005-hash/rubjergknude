@@ -11,6 +11,7 @@ import HistoryTimeline from '@/components/HistoryTimeline';
 import PracticalInfoSection from '@/components/PracticalInfoSection';
 import FaqSection from '@/components/FaqSection';
 import FaqStructuredData from '@/components/FaqStructuredData';
+import TouristAttractionStructuredData from '@/components/TouristAttractionStructuredData';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
@@ -18,6 +19,14 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
+import WeatherForecast from '@/components/WeatherForecast';
+import ServicesSection from '@/components/ServicesSection';
+import TransportGuideSection from '@/components/TransportGuideSection';
+import SeasonalSection from '@/components/SeasonalSection';
+import RoutePlansSection from '@/components/RoutePlansSection';
+import ScienceSection from '@/components/ScienceSection';
+import StoriesSection from '@/components/StoriesSection';
+import TidesSection from '@/components/TidesSection';
 
 export default async function HomePage({
   params,
@@ -30,6 +39,7 @@ export default async function HomePage({
   return (
     <>
       <FaqStructuredData />
+      <TouristAttractionStructuredData />
       <Header />
       <main>
         <Hero />
@@ -38,11 +48,19 @@ export default async function HomePage({
         <HoursSection />
         <TicketsSection />
         <TransportSection />
+        <TransportGuideSection />
         <PracticalInfoSection />
+        <WeatherForecast />
+        <TidesSection />
+        <ServicesSection />
         <FaqSection />
         <InfoSection />
         <HistoryTimeline />
+        <StoriesSection />
+        <SeasonalSection />
+        <ScienceSection />
         <RouteSection />
+        <RoutePlansSection />
         <PhotoSpotsSection />
         <HotelsSection />
         <Gallery />

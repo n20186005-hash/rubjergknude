@@ -473,5 +473,299 @@
   "officialManagement": {
     "title": "Institutionel sammenhæng",
     "text": "Rubjerg Knude forstås i dag ikke kun som et dramatisk landskab, men også som et eksempel på samspillet mellem naturforvaltning, regional formidling og kulturarvsarbejde. Stedet fortæller samtidigt om sandflugt, kysterosion og adaptiv bevaring ved Vesterhavet."
+  },
+  "northJutland": {
+    "meta": {
+      "title": "Rejseguide Nordjylland & Lønstrup | ved Rubjerg Knude",
+      "description": "Planlæg en Nordjylland-kysttur rundt om Rubjerg Knude: kunstbyen Lønstrup, badestationen Løkken, oplevelser (seværdigheder), familieaktiviteter og overnatning ved Danmarks nordvestkyst."
+    },
+    "hero": {
+      "title": "Rejseguide Nordjylland & Lønstrup",
+      "subtitle": "Saml en kystdagstur rundt om Rubjerg Knude – landsbyer, strande og oplevelser i Danmarks nordvest."
+    },
+    "intro": "Rubjerg Knude ligger ved Danmarks nordvestkyst, i et stykke af Nordjylland, hvor små kystbyer, brede strande og vandrende klitter mødes. De fleste kommer for fyret, men området omkring er en hel dags rejse værd: fiskeribyarv, kunstværksteder, let cykling og nogle af landets mest åbne kyster. Denne guide samler de praktiske, søgevenlige grundoplysninger – Lønstrup, Løkken, oplevelser og overnatning – så du kan planlægge en sammenhængende Nordjylland-tur frem for blot et enkelt stop.",
+    "sections": [
+      {
+        "id": "region",
+        "title": "Hvorfor Nordjylland",
+        "body": "Nordjylland er Danmarks nordlige region, forbundet med Limfjorden og Vesterhavskysten. Rundt om Rubjerg Knude er landskabet usædvanligt åbent: lange sandstrande, lave klitter og fladt bagland. Området egner sig til kystture i bil, cykling og rolige strandgåture og kombineres naturligt med et besøg ved fyret."
+      },
+      {
+        "id": "lonstrup",
+        "title": "Lønstrup",
+        "body": "Lønstrup er en lille by omkring 15 minutter nord for Rubjerg Knude, kendt for kunstgallerier, værksteder og en afslappet kreativ atmosfære. Tidligere fiskerby er den nu et mål for keramik-, glas- og tekstilværksteder, klintvandringer og en håndfuld caféer. Den er et godt udgangspunkt for et roligere, designpræget kystophold."
+      },
+      {
+        "id": "lokken",
+        "title": "Løkken",
+        "body": "Løkken ligger omkring 10 minutter syd for Rubjerg Knude og er områdets hovedforsyningsby. Forvent en bred Blue Flag-strand, supermarkeder, restauranter, EV-ladestationer samt den mest pålidelige parkering og forsyning. De fleste bruger Løkken som praktisk hub – tankning, mad og planlægning – før eller efter dune-turen."
+      },
+      {
+        "id": "thingsToDo",
+        "title": "Oplevelser (seværdigheder)",
+        "body": "Blandt de bedste oplevelser (seværdigheder) i området er Rubjerg Knude-klitten og fyret, klintvandringer mod Lønstrup, strande ved Løkken og Lønstrup, lokale kunstværksteder samt sæsonarrangementer fra den regionale turisme (Visit Nordvestkysten). Læg en cykeltur på kystvejene til, og du har en hel, afslappet dag."
+      },
+      {
+        "id": "combine",
+        "title": "Kombiner med Rubjerg Knude",
+        "body": "Rubjerg Knude fungerer bedst som omdrejningspunkt for en kystrute. Kør eller cykl mellem Løkken (forsyning), Rubjerg Knude (klit og fyr) og Lønstrup (kunst og klint). Da de tre kun ligger 10–15 minutter fra hinanden, kan rækkefølgen tilpasses til vejr og vind, hvilket betyder meget på denne udsatte kyst."
+      },
+      {
+        "id": "practical",
+        "title": "Praktisk planlægning",
+        "body": "Praktiske noter: Bil er den letteste måde at forbinde byerne på; den offentlige transport er begrænset, og det sidste stykke over klitten er altid udsat for vind og sand. Planlæg forsyning og EV-opladning omkring Løkken, og tjek vind og tidevand inden afgang. Sæt en halv til hel dag af til den kombinerede rute."
+      }
+    ],
+    "highlightsTitle": "Højdepunkter langs Nordjyllands kyst",
+    "highlights": [
+      { "name": "Rubjerg Knude Fyr", "desc": "Det flyttede fyr og den vandrende klit, der præger hele regionen." },
+      { "name": "Lønstrup", "desc": "Kunstværksteder, gallerier og klintvandringer i en tidligere fiskerby." },
+      { "name": "Løkken Strand", "desc": "Bred Blue Flag-strand med forsyning, spisesteder og EV-opladning." },
+      { "name": "Kystcykling", "desc": "Flade, naturskønne ruter langs Vesterhavet mellem byer og strande." }
+    ],
+    "ctaTitle": "Klar til at planlægge fyr-besøget?",
+    "ctaText": "Vend tilbage til hovedguiden for Rubjerg Knude med parkering, åbningstider, Flytningen i 2019 og besøgslogistik.",
+    "backHome": "Tilbage til Rubjerg Knude-guiden",
+    "footerLink": "Rejseguide Nordjylland"
+  },
+  "lonstrup": {
+    "meta": { "title": "Rejseguide Lønstrup | kunstbyen ved Rubjerg Knude", "description": "Lønstrup i Danmark: en kunstby på klinten ved Rubjerg Knude med gallerier, keramik- og glasværksteder, caféer og kystvandringer. Planlæg dit besøg fra Rubjerg Knude." },
+    "hero": { "title": "Rejseguide Lønstrup", "subtitle": "Den kreative klintby ved Rubjerg Knude – gallerier, værksteder og kystvandringer i Nordjylland." },
+    "intro": "Lønstrup er en lille by ved Danmarks Vesterhavskyst, cirka 15 minutter nord for Rubjerg Knude. Fra en fiskerby blev den et sted med gallerier, keramik-, glas- og tekstilværksteder og en afslappet kreativ atmosfære. På lave klinter over stranden udgør den et naturligt supplement til et besøg ved fyret og klitterne. Denne guide dækker, hvad man skal se, hvordan man kommer derhen, og hvorfor Lønstrup er et stop værd på en Nordjylland-kysttur.",
+    "sections": [
+      { "id": "art", "title": "Kunst & gallerier", "body": "Det særlige ved Lønstrup er det kreative fællesskab. Der er gallerier og værksteder for keramik, glasblæsning, maleri og tekstil, mange åbne for besøgende. I atelierne sælges ofte direkte, så det er et godt sted at finde et unikt dansk design-souvenir." },
+      { "id": "cliffs", "title": "Klinten & stranden", "body": "Byen ligger på lave lerklinter over en bred sandstrand. Stier fører ned til kysten til gåture og svømning, og klintruten sydover mod Rubjerg Knude er en af de smukkeste kystvandringer i området." },
+      { "id": "food", "title": "Mad & caféer", "body": "Et par caféer og restauranter serverer kaffe, kage og fisk med udsigt. Et hyggeligt sted at bryde en dag med kørsel eller gåture langs nordvestkysten." },
+      { "id": "getting", "title": "Transport", "body": "Lønstrup nås i bil fra kystvejen; der er parkering i og omkring byen. Den ligger cirka 15 minutter fra Rubjerg Knude og 25 minutter fra Løkken. Den offentlige transport er begrænset, så bil er lettest." },
+      { "id": "combine", "title": "Kombiner med Rubjerg Knude", "body": "Da Lønstrup og Rubjerg Knude kun ligger cirka 15 minutter fra hinanden, kombinerer de fleste begge: fyr og klitter den ene vej, kunstby og klint den anden. Tjek vind og vejr, da kysten er udsat." }
+    ],
+    "highlightsTitle": "Hvorfor besøge Lønstrup",
+    "highlights": [
+      { "name": "Kunstværksteder", "desc": "Keramik-, glas- og tekstilværksteder åbne for besøgende." },
+      { "name": "Klintvandringer", "desc": "Smukke stier mod Rubjerg Knude langs Vesterhavet." },
+      { "name": "Stille strande", "desc": "Bred sandstrand under byen, god til gåture og svømning." },
+      { "name": "Kreativ atmosfære", "desc": "En tidligere fiskerby blevet et designmål." }
+    ],
+    "ctaTitle": "Planlæg også fyr-besøget",
+    "ctaText": "Rubjerg Knude, det flyttede fyr og den vandrende klit, er kun 15 minutter væk. Vend tilbage til hovedguiden for parkering, åbningstider og Flytningen i 2019.",
+    "backHome": "Tilbage til Rubjerg Knude-guiden",
+    "footerLink": "Rejseguide Lønstrup",
+    "relatedTitle": "Flere rejseguider Nordjylland"
+  },
+  "lokken": {
+    "meta": { "title": "Rejseguide Løkken | badestationen ved Rubjerg Knude", "description": "Løkken i Danmark: hovedforsyningsbyen ved Rubjerg Knude med Blue Flag-strand, supermarkeder, restauranter, EV-ladning og den mest pålidelige parkering på Nordjyllands kyst." },
+    "hero": { "title": "Rejseguide Løkken", "subtitle": "Det praktiske knudepunkt på Danmarks nordvestkyst – strand, mad, parkering og EV-ladning ved Rubjerg Knude." },
+    "intro": "Løkken er en traditionel dansk badestation ved Vesterhavet, cirka 10 minutter syd for Rubjerg Knude. Med en bred Blue Flag-strand, butikker, supermarkeder, restauranter og EV-ladning er den den naturlige forsyningsbase for besøgende ved fyret og kysten. Denne guide forklarer, hvorfor Løkken er stedet at handle, spise og lade på før eller efter dune-turen.",
+    "sections": [
+      { "id": "beach", "title": "Stranden", "body": "Løkkens brede sandstrand er Blue Flag-certificeret og omgivet af klassiske danske sommerhuse. Den egner sig til svømning, gåture og drageflyvning og er et af de mest familievenlige stræk ved nordvestkysten." },
+      { "id": "services", "title": "Forsyning & indkøb", "body": "Anders end de mindre byer har Løkken supermarkeder, bagerier, et apotek og en række butikker – det letteste sted at planlægge proviant og sidste øjeblik-behov på en kysttur." },
+      { "id": "food", "title": "Mad & drikke", "body": "Restauranter og caféer flankerer hovedgaden og strandadgangen og serverer danske klassikere og fisk. Det mest pålidelige sted for et måltid i nærheden af Rubjerg Knude." },
+      { "id": "parking", "title": "Parkering & EV-ladning", "body": "Løkken har den mest pålidelige parkering i området og EV-ladestationer – derfor det anbefalede sted at lade en elbil og parkere, hvis man hellere vil cykle eller gå til klitten." },
+      { "id": "combine", "title": "Kombiner med Rubjerg Knude", "body": "Med cirka 10 minutters afstand danner Løkken og Rubjerg Knude kernen i en kort rute: forsyning og strand i Løkken, fyr og klit ved Rubjerg Knude. Lønstrup ligger yderligere 15 minutter mod nord for kunst og klinter." }
+    ],
+    "highlightsTitle": "Hvorfor bruge Løkken som base",
+    "highlights": [
+      { "name": "Blue Flag-strand", "desc": "Bred, familievenlig sandstrand med sommerhuse bagved." },
+      { "name": "Pålidelig parkering", "desc": "Den letteste og mest pålidelige parkering ved Rubjerg Knude." },
+      { "name": "EV-ladning", "desc": "Lad elbiler i byen før den udsatte klit-tilgang." },
+      { "name": "Butikker & mad", "desc": "Supermarkeder, bagerier og restauranter til rejseplanlægning." }
+    ],
+    "ctaTitle": "Klar til dune-turen?",
+    "ctaText": "Fra Løkken er der en kort kørsel til Rubjerg Knude. Vend tilbage til hovedguiden for parkering på Fyrvejen 110, gåafstande og tilgængelighed.",
+    "backHome": "Tilbage til Rubjerg Knude-guiden",
+    "footerLink": "Rejseguide Løkken",
+    "relatedTitle": "Flere rejseguider Nordjylland"
+  },
+  "rabjergMile": {
+    "meta": { "title": "Råbjerg Mile | den vandrende klit ved Rubjerg Knude", "description": "Råbjerg Mile, Danmarks vandrende klit nær Rubjerg Knude og Skagen: en vældig vandredune, vandrestier, fri adgang og hvordan man kombinerer den med Rubjerg Knude." },
+    "hero": { "title": "Rejseguide Råbjerg Mile", "subtitle": "Nordeuropas største vandrende klit – et vældigt sandhav ved Rubjerg Knude og Skagen." },
+    "intro": "Råbjerg Mile er en vandrende kystklit i Nordjylland, cirka 20–25 minutter øst for Rubjerg Knude. Den er den største vandrende klit i Nordeuropa, et dramatisk stykke bar sand, der langsomt vandrer ind i landet og opsluger stier og plantager undervejs. Fri at besøge og let at gå på, den passer naturligt sammen med Rubjerg Knude som en anden klitoplevelse. Denne guide dækker adgang, hvad man kan forvente, og hvordan man planlægger begge klitter på én tur.",
+    "sections": [
+      { "id": "what", "title": "Hvad er Råbjerg Mile", "body": "Råbjerg Mile er en cirka 1 km bred vandrende klit, omkring 40 meter høj, der flytter sig flere meter om året. Den begyndte som en kystklit og ligger nu inde i landet, et påfaldende 'ørken'-landskab omgivet af hede og skov." },
+      { "id": "walk", "title": "Vandre i klitterne", "body": "En markeret sti fører fra parkeringspladsen til klitten, cirka 1 km over hede og gennem en plantage. Det sidste stykke er åbent sand, så støvler og vindbeskyttelse hjælper." },
+      { "id": "free", "title": "Fri & åben", "body": "Som Rubjerg Knude har Råbjerg Mile ingen billet og intet hegn; adgangen er fri, og området er åbent hele året. Faciliteter er begrænsede, så planlæg forsyning i nære byer." },
+      { "id": "getting", "title": "Transport", "body": "Råbjerg Mile nås i bil fra kystvejen mellem Frederikshavn og Skagen med en dedikeret parkeringsplads. Den ligger cirka 20–25 minutter fra Rubjerg Knude, så de to let kombineres på en halv dag." },
+      { "id": "combine", "title": "Kombiner med Rubjerg Knude", "body": "De to klitter fortæller forskellige historier: Rubjerg Knude indhyller et flyttet fyr i vandrende sand; Råbjerg Mile er ren vandrende klit. Begge viser omfanget af klitvandring på Danmarks nordkyst." }
+    ],
+    "highlightsTitle": "Hvorfor besøge Råbjerg Mile",
+    "highlights": [
+      { "name": "Største vandrende klit", "desc": "Nordeuropas største vandrende klit, cirka 40 m høj." },
+      { "name": "Fri adgang", "desc": "Ingen billet og intet hegn; åbent hele året." },
+      { "name": "Nemme stier", "desc": "Markeret vandresti fra parkeringspladsen til sandet." },
+      { "name": "Kombiner med Rubjerg Knude", "desc": "To meget forskellige klitoplevelser på en halv dag." }
+    ],
+    "ctaTitle": "Se også fyr-klitten",
+    "ctaText": "Rubjerg Knude med sit flyttede fyr i sandet ligger 20–25 minutter væk. Vend tilbage til hovedguiden for parkering, åbningstider og Flytningen i 2019.",
+    "backHome": "Tilbage til Rubjerg Knude-guiden",
+    "footerLink": "Rejseguide Råbjerg Mile",
+    "relatedTitle": "Flere rejseguider Nordjylland"
+  },
+  "hjorring": {
+    "meta": { "title": "Rejseguide Hjørring | basebyen ved Rubjerg Knude", "description": "Hjørring i Danmark: hovedbyen og kommunen ved Rubjerg Knude med supermarkeder, transportforbindelser, museer og forsyning – din praktiske base for Nordjyllands kyst." },
+    "hero": { "title": "Rejseguide Hjørring", "subtitle": "Den største by ved Rubjerg Knude – forsyning, transport og kultur til din Nordjylland-base." },
+    "intro": "Hjørring er hovedbyen i den kommune, der omfatter Rubjerg Knude og kysten, cirka 20–25 minutter inde i landet fra fyret. Med supermarkeder, en togforbindelse, museer og fuld forsyning er den den praktiske base for besøgende, der vil mere end stranden. Denne guide forklarer, hvordan Hjørring passer ind i en Rubjerg Knude-rejse, og hvad byen byder på.",
+    "sections": [
+      { "id": "municipality", "title": "Kommunen", "body": "Rubjerg Knude, Lønstrup og Løkken ligger alle i Hjørring Kommune. Det hjælper med kort, lokal turisme (Visit Nordvestkysten) og regional planlægning." },
+      { "id": "services", "title": "Forsyning & transport", "body": "Hjørring har områdets største udvalg af supermarkeder, banker, et hospital og en togstation med forbindelser mod Aalborg og derudad – det mest bekvemme sted at supplere proviant på en længere rejse." },
+      { "id": "culture", "title": "Kultur & museer", "body": "Byen tilbyder museer, et biograf og arrangementer og dermed et kulturelt modstykke til kystbyerne. Et godt regnvejrsvalg nær Rubjerg Knude." },
+      { "id": "getting", "title": "Transport", "body": "Hjørring ligger inde i landet, cirka 20–25 minutter med bil fra Rubjerg Knude ad hovedvejene. Det anbefalede sted at klare ærinder, før man tager ud til klitterne og byerne." },
+      { "id": "combine", "title": "Kombiner med Rubjerg Knude", "body": "Brug Hjørring som din indlandsbase: handl og tag toget, og kør så den korte tur til Rubjerg Knude, Lønstrup og Løkken ved kysten. De tre kyststop ligger 10–25 minutter fra byen." }
+    ],
+    "highlightsTitle": "Hvorfor bruge Hjørring som base",
+    "highlights": [
+      { "name": "Fuld forsyning", "desc": "Supermarkeder, banker, hospital og områdets vigtigste trafikkryds." },
+      { "name": "Togforbindelser", "desc": "Baneforbindelser mod Aalborg og resten af Danmark." },
+      { "name": "Kultur", "desc": "Museer, biograf og arrangementer til en regnvejrsdag." },
+      { "name": "Central beliggenhed", "desc": "20–25 minutter fra Rubjerg Knude, Lønstrup og Løkken." }
+    ],
+    "ctaTitle": "Til kysten",
+    "ctaText": "Fra Hjørring er Rubjerg Knude en kort kørsel væk. Vend tilbage til hovedguiden for parkering, åbningstider og fyrflytningen i 2019.",
+    "backHome": "Tilbage til Rubjerg Knude-guiden",
+    "footerLink": "Rejseguide Hjørring",
+    "relatedTitle": "Flere rejseguider Nordjylland"
+  },
+  "weather": {
+    "title": "Aktuelt vejr & prognose",
+    "feelsLike": "Føles som",
+    "humidity": "Luftfugtighed",
+    "wind": "Vind",
+    "precip": "Regnchance",
+    "uv": "UV",
+    "umbrella": "Sandsynligvis regn i dag — tag et vandtæt lag med og beskytt kameraer mod stænk.",
+    "noRain": "Overvejende tørt — et godt vindue til kystturen, selvom vinden kan være kraftig.",
+    "forecast": "7-dages udsigt",
+    "today": "I dag",
+    "updated": "Kystforhold ændres hurtigt; tjek igen før afgang.",
+    "error": "Live-vejret er kortvarigt utilgængeligt. Tjek en vejrtjeneste før rejsen.",
+    "cond": { "clear": "Klart", "partlyCloudy": "Delvist skyet", "cloudy": "Skyet", "fog": "Tåge", "drizzle": "Støvregn", "rain": "Regn", "snow": "Sne", "thunder": "Torden" }
+  },
+  "services": {
+    "title": "Faciliteter & nærservice",
+    "intro": "Rubjerg Knude har bevidst minimal infrastruktur — det er et beskyttet kystlandskab, ikke en udbygget forlystelsespark. De fleste gæstebehov dækkes i de omkringliggende byer. Oversigten er typebaseret og neutral; vi anbefaler ikke bestemte virksomheder.",
+    "whereLabel": "Hvor",
+    "tip": "Planlæg proviant, opladning og måltider omkring Løkken (syd, ~10 min) eller Lønstrup (nord, ~15 min). Ved selve klitten er der hverken toiletter eller butikker.",
+    "items": [
+      { "name": "Toiletter (WC)", "desc": "Offentlige toiletter findes typisk ved hovedankomstområdet i højsæsonen, men tilgængeligheden er sæsonbetonet og begrænset uden for sommer. Der er ingen ved fyret eller langs klittestien.", "where": "Hovedparkering / Løkken" },
+      { "name": "Parkering", "desc": "Et hovedparkingsområde betjener stedet ved Fyrvejen 110. Det er det mest pålidelige sted at parkere; i højsæsonen kan det fyldes — kom tidligt.", "where": "Fyrvejen 110, Løkken" },
+      { "name": "Mad & drikke", "desc": "På stedet er der ingen caféer eller restauranter. Afslappet mad, kaffe og fisk koncentreres i kystbyerne, især Løkken og Lønstrup.", "where": "Løkken, Lønstrup" },
+      { "name": "Overnatning", "desc": "Fra badehoteller og gæstgivergårde til ferielejligheder og campingpladser er udbuddet bredt. De nærmeste klynger er Løkken og Hjørring.", "where": "Løkken, Hjørring" },
+      { "name": "Indkøb & butikker", "desc": "Supermarkeder, bagerier og apotheker ligger i byerne, ikke ved klitten. Løkken og Hjørring giver den fuldeste hverdagsindkøb.", "where": "Løkken, Hjørring" },
+      { "name": "Brændstof & EL-opladning", "desc": "Tankstationer og offentlige ladestandere ligger i byerne. Ved parkeringspladsen er der hverken brændstof eller opladning — tank og lad før sidste stræk.", "where": "Løkken, Hjørring" }
+    ]
+  },
+  "transportGuide": {
+    "title": "Sådan kommer du hertil — trin for trin",
+    "intro": "Rubjerg Knude er landlig og udsat; sidste stykke gås altid til fods gennem sand. Vejledningen giver en praktisk rækkefølge pr. ankomstform.",
+    "air": { "title": "Med fly → Aalborg Lufthavn", "intro": "Aalborg Lufthavn (AAL) er den nærmeste med ruteflyvninger, ca. en times kørsel fra kysten.", "steps": ["Land i Aalborg og lej en bil, eller tag lufthavnsbus/tog mod Aalborg by.", "Fra Aalborg fortsæt nordvest med tog eller bus mod Hjørring, derefter mod Løkken.", "Sidste stræk fra Løkken til klitten (ca. 10 min) er lettest med lejebil, taxi eller cykel.", "Uden bil: book taxi på forhånd til sidste stræk — den landlige kollektive trafik er begrænset."], "note": "En lejebil gør kystruten (Løkken–Rubjerg Knude–Lønstrup) meget lettere." },
+    "public": { "title": "Med offentlig transport", "intro": "Tog og regionalbusser når regionen, men standser ikke ved klitten; regn med skift og sidste tax- eller cykeltur.", "steps": ["Tag tog til Hjørring (via Aalborg) — hovedjernbaneknudepunktet i Nordjylland.", "Fra Hjørring regionalbus mod Løkken, eller direkte forbindelse hvis muligt.", "Fra Løkken taxi eller cykel de sidste 10–15 min til parkeringspladsen.", "Tjek sæsonkøreplaner på forhånd; landlige afgange er sjældnere om vinteren."], "note": "Offentlig transport er mulig, men langsom; egen bil anbefales til førstegangsbesøgende." },
+    "taxi": { "title": "Med taxi / delkørsel", "intro": "Taxa og delkørsel betjener området, men book på forhånd uden for byerne.", "steps": ["Fra Aalborg: taxi ca. 60 min og taxameter.", "Fra Hjørring: ca. 25 min til parkeringspladsen.", "Fra Løkken: ca. 10 min til parkeringspladsen.", "Book på forhånd, især om aftenen eller uden for sæson — at hidkalde på stedet er usikkert."], "note": "Angiv destinationen 'Fyrvejen 110, Løkken', så du ikke sættes af ved tårnet." },
+    "car": { "title": "Med bil (anbefales)", "intro": "Kørsel er den mest praktiske løsning og binder landsbyer og klitter i en rute.", "steps": ["Fra Aalborg: følg E39/E17 kystruten vestpå, derefter nordpå mod Løkken (ca. 1 time).", "Fra Hjørring: kystvejen via rute 55 mod Løkken, derefter skilte til Rubjerg Knude (ca. 25 min).", "Sæt navigation til 'Fyrvejen 110, 9800 Løkken' frem for tårnet.", "Parkér ved hovedområdet; fyret er 1,2–1,5 km til fods gennem sand."], "note": "Sidste stræk er blødt sand — afsæt ekstra tid og tag gode sko på." }
+  },
+  "seasonal": {
+    "title": "Sæsonvis besøgsstrategi",
+    "intro": "Vesterhavskysten har en stærk sæsonrytme. Brug tabellen til at afstemme plan og årstid; forhold varierer fra år til år.",
+    "category": "Aspekt",
+    "springName": "Forår", "summerName": "Sommer", "autumnName": "Efterår", "winterName": "Vinter",
+    "weatherLabel": "Vejr", "windSandLabel": "Vind & sand", "activitiesLabel": "Bedst til", "cautionLabel": "Forsigtighed",
+    "spring": { "weather": "Køligt, lyse mellemrum; snesmeltning giver langt, lavt lys.", "windSand": "Vinden tager til; sanddrift begynder med længere dage.", "activities": "Rolig fotografi, fugleliv, første vildblomster.", "caution": "Ustabile stier efter vinter; klæd dig lagvis." },
+    "summer": { "weather": "Varmeste og tørreste periode; langt dagslys, lejlighedsvis tåge.", "windSand": "Eftermiddagens søbrise; sanddrift moderat.", "activities": "Familier, badning, fuld service, lange gåture.", "caution": "Topfremmøde og fyldte overnatninger — book tidligt." },
+    "autumn": { "weather": "Mildt tidligt, derefter stormagtigt; dramatiske himle.", "windSand": "Stigende vind og aktiv sanddrift.", "activities": "Fotografi, ensomhed, dramatisk kystlys.", "caution": "Kortere dage; tjek lukninger og lys." },
+    "winter": { "weather": "Koldt, korte dage; frost og lejlighedsvis sne.", "windSand": "Hård vindpåvirkning; isede steder mulige.", "activities": "Ensomhed, barsk kystlandskab.", "caution": "Turinteriør ofte lukket; klæd dig meget varmt." }
+  },
+  "routePlans": {
+    "title": "Forslag til ruter",
+    "intro": "Tre tilpassede ruter til forskellige rejsende plus en generel plan, du kan tilpasse efter vind og lys.",
+    "plans": [
+      { "name": "Familier med børn", "audience": "Langsomt, service først", "steps": ["Baser i eller ved Løkken for toiletter, mad og let parkering.", "Ankom formiddagen; hold klippeturen kort og brug bæresele i sandet.", "Picnic eller frokost i byen, derefter kort, vindbeskyttet strandstop.", "Vend tilbage før sen eftermiddag, når det hurtigt afkøles."] },
+      { "name": "Foto & natur", "audience": "Lys, klitter, erosion", "steps": ["Start ved klintkanten med erosion og horisont.", "Gå til dune-ryggen for tårnet-i-sandet-komposition.", "Fotografér sent vestligt lys for relief i sandet.", "Udvid til Lønstrups klinter hvis vinden tillader."] },
+      { "name": "Lav indsats / barrierefri", "audience": "Trinfri, kortere stræk", "steps": ["Brug hovedparkeringen og det mest strukturerede udsigtspunkt.", "Undgå den bløde sandstigning; nyd adgangszonen fra fast grund.", "Hold dig på den øvre adgangssti og vend tilbage før udmattelse.", "Kombinér med bybesøg hvor flader er brolagte."] }
+    ],
+    "generalTitle": "Generel plan",
+    "halfTitle": "Halv dag (2,5–3 t)", "halfDesc": "Parkér, gå til fyret, observere klint-landskabet, vend tilbage. Løkken til et måltid.",
+    "fullTitle": "Hel dag (5–6 t)", "fullDesc": "Kombinér Rubjerg Knude med Løkken (service/strand) og Lønstrup (kunst/klinter); rækkefølge efter vind og lys."
+  },
+  "science": {
+    "title": "Kystvidenskab & arv",
+    "intro": "Rubjerg Knude er et lærebogseksempel på aktive kystprocesser. Forståelse hjælper besøgende med at læse landskabet og se, hvorfor man flyttede tårnet.",
+    "topics": [
+      { "title": "Dynernes vandring", "body": "Fint sand, der løftes fra den eroderende klint, føres indad af vedholdende vestenvind og genopbygges som vandrende klitter. Rygge, stier og sigtelinjer kan ændre sig mærkbart mellem besøg — stedet er aldrig helt det samme." },
+      { "title": "Klinterosion", "body": "Vesterhavet fjerner år for år klintmateriale og flytter kysten støt indad. Det er den proces, der til sidst tvang tårnets flytning i 2019." },
+      { "title": "Styret tilbagetrækning", "body": "I stedet for at fastholde tårnet flyttede myndighederne det i 2019 ca. 70 m indad på skinner. Det er et sjældent, synligt tilfælde af arvs-tilpasning til en skiftende kyst." }
+    ],
+    "responsibilityTitle": "Besøgsansvar",
+    "responsibilityIntro": "Da landskabet er dynamisk og minimalt udbygget, beskytter små valg det for andre.",
+    "responsibility": ["Bliv på markerede stier og det strukturerede udsigtspunkt; undgå ustabile klintkanter.", "Tag alt affald med — der er ingen containere på klitterne.", "Hold hunde under kontrol ved vildt og klinter.", "Følg eventuelle midlertidige lukninger eller sikkerhedsskilte.", "Bestig ikke indhegnede eller ustabile områder, selv når vinden blotlægger ny bund."]
+  },
+  "stories": {
+    "title": "Historier & baggrund",
+    "intro": "Ud over geologien bærer Rubjerg Knude et århundrede af menneskelige historier. Noterne adskiller dokumenteret historie fra lokal folklore, som er en del af stedets kulturarv.",
+    "items": [
+      { "title": "Vogternes liv", "body": "Fra 1900 bemandede vogtere tårnet, der konstant ryddede sand og vedligeholdt lyset i hårdt Vesterhavsvejr. Deres rutine viser, hvor krævende afsides maritimt arbejde var før automatisk navigation." },
+      { "title": "Sandet der slugte et museum", "body": "I det sene 20. århundrede blev der oprettet et museum ved stationshuset — men fremtrængende sand overvældede det og tvang lukning i 2002. Klitten, ikke menneskene, fik det sidste ord." },
+      { "title": "Det store træk i 2019", "body": "Med klintkanten nærmede sig, blev det 23 m høje tårn sat på et skinsystem og rullet ca. 70 m indad. Operationen vakte international opmærksomhed som symbol på arvs-tilpasning til erosion." },
+      { "title": "Lokale sagn om den vandrende klint", "body": "Kystsamfund talte længe om den 'vandrende klint' som en næsten levende kraft, der begrov marker og bygninger. Disse folkefortællinger er ikke målinger, men indfanger en reel, iagttagelig proces menneskeligt." }
+    ]
+  },
+  "tides": {
+    "title": "Tidevand & kystbevidsthed",
+    "intro": "Vesterhavet langs denne kyst har en semidaglig tide — ca. to højvande og to lavvande i døgnet, med et beskedent udsving. Tidevandet former kysten på ny og ændrer, hvordan du bevæger dig; et hurtigt tjek før afgang kan betale sig.",
+    "patternTitle": "Tidevandets rytme",
+    "patternDesc": "Forvent vandstanden stiger og falder ca. to gange daglig. Ved Rubjerg Knude er udsvinget lille — typisk vel under en meter i forhold til middelvandstand — men det tegner strand og klintfod på ny.",
+    "lowTitle": "Ved lavvande",
+    "lowDesc": "Stranden er bredest, og sandfladerne blottes — godt til en strandtur og til at se klintfoden. Turen fra parkeringspladsen til fyret går over de højere klitter og påvirkes ikke af tidevandet.",
+    "highTitle": "Ved højvande",
+    "highDesc": "Havet skubber længere op ad stranden og kan bryde helt nede ved foden af den eroderende klint. Hold afstand til klintvæggen, og søg aldrig ly under den.",
+    "bestTitle": "Bedste tidspunkt",
+    "bestDesc": "Faldende eller lavt vand giver ofte den roligste, bredeste strand og det klareste lys på sandet. Kombinér det med et vind- og regntjek i vejrpanelet ovenfor.",
+    "safetyTitle": "Kystsikkerhed",
+    "safety": [
+      "Opdriftbølger kan nå højere end den herskende tide — vend aldrig ryggen til havet i vandkanten.",
+      "Hold god afstand til klintfoden, især ved højvande og efter storme, når erosionen er stærkest.",
+      "Blødt sand og det våde forland trætter hurtigt; afsæt ekstra tid til returturen.",
+      "Tidevandstiderne ændrer sig dagligt — tjek en aktuel lokal tidevandstabel (fx Danmarks Meteorologiske Institut) før afgang."
+    ],
+    "liveTitle": "Kommende tidevandsekstremer (lokal tid)",
+    "liveNote": "Nærmeste referencestation: {station} (~{distance} km væk). Tider er lokal tid (Europe/Copenhagen) og kun vejledende.",
+    "high": "Høj",
+    "low": "Lav",
+    "level": "Vandstand",
+    "error": "Den live tidevandstabel er kortvarigt utilgængelig. Tjek Danmarks Meteorologiske Institut for aktuelle tider før rejsen."
+  },
+  "weatherTips": {
+    "travelTitle": "Påklædning & fremkomst",
+    "activityTitle": "Aktiviteter",
+    "essentialsTitle": "Huske at tage med",
+    "riskTitle": "Sikkerhedsbesked",
+    "adv": {
+      "sunnyGood": "Fint vejr — godt til at være udendørs.",
+      "sunriseSunset": "Perfekt til solopgang, solnedgang og kystudsigt.",
+      "cloudyPhoto": "Blødt lys — fremragende til foto.",
+      "longOutdoor": "Ingen skarp sol — behageligt til længere tid udendørs.",
+      "lightRainSlip": "Let regn — underlaget er glat, pas på trinene.",
+      "openPoor": "Oplevelser udendørs er mindre behagelige i regn.",
+      "foldUmbrella": "Foldeparaply",
+      "rainLikely": "Regn er sandsynlig — tag regntøj med.",
+      "rainIndoor": "Vælg indendørs stop; udsky strand og kysttid.",
+      "heavyRainAvoid": "Kraftig regn — undgå den lave strand og klintfoden.",
+      "noOutdoor": "Vandring i det fri frarådes; havaktiviteter kan være lukket.",
+      "raincoat": "Regnjakke (undgå lang paraply i vinden)",
+      "thunderSafety": "Tordenvarsel — hold afstand til klintkanten, havet og træer.",
+      "waterClosed": "Vandaktiviteter er sandsynligvis lukket.",
+      "highTempNoon": "Det er varmt — undgå middagssolen.",
+      "shortenOutdoor": "Hold tiden udendørs kortere.",
+      "sunProtectWater": "Solbeskyttelse og rigeligt drikkevand",
+      "uvStrong": "Stærk sol — beskytt huden.",
+      "uvGear": "Solcreme, solbriller og hat",
+      "bigDiffJacket": "Stort temperaturfald dag/nat — tag et lag med, du kan tage af og på.",
+      "lowTempCold": "Koldt — klæd dig varmt, især mod vinden.",
+      "warmGear": "Varm jakke og tørklæde",
+      "windModerate": "Blæsende — bådture og nogle friluftsaktiviteter kan pause.",
+      "coastalStop": "Bådture og udsatte klintaktiviteter kan indstilles.",
+      "hatBlows": "Hatte blæser let væk; undgå vide lange nederdele.",
+      "windStrong": "Stærk vind — hold dig fra klintkanten og brændingszonen.",
+      "seaClosed": "Havaktiviteter aflyses meget sandsynligt.",
+      "fogVisibility": "Dårlig sigt — færger og fly kan forsinke; begrænset havudsigt.",
+      "mask": "Mundbind"
+    }
   }
 }
