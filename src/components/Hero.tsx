@@ -42,7 +42,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('hours')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/4VwNPngCGCqifTnH6"
+              href="https://maps.app.goo.gl/cVkELswJnWGKDpTs7"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"
@@ -54,6 +54,11 @@ export default function Hero() {
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
           </div>
+
+          {/* Rating provenance: a snapshot, not a live number. */}
+          <p className="text-xs text-white/60 mb-8 animate-fade-in-up animation-delay-200">
+            {t('source')}: {t('rating')}/5 · {t('reviewCount')} · {t('checked')}
+          </p>
         </div>
       </div>
 

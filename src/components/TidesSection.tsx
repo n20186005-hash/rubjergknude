@@ -66,6 +66,13 @@ export default async function TidesSection() {
       month: 'short',
     }).format(new Date(iso));
 
+  const trust = await getTranslations({ locale, namespace: 'trust' });
+  const generatedAt = new Intl.DateTimeFormat(locale, {
+    timeZone: 'Europe/Copenhagen',
+    dateStyle: 'medium',
+    timeStyle: 'short',
+  }).format(new Date());
+
   const safety = (t.raw('safety') as string[]) || [];
   const facts = [
     { title: t('patternTitle'), desc: t('patternDesc') },
@@ -89,6 +96,9 @@ export default async function TidesSection() {
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('intro')}
+        </p>
+        <p className="text-xs mb-8" style={{ color: 'var(--text-muted)' }}>
+          {trust('lastUpdatedLabel')}: {generatedAt}
         </p>
 
         {tides ? (

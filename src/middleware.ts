@@ -1,7 +1,8 @@
 import { NextResponse, type NextRequest } from 'next/server';
 import createMiddleware from 'next-intl/middleware';
 import { routing } from './i18n/routing';
-import { defaultLocale, supportedLocales } from './i18n/config';
+import { defaultLocale, supportedLocales, type AppLocale } from './i18n/config';
+import { TOPIC_ORDER, topicSlugForLocale } from '@/content/topics';
 
 const intlMiddleware = createMiddleware(routing);
 
@@ -13,43 +14,80 @@ const intlMiddleware = createMiddleware(routing);
 // a self-redirect structurally impossible.
 const APEX_HOST = 'rubjergknude.com';
 const CANONICAL_HOST = 'www.rubjergknude.com';
-const PATH_PLACEHOLDER = '/:path*';
 
 function buildRedirectUrl(request: NextRequest, pathname: string) {
   const url = new URL(request.url);
-  url.protocol = 'https:';
-  url.port = '';
-  url.host = CANONICAL_HOST;
+  const hostname = (request.headers.get('host') ?? '').split(':')[0].toLowerCase();
+
+  // Only pin the canonical host + https for real production traffic. On
+  // localhost and preview deployments the redirect stays relative, so local
+  // development does not end up on the live domain.
+  if (hostname === APEX_HOST || hostname === CANONICAL_HOST) {
+    url.protocol = 'https:';
+    url.port = '';
+    url.host = CANONICAL_HOST;
+  }
+
   url.pathname = pathname;
   return url;
 }
 
-function normalizePathname(pathname: string) {
-  if (pathname === '/') {
-    return `/${defaultLocale}`;
+/**
+ * `/` resolves to the default locale (Danish). No Accept-Language / IP based
+ * redirect happens anywhere: the URL a crawler sees is always the same.
+ */
+function resolveRequestedPath(pathname: string) {
+  const segments = pathname.split('/').filter(Boolean);
+
+  if (segments.length === 0) {
+    return { target: `/${defaultLocale}`, rewrite: null as string | null };
   }
 
-  const localeWithPlaceholder = supportedLocales.find((locale) => pathname === `/${locale}${PATH_PLACEHOLDER}`);
-  if (localeWithPlaceholder) {
-    return `/${localeWithPlaceholder}`;
+  if (segments.length >= 2 && supportedLocales.includes(segments[0] as AppLocale)) {
+    const locale = segments[0] as AppLocale;
+    const slug = segments[1];
+    const rest = segments.slice(2);
+    const suffix = rest.length > 0 ? `/${rest.join('/')}` : '';
+
+    const topic = TOPIC_ORDER.find((candidate) => candidate === slug || topicSlugForLocale(candidate, locale) === slug);
+
+    if (topic) {
+      const localized = topicSlugForLocale(topic, locale);
+      // Localised slug -> internal (English) route folder, URL stays localised.
+      if (slug !== topic) {
+        return { target: pathname, rewrite: `/${locale}/${topic}${suffix}` };
+      }
+      // English slug on a localised locale -> 308 to the localised URL, so only
+      // one URL per language is ever indexed.
+      if (localized !== topic) {
+        return { target: `/${locale}/${localized}${suffix}`, rewrite: null as string | null };
+      }
+    }
   }
 
-  return pathname;
+  return { target: pathname, rewrite: null as string | null };
 }
 
 export default function middleware(request: NextRequest) {
   const url = new URL(request.url);
-  const normalizedPathname = normalizePathname(url.pathname);
+  const { target, rewrite } = resolveRequestedPath(url.pathname);
+
   const hostHeader = request.headers.get('host');
   if (hostHeader) {
     const hostname = hostHeader.split(':')[0].toLowerCase();
     if (hostname === APEX_HOST) {
-      return NextResponse.redirect(buildRedirectUrl(request, normalizedPathname), 308);
+      return NextResponse.redirect(buildRedirectUrl(request, target), 308);
     }
   }
 
-  if (normalizedPathname !== url.pathname) {
-    return NextResponse.redirect(buildRedirectUrl(request, normalizedPathname), 308);
+  if (rewrite) {
+    const rewriteUrl = new URL(request.url);
+    rewriteUrl.pathname = rewrite;
+    return NextResponse.rewrite(rewriteUrl);
+  }
+
+  if (target !== url.pathname) {
+    return NextResponse.redirect(buildRedirectUrl(request, target), 308);
   }
 
   return intlMiddleware(request);

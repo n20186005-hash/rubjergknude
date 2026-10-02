@@ -1,6 +1,8 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
 import { getLocalePath, GUIDES } from '@/i18n/config';
+import { LAST_UPDATED } from '@/data/facts';
+import { TOPIC_ORDER, getTopicLabel, topicSlugForLocale } from '@/content/topics';
 
 function GuideLink({ ns, path, prefix }: { ns: string; path: string; prefix: string }) {
   const t = useTranslations(ns);
@@ -27,8 +29,11 @@ export default function Footer() {
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
               Rubjerg Knude
             </h3>
-            <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
+            <p className="text-xs mb-2" style={{ color: 'var(--text-muted)' }}>
               {t('officialResourcesTitle')}
+            </p>
+            <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
+              {t('independent')} · {t('lastUpdatedLabel')}: {LAST_UPDATED}
             </p>
             <div className="flex flex-col gap-2">
               <a href="https://www.visitdenmark.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
@@ -54,6 +59,24 @@ export default function Footer() {
             </a>
             {GUIDES.map((g) => (
               <GuideLink key={g.ns} ns={g.ns} path={g.path} prefix={prefix} />
+            ))}
+          </div>
+        </div>
+
+        <div className="mb-8">
+          <h4 className="text-sm font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+            {t('topicsTitle')}
+          </h4>
+          <div className="flex flex-wrap gap-3 text-sm">
+            {TOPIC_ORDER.map((slug) => (
+              <a
+                key={slug}
+                href={getLocalePath(locale, `/${topicSlugForLocale(slug, locale)}`)}
+                style={{ color: 'var(--text-secondary)' }}
+                className="hover:underline"
+              >
+                {getTopicLabel(slug, locale)}
+              </a>
             ))}
           </div>
         </div>

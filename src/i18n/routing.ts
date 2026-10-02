@@ -5,6 +5,9 @@ export const routing = defineRouting({
   locales: supportedLocales,
   defaultLocale,
   localePrefix: 'always',
+  // Never redirect based on Accept-Language / IP: the URL must be stable for
+  // crawlers, and visitors pick their language explicitly in the header.
+  localeDetection: false,
   pathnames: {
     '/': '/',
     '/privacy-policy': '/privacy-policy',

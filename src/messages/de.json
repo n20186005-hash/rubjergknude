@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Rubjerg Knude | Leuchtturm, Wanderdüne & Besucherguide Dänemark",
-    "description": "Rubjerg Knude in Dänemark: der 2019 versetzte Leuchtturm an der Nordsee. Kostenloser Außenbereich, Parken (Parkplatz) an der Fyrvejen 110, Öffnungszeiten, Toiletten, Barrierefreiheit und der beste Sonnenuntergang."
+    "title": "Rubjerg Knude Fyr – Parken, Wanderdüne & Leuchtturm in Dänemark",
+    "description": "Unabhängiger Guide zum Rubjerg Knude Fyr: kostenloser Zutritt rund um die Uhr, Parken am Fyrvejen 110, ca. 1,2–1,5 km Fußweg über die Wanderdüne, Versetzung 2019 und praktische Tipps."
   },
   "header": {
     "home": "Start",
@@ -17,10 +17,12 @@
   "hero": {
     "title": "Rubjerg Knude",
     "subtitle": "Leuchtturm, Wanderdüne und Erosionskliff an der Nordseeküste Norddänemarks",
-    "rating": "4.7",
-    "reviewCount": "8.489 Bewertungen",
-    "hours": "Ganzjährig zugänglich",
-    "openMaps": "In Google Maps öffnen"
+    "rating": "4.8",
+    "reviewCount": "9.070 Bewertungen",
+    "hours": "Rund um die Uhr geöffnet · kostenlos",
+    "openMaps": "In Google Maps öffnen",
+    "source": "Google Maps",
+    "checked": "Geprüft Oktober 2026"
   },
   "intro": {
     "title": "Rubjerg Knude verstehen",
@@ -94,7 +96,7 @@
       },
       {
         "label": "Google Maps",
-        "value": "4,7 / 5 aus 8.489 Bewertungen"
+        "value": "4,8 / 5 basierend auf 9.070 Bewertungen (Google Maps, geprüft Oktober 2026)"
       },
       {
         "label": "Adresse",
@@ -103,31 +105,31 @@
     ]
   },
   "hours": {
-    "title": "Öffnungszeiten",
-    "outdoor": "Außenbereich",
-    "outdoorTime": "Ganzjährig zugänglich, in der Regel ganztägig",
-    "lighthouse": "Turminneres und Ausstellungsbereich",
-    "summer": "Sommersaison",
-    "summerTime": "Meist 10:00-17:00 von Mai bis September",
-    "winter": "Wintersaison",
-    "winterTime": "Eingeschränkte Öffnung, oft nur an Wochenenden oder Feiertagen",
-    "warning": "Wetter- und Kliffhinweis",
-    "warningTime": "Starker Wind, fliegender Sand und Regen können Komfort und Sicherheit deutlich mindern. Abstand zur Kliffkante halten und temporäre Sperrungen beachten.",
-    "tip": "Vor einer gezielten Anreise aktuelle Öffnungszeiten möglichst noch einmal prüfen."
+    "title": "Öffnungszeiten und Zugang",
+    "outdoor": "Außenbereich: Düne, Kliff und Leuchtturm",
+    "outdoorTime": "Rund um die Uhr geöffnet, das ganze Jahr",
+    "lighthouse": "Zugang und Eintritt",
+    "summer": "Ganzjährig",
+    "summerTime": "Kostenloser Zutritt – kein Ticketverkauf",
+    "winter": "Saisonale Einrichtungen",
+    "winterTime": "Ausstellung, Café und betreute Angebote können eigene Öffnungszeiten haben",
+    "warning": "Vorübergehende Sperrungen",
+    "warningTime": "Bei Sturm, Kliffabbrüchen oder Arbeiten an der Düne können Teile des Geländes vorübergehend gesperrt sein. Sperrungen sind immer ausgeschildert und zu beachten.",
+    "tip": "Tageslicht ist die eigentliche Grenze, keine Schließzeit. Im Winter wird es auf einem Gelände ohne Beleuchtung schnell dunkel – Stirnlampe mitnehmen."
   },
   "tickets": {
-    "title": "Eintritt",
+    "title": "Eintritt und Tickets",
     "outdoor": "Düne, Kliff und Wege",
-    "outdoorPrice": "Freier Zugang",
-    "lighthouse": "Turminneres",
+    "outdoorPrice": "Kostenloser Zutritt",
+    "lighthouse": "Leuchtturm und Gelände",
     "adults": "Erwachsene",
-    "adultsPrice": "Bei Öffnung des Turms meist saisonal kostenpflichtig",
+    "adultsPrice": "Kostenlos",
     "students": "Studierende / Jugendliche",
-    "studentsPrice": "Je nach Betreiberregelung ermäßigt",
+    "studentsPrice": "Kostenlos",
     "children": "Kinder",
-    "childrenPrice": "Häufig frei oder ermäßigt",
-    "card": "Ticket-Hinweis",
-    "cardPrice": "Preise und Kategorien können sich saisonal ändern; maßgeblich sind die Angaben vor Ort."
+    "childrenPrice": "Kostenlos",
+    "card": "Kein Ticket nötig",
+    "cardPrice": "Für das Gelände selbst wird kein Ticket verkauft, der Zutritt ist rund um die Uhr kostenlos. Saisonale Angebote können eigene Preise haben – beachten Sie die Beschilderung vor Ort."
   },
   "transport": {
     "title": "Anreise",
@@ -405,7 +407,10 @@
       "tourism": "Dänische Naturbehörde",
       "england": "Visit Nordvestkysten"
     },
-    "disclaimer": "Diese Website ist ein unabhängiges Informationsprojekt im öffentlichen Interesse und keine offizielle Regierungs- oder Marketingseite."
+    "disclaimer": "Diese Website ist ein unabhängiges Informationsprojekt im öffentlichen Interesse und keine offizielle Regierungs- oder Marketingseite.",
+    "independent": "Unabhängiger Besucher-Guide",
+    "lastUpdatedLabel": "Zuletzt aktualisiert",
+    "topicsTitle": "Themen"
   },
   "privacy": {
     "title": "Datenschutz",
@@ -518,10 +523,22 @@
     ],
     "highlightsTitle": "Highlights der Nordjütland-Küste",
     "highlights": [
-      { "name": "Rubjerg Knude Fyr", "desc": "Der versetzte Leuchtturm und die wandernde Düne, die die ganze Region prägen." },
-      { "name": "Lønstrup", "desc": "Kunststudios, Galerien und Kliffwanderungen in einem ehemaligen Fischerdorf." },
-      { "name": "Løkken Strand", "desc": "Breiter Blue-Flag-Strand mit Versorgung, Gastronomie und EV-Ladung." },
-      { "name": "Küstenradfahren", "desc": "Flache, landschaftliche Routen entlang der Nordsee zwischen Dörfern und Stränden." }
+      {
+        "name": "Rubjerg Knude Fyr",
+        "desc": "Der versetzte Leuchtturm und die wandernde Düne, die die ganze Region prägen."
+      },
+      {
+        "name": "Lønstrup",
+        "desc": "Kunststudios, Galerien und Kliffwanderungen in einem ehemaligen Fischerdorf."
+      },
+      {
+        "name": "Løkken Strand",
+        "desc": "Breiter Blue-Flag-Strand mit Versorgung, Gastronomie und EV-Ladung."
+      },
+      {
+        "name": "Küstenradfahren",
+        "desc": "Flache, landschaftliche Routen entlang der Nordsee zwischen Dörfern und Stränden."
+      }
     ],
     "ctaTitle": "Bereit, den Leuchtturm-Besuch zu planen?",
     "ctaText": "Zurück zum Hauptführer für Rubjerg Knude mit Parken, Öffnungszeiten, der Versetzungsgeschichte 2019 und Besuchslogistik.",
@@ -529,22 +546,60 @@
     "footerLink": "Reiseführer Nordjütland"
   },
   "lonstrup": {
-    "meta": { "title": "Reiseführer Lønstrup | Kunstdorf bei Rubjerg Knude", "description": "Lønstrup in Dänemark: ein Kunstdorf auf den Klippen bei Rubjerg Knude mit Galerien, Keramik- und Glasstudios, Cafés und Küstenwanderungen. Planen Sie Ihren Besuch ab Rubjerg Knude." },
-    "hero": { "title": "Reiseführer Lønstrup", "subtitle": "Das kreative Kliffdorf bei Rubjerg Knude – Galerien, Ateliers und Küstenwanderungen in Nordjütland." },
+    "meta": {
+      "title": "Reiseführer Lønstrup | Kunstdorf bei Rubjerg Knude",
+      "description": "Lønstrup in Dänemark: ein Kunstdorf auf den Klippen bei Rubjerg Knude mit Galerien, Keramik- und Glasstudios, Cafés und Küstenwanderungen. Planen Sie Ihren Besuch ab Rubjerg Knude."
+    },
+    "hero": {
+      "title": "Reiseführer Lønstrup",
+      "subtitle": "Das kreative Kliffdorf bei Rubjerg Knude – Galerien, Ateliers und Küstenwanderungen in Nordjütland."
+    },
     "intro": "Lønstrup ist ein kleines Dorf an Dänemarks Nordseeküste, etwa 15 Minuten nördlich von Rubjerg Knude. Aus einer ehemaligen Fischersiedlung wurde ein Ort mit Galerien, Keramik-, Glas- und Textilateliers und einer entspannten kreativen Atmosphäre. Auf niedrigen Klippen über dem Strand gelegen, bildet es eine natürliche Ergänzung zum Besuch von Leuchtturm und Dünen. Dieser Guide beschreibt, was es zu sehen gibt, wie man hinkommt und warum Lønstrup einen Stopp auf einer Nordjütland-Küstenreise lohnt.",
     "sections": [
-      { "id": "art", "title": "Kunst & Galerien", "body": "Das Besondere an Lønstrup ist seine Künstlergemeinschaft. Es gibt Galerien und Werkstätten für Keramik, Glasblasen, Malerei und Textilien, viele für Besucher geöffnet. In den Ateliers wird oft direkt verkauft – ein guter Ort für ein einzigartiges dänisches Design-Andenken." },
-      { "id": "cliffs", "title": "Klippen & Strand", "body": "Das Dorf liegt auf niedrigen Tonklippen über einem breiten Sandstrand. Pfade führen zum Ufer zum Spazieren und Schwimmen, und die Kliffroute südwärts nach Rubjerg Knude gehört zu den schönsten Küstenwanderungen der Gegend." },
-      { "id": "food", "title": "Essen & Cafés", "body": "Ein paar Cafés und Restaurants servieren Kaffee, Kuchen und Meeresfrüchte mit Aussicht. Ein angenehmer Ort, um einen Tag an der Nordwestküste zu unterbrechen." },
-      { "id": "getting", "title": "Anreise", "body": "Lønstrup erreicht man mit dem Auto von der Küstenstraße; Parkplätze gibt es im Dorf und drumherum. Es liegt etwa 15 Minuten von Rubjerg Knude und 25 Minuten von Løkken entfernt. Der öffentliche Verkehr ist begrenzt, daher ist das Auto am einfachsten." },
-      { "id": "combine", "title": "Kombinieren mit Rubjerg Knude", "body": "Da Lønstrup und Rubjerg Knude nur etwa 15 Minuten voneinander entfernt liegen, verbinden die meisten Besucher beide: Leuchtturm und Düne in die eine, Kunstdorf und Klippen in die andere Richtung. Prüfen Sie Wind und Wetter, da die Küste exponiert ist." }
+      {
+        "id": "art",
+        "title": "Kunst & Galerien",
+        "body": "Das Besondere an Lønstrup ist seine Künstlergemeinschaft. Es gibt Galerien und Werkstätten für Keramik, Glasblasen, Malerei und Textilien, viele für Besucher geöffnet. In den Ateliers wird oft direkt verkauft – ein guter Ort für ein einzigartiges dänisches Design-Andenken."
+      },
+      {
+        "id": "cliffs",
+        "title": "Klippen & Strand",
+        "body": "Das Dorf liegt auf niedrigen Tonklippen über einem breiten Sandstrand. Pfade führen zum Ufer zum Spazieren und Schwimmen, und die Kliffroute südwärts nach Rubjerg Knude gehört zu den schönsten Küstenwanderungen der Gegend."
+      },
+      {
+        "id": "food",
+        "title": "Essen & Cafés",
+        "body": "Ein paar Cafés und Restaurants servieren Kaffee, Kuchen und Meeresfrüchte mit Aussicht. Ein angenehmer Ort, um einen Tag an der Nordwestküste zu unterbrechen."
+      },
+      {
+        "id": "getting",
+        "title": "Anreise",
+        "body": "Lønstrup erreicht man mit dem Auto von der Küstenstraße; Parkplätze gibt es im Dorf und drumherum. Es liegt etwa 15 Minuten von Rubjerg Knude und 25 Minuten von Løkken entfernt. Der öffentliche Verkehr ist begrenzt, daher ist das Auto am einfachsten."
+      },
+      {
+        "id": "combine",
+        "title": "Kombinieren mit Rubjerg Knude",
+        "body": "Da Lønstrup und Rubjerg Knude nur etwa 15 Minuten voneinander entfernt liegen, verbinden die meisten Besucher beide: Leuchtturm und Düne in die eine, Kunstdorf und Klippen in die andere Richtung. Prüfen Sie Wind und Wetter, da die Küste exponiert ist."
+      }
     ],
     "highlightsTitle": "Warum Lønstrup besuchen",
     "highlights": [
-      { "name": "Kunststudios", "desc": "Keramik-, Glas- und Textilwerkstätten für Besucher geöffnet." },
-      { "name": "Kliffwanderungen", "desc": "Malerische Pfade Richtung Rubjerg Knude an der Nordsee." },
-      { "name": "Ruhige Strände", "desc": "Breiter Sandstrand unterhalb des Dorfes, gut zum Gehen und Schwimmen." },
-      { "name": "Kreative Atmosphäre", "desc": "Aus einem Fischerdorf wurde ein Designziel." }
+      {
+        "name": "Kunststudios",
+        "desc": "Keramik-, Glas- und Textilwerkstätten für Besucher geöffnet."
+      },
+      {
+        "name": "Kliffwanderungen",
+        "desc": "Malerische Pfade Richtung Rubjerg Knude an der Nordsee."
+      },
+      {
+        "name": "Ruhige Strände",
+        "desc": "Breiter Sandstrand unterhalb des Dorfes, gut zum Gehen und Schwimmen."
+      },
+      {
+        "name": "Kreative Atmosphäre",
+        "desc": "Aus einem Fischerdorf wurde ein Designziel."
+      }
     ],
     "ctaTitle": "Den Leuchtturm-Besuch planen",
     "ctaText": "Rubjerg Knude, der versetzte Leuchtturm und die wandernde Düne, ist nur 15 Minuten entfernt. Zurück zum Hauptführer für Parken, Öffnungszeiten und die Versetzungsgeschichte 2019.",
@@ -553,22 +608,60 @@
     "relatedTitle": "Weitere Reiseführer Nordjütland"
   },
   "lokken": {
-    "meta": { "title": "Reiseführer Løkken | Badestadt bei Rubjerg Knude", "description": "Løkken in Dänemark: die Hauptversorgungsstadt bei Rubjerg Knude mit Blue-Flag-Strand, Supermärkten, Restaurants, EV-Ladestationen und dem zuverlässigsten Parkplatz an der Nordjütland-Küste." },
-    "hero": { "title": "Reiseführer Løkken", "subtitle": "Der praktische Hub an Dänemarks Nordwestküste – Strand, Essen, Parken und EV-Ladung bei Rubjerg Knude." },
+    "meta": {
+      "title": "Reiseführer Løkken | Badestadt bei Rubjerg Knude",
+      "description": "Løkken in Dänemark: die Hauptversorgungsstadt bei Rubjerg Knude mit Blue-Flag-Strand, Supermärkten, Restaurants, EV-Ladestationen und dem zuverlässigsten Parkplatz an der Nordjütland-Küste."
+    },
+    "hero": {
+      "title": "Reiseführer Løkken",
+      "subtitle": "Der praktische Hub an Dänemarks Nordwestküste – Strand, Essen, Parken und EV-Ladung bei Rubjerg Knude."
+    },
     "intro": "Løkken ist ein traditionelles dänisches Seebad an der Nordsee, etwa 10 Minuten südlich von Rubjerg Knude. Mit einem breiten Blue-Flag-Strand, Geschäften, Supermärkten, Restaurants und EV-Ladung ist es die natürliche Versorgungsbasis für Besucher des Leuchtturms und der Küste. Dieser Guide erklärt, warum Løkken der Ort ist, um vor oder nach dem Dünenweg einzukaufen, zu essen und zu laden.",
     "sections": [
-      { "id": "beach", "title": "Der Strand", "body": "Løkkens breiter Sandstrand ist Blue Flag zertifiziert und von klassischen dänischen Ferienhütten (sommerhuse) gesäumt. Er eignet sich zum Schwimmen, Spazieren und Drachensteigenlassen und ist einer der familienfreundlichsten Abschnitte der Nordwestküste." },
-      { "id": "services", "title": "Versorgung & Einkaufen", "body": "Anders als die kleineren Dörfer hat Løkken Supermärkte, Bäckereien, eine Apotheke und diverse Geschäfte – der einfachste Ort, um auf einer Küstentour Proviant und Last-Minute-Bedarf zu planen." },
-      { "id": "food", "title": "Essen & Trinken", "body": "Restaurants und Cafés säumen die Hauptstraße und den Strandzugang und servieren dänische Klassiker und Meeresfrüchte. Hier isst man am zuverlässigsten in der Nähe von Rubjerg Knude." },
-      { "id": "parking", "title": "Parken & EV-Ladung", "body": "Løkken bietet den zuverlässigsten Parkplatz der Gegend und EV-Ladepunkte – daher der empfohlene Ort, um ein E-Auto zu laden und stehen zu lassen, wenn man lieber zur Düne radelt oder läuft." },
-      { "id": "combine", "title": "Kombinieren mit Rubjerg Knude", "body": "Mit etwa 10 Minuten Entfernung bilden Løkken und Rubjerg Knude den Kern einer kurzen Schleife: Versorgung und Strand in Løkken, Leuchtturm und Düne bei Rubjerg Knude. Lønstrup liegt weitere 15 Minuten nördlich für Kunst und Klippen." }
+      {
+        "id": "beach",
+        "title": "Der Strand",
+        "body": "Løkkens breiter Sandstrand ist Blue Flag zertifiziert und von klassischen dänischen Ferienhütten (sommerhuse) gesäumt. Er eignet sich zum Schwimmen, Spazieren und Drachensteigenlassen und ist einer der familienfreundlichsten Abschnitte der Nordwestküste."
+      },
+      {
+        "id": "services",
+        "title": "Versorgung & Einkaufen",
+        "body": "Anders als die kleineren Dörfer hat Løkken Supermärkte, Bäckereien, eine Apotheke und diverse Geschäfte – der einfachste Ort, um auf einer Küstentour Proviant und Last-Minute-Bedarf zu planen."
+      },
+      {
+        "id": "food",
+        "title": "Essen & Trinken",
+        "body": "Restaurants und Cafés säumen die Hauptstraße und den Strandzugang und servieren dänische Klassiker und Meeresfrüchte. Hier isst man am zuverlässigsten in der Nähe von Rubjerg Knude."
+      },
+      {
+        "id": "parking",
+        "title": "Parken & EV-Ladung",
+        "body": "Løkken bietet den zuverlässigsten Parkplatz der Gegend und EV-Ladepunkte – daher der empfohlene Ort, um ein E-Auto zu laden und stehen zu lassen, wenn man lieber zur Düne radelt oder läuft."
+      },
+      {
+        "id": "combine",
+        "title": "Kombinieren mit Rubjerg Knude",
+        "body": "Mit etwa 10 Minuten Entfernung bilden Løkken und Rubjerg Knude den Kern einer kurzen Schleife: Versorgung und Strand in Løkken, Leuchtturm und Düne bei Rubjerg Knude. Lønstrup liegt weitere 15 Minuten nördlich für Kunst und Klippen."
+      }
     ],
     "highlightsTitle": "Warum Løkken als Basis",
     "highlights": [
-      { "name": "Blue-Flag-Strand", "desc": "Breiter, familienfreundlicher Sandstrand mit Hütten dahinter." },
-      { "name": "Zuverlässiges Parken", "desc": "Der einfachste und verlässlichste Parkplatz bei Rubjerg Knude." },
-      { "name": "EV-Ladung", "desc": "E-Autos im Ort laden vor dem exponierten Dünenzugang." },
-      { "name": "Shops & Essen", "desc": "Supermärkte, Bäckereien und Restaurants zur Reiseplanung." }
+      {
+        "name": "Blue-Flag-Strand",
+        "desc": "Breiter, familienfreundlicher Sandstrand mit Hütten dahinter."
+      },
+      {
+        "name": "Zuverlässiges Parken",
+        "desc": "Der einfachste und verlässlichste Parkplatz bei Rubjerg Knude."
+      },
+      {
+        "name": "EV-Ladung",
+        "desc": "E-Autos im Ort laden vor dem exponierten Dünenzugang."
+      },
+      {
+        "name": "Shops & Essen",
+        "desc": "Supermärkte, Bäckereien und Restaurants zur Reiseplanung."
+      }
     ],
     "ctaTitle": "Bereit für den Dünenweg?",
     "ctaText": "Von Løkken ist es eine kurze Fahrt zu Rubjerg Knude. Zurück zum Hauptführer für Parken an der Fyrvejen 110, Gehzeiten und Barrierefreiheit.",
@@ -577,22 +670,60 @@
     "relatedTitle": "Weitere Reiseführer Nordjütland"
   },
   "rabjergMile": {
-    "meta": { "title": "Råbjerg Mile | Die wandernde Düne bei Rubjerg Knude", "description": "Råbjerg Mile, Dänemarks wandernde Düne bei Rubjerg Knude und Skagen: ein riesiger Wanderdüne, Wanderwege, freier Zugang und wie man sie mit Rubjerg Knude kombiniert." },
-    "hero": { "title": "Reiseführer Råbjerg Mile", "subtitle": "NordEuropas größte wandernde Düne – ein riesiges Sandmeer bei Rubjerg Knude und Skagen." },
+    "meta": {
+      "title": "Råbjerg Mile | Die wandernde Düne bei Rubjerg Knude",
+      "description": "Råbjerg Mile, Dänemarks wandernde Düne bei Rubjerg Knude und Skagen: ein riesiger Wanderdüne, Wanderwege, freier Zugang und wie man sie mit Rubjerg Knude kombiniert."
+    },
+    "hero": {
+      "title": "Reiseführer Råbjerg Mile",
+      "subtitle": "NordEuropas größte wandernde Düne – ein riesiges Sandmeer bei Rubjerg Knude und Skagen."
+    },
     "intro": "Råbjerg Mile ist eine wandernde Küstendüne in Nordjütland, etwa 20–25 Minuten östlich von Rubjerg Knude. Sie ist die größte wandernde Düne Nordeuropas, eine dramatische Fläche aus bloßem Sand, die langsam landeinwärts wandert und dabei Pfade und Plantagen verschlingt. Kostenlos zugänglich und leicht zu begehen, ergänzt sie Rubjerg Knude als zweites Dünenerlebnis. Dieser Guide behandelt Zugang, Erwartetes und wie man beide Dünen an einem Tag plant.",
     "sections": [
-      { "id": "what", "title": "Was ist Råbjerg Mile", "body": "Råbjerg Mile ist eine etwa 1 km breite wandernde Düne, rund 40 Meter hoch, die sich mehrere Meter pro Jahr bewegt. Sie begann als Küstendüne und liegt nun inland, eine auffällige 'Wüsten'-Landschaft umgeben von Heide und Wald." },
-      { "id": "walk", "title": "Die Düne wandern", "body": "Ein markierter Weg führt vom Parkplatz zur Düne, etwa 1 km über Heide und durch eine Plantage. Der letzte Abschnitt ist offener Sand, daher helfen feste Schuhe und Windschutz." },
-      { "id": "free", "title": "Frei & offen", "body": "Wie Rubjerg Knude hat Råbjerg Mile kein Ticket und keinen Zaun; der Zugang ist frei und das Gebiet ganzjährig geöffnet. Einrichtungen sind begrenzt, daher Versorgung in nahen Orten planen." },
-      { "id": "getting", "title": "Anreise", "body": "Råbjerg Mile erreicht man mit dem Auto von der Küstenstraße zwischen Frederikshavn und Skagen mit einem eigenen Parkplatz. Sie liegt etwa 20–25 Minuten von Rubjerg Knude, daher lässt sich beides in einem halben Tag kombinieren." },
-      { "id": "combine", "title": "Kombinieren mit Rubjerg Knude", "body": "Die beiden Dünen erzählen verschiedene Geschichten: Rubjerg Knude hüllt einen versetzten Leuchtturm in wandernden Sand; Råbjerg Mile ist pure wandernde Düne. Beide zeigen das Ausmaß der Dünenwanderung an Dänemarks Nordküste." }
+      {
+        "id": "what",
+        "title": "Was ist Råbjerg Mile",
+        "body": "Råbjerg Mile ist eine etwa 1 km breite wandernde Düne, rund 40 Meter hoch, die sich mehrere Meter pro Jahr bewegt. Sie begann als Küstendüne und liegt nun inland, eine auffällige 'Wüsten'-Landschaft umgeben von Heide und Wald."
+      },
+      {
+        "id": "walk",
+        "title": "Die Düne wandern",
+        "body": "Ein markierter Weg führt vom Parkplatz zur Düne, etwa 1 km über Heide und durch eine Plantage. Der letzte Abschnitt ist offener Sand, daher helfen feste Schuhe und Windschutz."
+      },
+      {
+        "id": "free",
+        "title": "Frei & offen",
+        "body": "Wie Rubjerg Knude hat Råbjerg Mile kein Ticket und keinen Zaun; der Zugang ist frei und das Gebiet ganzjährig geöffnet. Einrichtungen sind begrenzt, daher Versorgung in nahen Orten planen."
+      },
+      {
+        "id": "getting",
+        "title": "Anreise",
+        "body": "Råbjerg Mile erreicht man mit dem Auto von der Küstenstraße zwischen Frederikshavn und Skagen mit einem eigenen Parkplatz. Sie liegt etwa 20–25 Minuten von Rubjerg Knude, daher lässt sich beides in einem halben Tag kombinieren."
+      },
+      {
+        "id": "combine",
+        "title": "Kombinieren mit Rubjerg Knude",
+        "body": "Die beiden Dünen erzählen verschiedene Geschichten: Rubjerg Knude hüllt einen versetzten Leuchtturm in wandernden Sand; Råbjerg Mile ist pure wandernde Düne. Beide zeigen das Ausmaß der Dünenwanderung an Dänemarks Nordküste."
+      }
     ],
     "highlightsTitle": "Warum Råbjerg Mile besuchen",
     "highlights": [
-      { "name": "Größte wandernde Düne", "desc": "Nordeuropas größte wandernde Düne, etwa 40 m hoch." },
-      { "name": "Freier Zugang", "desc": "Kein Ticket und kein Zaun; ganzjährig geöffnet." },
-      { "name": "Einfache Wege", "desc": "Markierter Wanderweg vom Parkplatz zum Sand." },
-      { "name": "Mit Rubjerg Knude kombinieren", "desc": "Zwei sehr unterschiedliche Dünenerlebnisse in einem halben Tag." }
+      {
+        "name": "Größte wandernde Düne",
+        "desc": "Nordeuropas größte wandernde Düne, etwa 40 m hoch."
+      },
+      {
+        "name": "Freier Zugang",
+        "desc": "Kein Ticket und kein Zaun; ganzjährig geöffnet."
+      },
+      {
+        "name": "Einfache Wege",
+        "desc": "Markierter Wanderweg vom Parkplatz zum Sand."
+      },
+      {
+        "name": "Mit Rubjerg Knude kombinieren",
+        "desc": "Zwei sehr unterschiedliche Dünenerlebnisse in einem halben Tag."
+      }
     ],
     "ctaTitle": "Auch die Leuchtturm-Düne sehen",
     "ctaText": "Rubjerg Knude mit seinem versetzten Leuchtturm im Sand ist 20–25 Minuten entfernt. Zurück zum Hauptführer für Parken, Öffnungszeiten und die Versetzungsgeschichte 2019.",
@@ -601,22 +732,60 @@
     "relatedTitle": "Weitere Reiseführer Nordjütland"
   },
   "hjorring": {
-    "meta": { "title": "Reiseführer Hjørring | Basistadt bei Rubjerg Knude", "description": "Hjørring in Dänemark: die Hauptstadt und Kommune bei Rubjerg Knude mit Supermärkten, Verkehrsanbindung, Museen und Versorgung – Ihre praktische Basis für die Nordjütland-Küste." },
-    "hero": { "title": "Reiseführer Hjørring", "subtitle": "Die größte Stadt bei Rubjerg Knude – Versorgung, Verkehr und Kultur für Ihre Nordjütland-Basis." },
+    "meta": {
+      "title": "Reiseführer Hjørring | Basistadt bei Rubjerg Knude",
+      "description": "Hjørring in Dänemark: die Hauptstadt und Kommune bei Rubjerg Knude mit Supermärkten, Verkehrsanbindung, Museen und Versorgung – Ihre praktische Basis für die Nordjütland-Küste."
+    },
+    "hero": {
+      "title": "Reiseführer Hjørring",
+      "subtitle": "Die größte Stadt bei Rubjerg Knude – Versorgung, Verkehr und Kultur für Ihre Nordjütland-Basis."
+    },
     "intro": "Hjørring ist die Hauptstadt der Kommune, zu der Rubjerg Knude und die Küste gehören, etwa 20–25 Minuten landeinwärts vom Leuchtturm. Mit Supermärkten, einem Bahnhof, Museen und voller Versorgung ist es die praktische Basis für Besucher, die mehr als den Strand wollen. Dieser Guide erklärt, wie Hjørring in eine Rubjerg-Knude-Reise passt und was die Stadt bietet.",
     "sections": [
-      { "id": "municipality", "title": "Die Kommune", "body": "Rubjerg Knude, Lønstrup und Løkken liegen alle in der Kommune Hjørring (Hjørring Kommune). Das hilft bei Karten, lokaler Tourismusorganisation (Visit Nordvestkysten) und regionaler Planung." },
-      { "id": "services", "title": "Versorgung & Verkehr", "body": "Hjørring hat das größte Angebot an Supermärkten, Banken, ein Krankenhaus und einen Bahnhof mit Verbindungen Richtung Aalborg und darüber hinaus – der bequemste Ort, um auf einer längeren Reise Proviant aufzustocken." },
-      { "id": "culture", "title": "Kultur & Museen", "body": "Die Stadt bietet Museen, ein Kino und Veranstaltungen und damit ein kulturelles Gegengewicht zu den Küstendörfern. Eine gute Option bei Regenwetter nahe Rubjerg Knude." },
-      { "id": "getting", "title": "Anreise", "body": "Hjørring liegt landeinwärts, etwa 20–25 Minuten mit dem Auto von Rubjerg Knude über die Hauptstraßen. Der empfohlene Ort, um vor dem Ausflug zu den Dünen und Dörfern Erledigungen zu machen." },
-      { "id": "combine", "title": "Kombinieren mit Rubjerg Knude", "body": "Nutzen Sie Hjørring als Binnenbasis: Einkaufen und Bahnfahren, dann kurze Fahrt zu Rubjerg Knude, Lønstrup und Løkken an die Küste. Die drei Küstenstationen sind 10–25 Minuten von der Stadt entfernt." }
+      {
+        "id": "municipality",
+        "title": "Die Kommune",
+        "body": "Rubjerg Knude, Lønstrup und Løkken liegen alle in der Kommune Hjørring (Hjørring Kommune). Das hilft bei Karten, lokaler Tourismusorganisation (Visit Nordvestkysten) und regionaler Planung."
+      },
+      {
+        "id": "services",
+        "title": "Versorgung & Verkehr",
+        "body": "Hjørring hat das größte Angebot an Supermärkten, Banken, ein Krankenhaus und einen Bahnhof mit Verbindungen Richtung Aalborg und darüber hinaus – der bequemste Ort, um auf einer längeren Reise Proviant aufzustocken."
+      },
+      {
+        "id": "culture",
+        "title": "Kultur & Museen",
+        "body": "Die Stadt bietet Museen, ein Kino und Veranstaltungen und damit ein kulturelles Gegengewicht zu den Küstendörfern. Eine gute Option bei Regenwetter nahe Rubjerg Knude."
+      },
+      {
+        "id": "getting",
+        "title": "Anreise",
+        "body": "Hjørring liegt landeinwärts, etwa 20–25 Minuten mit dem Auto von Rubjerg Knude über die Hauptstraßen. Der empfohlene Ort, um vor dem Ausflug zu den Dünen und Dörfern Erledigungen zu machen."
+      },
+      {
+        "id": "combine",
+        "title": "Kombinieren mit Rubjerg Knude",
+        "body": "Nutzen Sie Hjørring als Binnenbasis: Einkaufen und Bahnfahren, dann kurze Fahrt zu Rubjerg Knude, Lønstrup und Løkken an die Küste. Die drei Küstenstationen sind 10–25 Minuten von der Stadt entfernt."
+      }
     ],
     "highlightsTitle": "Warum Hjørring als Basis",
     "highlights": [
-      { "name": "Volle Versorgung", "desc": "Supermärkte, Banken, Krankenhaus und der wichtigste Verkehrsknotenpunkt der Gegend." },
-      { "name": "Bahnverbindungen", "desc": "Schienenverbindungen Richtung Aalborg und dem Rest Dänemarks." },
-      { "name": "Kultur", "desc": "Museen, Kino und Veranstaltungen für einen Regentag." },
-      { "name": "Zentrale Lage", "desc": "20–25 Minuten von Rubjerg Knude, Lønstrup und Løkken." }
+      {
+        "name": "Volle Versorgung",
+        "desc": "Supermärkte, Banken, Krankenhaus und der wichtigste Verkehrsknotenpunkt der Gegend."
+      },
+      {
+        "name": "Bahnverbindungen",
+        "desc": "Schienenverbindungen Richtung Aalborg und dem Rest Dänemarks."
+      },
+      {
+        "name": "Kultur",
+        "desc": "Museen, Kino und Veranstaltungen für einen Regentag."
+      },
+      {
+        "name": "Zentrale Lage",
+        "desc": "20–25 Minuten von Rubjerg Knude, Lønstrup und Løkken."
+      }
     ],
     "ctaTitle": "An die Küste",
     "ctaText": "Von Hjørring ist Rubjerg Knude eine kurze Fahrt entfernt. Zurück zum Hauptführer für Parken, Öffnungszeiten und die Leuchtturm-Versetzung 2019.",
@@ -637,7 +806,16 @@
     "today": "Heute",
     "updated": "Die Küstenbedingungen ändern sich schnell; prüfen Sie vor der Abfahrt erneut.",
     "error": "Das Live-Wetter ist kurzzeitig nicht verfügbar. Bitte prüfen Sie vor der Reise einen Wetterdienst.",
-    "cond": { "clear": "Klar", "partlyCloudy": "Teils bewölkt", "cloudy": "Bewölkt", "fog": "Nebel", "drizzle": "Niesel", "rain": "Regen", "snow": "Schnee", "thunder": "Gewitter" }
+    "cond": {
+      "clear": "Klar",
+      "partlyCloudy": "Teils bewölkt",
+      "cloudy": "Bewölkt",
+      "fog": "Nebel",
+      "drizzle": "Niesel",
+      "rain": "Regen",
+      "snow": "Schnee",
+      "thunder": "Gewitter"
+    }
   },
   "services": {
     "title": "Einrichtungen & Nahversorgung",
@@ -645,65 +823,211 @@
     "whereLabel": "Wo",
     "tip": "Planen Sie Proviant, Laden und Mahlzeiten um Løkken (Süden, ~10 Min) oder Lønstrup (Norden, ~15 Min). Am Dünen selbst gibt es weder Toiletten noch Geschäfte.",
     "items": [
-      { "name": "Toiletten (WC)", "desc": "Öffentliche Toiletten stehen in der Hochsaison meist beim Hauptankunftsbereich, sind saisonal jedoch begrenzt. Am Leuchtturm oder auf dem Dünenpfad gibt es keine.", "where": "Hauptparkplatz / Løkken" },
-      { "name": "Parken", "desc": "Ein Hauptparkplatz bedient die Stätte an der Fyrvejen 110. Er ist der zuverlässigste Ort zum Abstellen; in Spitzenzeiten voll — früher kommen hilft.", "where": "Fyrvejen 110, Løkken" },
-      { "name": "Essen & Trinken", "desc": "Vor Ort gibt es keine Cafés oder Restaurants. Lockeres Essen, Kaffee und Fisch konzentrieren sich in den Küstenorten, besonders Løkken und Lønstrup.", "where": "Løkken, Lønstrup" },
-      { "name": "Unterkunft", "desc": "Von Seenotels und Pensionen bis Ferienwohnungen und Campingplätzen ist das Angebot breit. Die nächsten Cluster sind Løkken und Hjørring.", "where": "Løkken, Hjørring" },
-      { "name": "Einkauf & Geschäfte", "desc": "Supermärkte, Bäckereien und Apotheken finden sich in den Orten, nicht an der Düne. Løkken und Hjørring bieten den vollständigsten Alltagseinkauf.", "where": "Løkken, Hjørring" },
-      { "name": "Tanken & E-Laden", "desc": "Tankstellen und öffentliche Ladesäulen liegen in den Orten. Am Parkplatz gibt es weder Kraftstoff noch Laden — tanken und laden Sie vor dem letzten Abschnitt.", "where": "Løkken, Hjørring" }
+      {
+        "name": "Toiletten (WC)",
+        "desc": "Öffentliche Toiletten stehen in der Hochsaison meist beim Hauptankunftsbereich, sind saisonal jedoch begrenzt. Am Leuchtturm oder auf dem Dünenpfad gibt es keine.",
+        "where": "Hauptparkplatz / Løkken"
+      },
+      {
+        "name": "Parken",
+        "desc": "Ein Hauptparkplatz bedient die Stätte an der Fyrvejen 110. Er ist der zuverlässigste Ort zum Abstellen; in Spitzenzeiten voll — früher kommen hilft.",
+        "where": "Fyrvejen 110, Løkken"
+      },
+      {
+        "name": "Essen & Trinken",
+        "desc": "Vor Ort gibt es keine Cafés oder Restaurants. Lockeres Essen, Kaffee und Fisch konzentrieren sich in den Küstenorten, besonders Løkken und Lønstrup.",
+        "where": "Løkken, Lønstrup"
+      },
+      {
+        "name": "Unterkunft",
+        "desc": "Von Seenotels und Pensionen bis Ferienwohnungen und Campingplätzen ist das Angebot breit. Die nächsten Cluster sind Løkken und Hjørring.",
+        "where": "Løkken, Hjørring"
+      },
+      {
+        "name": "Einkauf & Geschäfte",
+        "desc": "Supermärkte, Bäckereien und Apotheken finden sich in den Orten, nicht an der Düne. Løkken und Hjørring bieten den vollständigsten Alltagseinkauf.",
+        "where": "Løkken, Hjørring"
+      },
+      {
+        "name": "Tanken & E-Laden",
+        "desc": "Tankstellen und öffentliche Ladesäulen liegen in den Orten. Am Parkplatz gibt es weder Kraftstoff noch Laden — tanken und laden Sie vor dem letzten Abschnitt.",
+        "where": "Løkken, Hjørring"
+      }
     ]
   },
   "transportGuide": {
     "title": "Anreise — Schritt für Schritt",
     "intro": "Rubjerg Knude ist ländlich und exponiert; das letzte Stück geht immer zu Fuß durch Sand. Die Hinweise unten geben eine praktische Reihenfolge je nach Anreiseart.",
-    "air": { "title": "Mit dem Flugzeug → Aalborg Airport", "intro": "Aalborg Airport (AAL) ist der nächste Flughafen mit Linienflügen, etwa eine Autostunde von der Küste.", "steps": ["Landen Sie in Aalborg und mieten ein Auto oder nehmen den Bus/Bahn-Anschluss Richtung Aalborg Stadt.", "Von Aalborg weiter nordwestlich mit Zug oder Bus Richtung Hjørring, dann Richtung Løkken.", "Das letzte Stück von Løkken zur Düne (ca. 10 Min) ist mit Mietwagen, Taxi oder Rad am einfachsten.", "Ohne Auto taxi vorab buchen — der ländliche Nahverkehr ist begrenzt."], "note": "Ein Mietwagen macht die Küstenschleife (Løkken–Rubjerg Knude–Lønstrup) viel leichter." },
-    "public": { "title": "Mit öffentlichen Verkehrsmitteln", "intro": "Zug und Regionalbus erreichen die Region, halten aber nicht an der Düne; rechnen Sie mit Umstieg und letztem Taxi- oder Radweg.", "steps": ["Zug nach Hjørring (via Aalborg) — der Hauptbahnhub Nordjütlands.", "Von Hjørring Regionalbus Richtung Løkken oder Direktverbindung falls vorhanden.", "Von Løkken Taxi oder Rad für die letzten 10–15 Min zum Parkplatz.", "Saisonfahrpläne vorab prüfen; ländliche Verbindungen im Winter seltener."], "note": "ÖPNV ist möglich, aber langsam; Eigenanreise wird Erstbesuchern dringend empfohlen." },
-    "taxi": { "title": "Mit Taxi / Rideshare", "intro": "Taxis und Rideshare bedienen das Gebiet, sollten außerhalb der Orte aber vorab gebucht werden.", "steps": ["Ab Aalborg: Taxi etwa 60 Min, nach Zähler.", "Ab Hjørring: etwa 25 Min zum Parkplatz.", "Ab Løkken: etwa 10 Min zum Parkplatz.", "Vorab buchen, besonders abends oder außerhalb der Saison — vor Ort halten ist unsicher."], "note": "Ziel als 'Fyrvejen 110, Løkken' angeben, um nicht am Turm abgesetzt zu werden." },
-    "car": { "title": "Mit dem Auto (empfohlen)", "intro": "Das Auto ist am praktischsten und verbindet Dörfer und Düne in einer Schleife.", "steps": ["Ab Aalborg: E39/E17 Küstenroute westlich, dann nördlich Richtung Løkken (ca. 1 Std).", "Ab Hjørring: Küstenstraße via Route 55 Richtung Løkken, dann Beschilderung Rubjerg Knude (ca. 25 Min).", "Navigation auf 'Fyrvejen 110, 9800 Løkken' statt auf den Turm setzen.", "Am Hauptplatz parken; zum Leuchtturm sind 1,2–1,5 km durch Sand."], "note": "Der letzte Abschnitt ist weicher Sand — zusätzliche Zeit einplanen und feste Schuhe tragen." }
+    "air": {
+      "title": "Mit dem Flugzeug → Aalborg Airport",
+      "intro": "Aalborg Airport (AAL) ist der nächste Flughafen mit Linienflügen, etwa eine Autostunde von der Küste.",
+      "steps": [
+        "Landen Sie in Aalborg und mieten ein Auto oder nehmen den Bus/Bahn-Anschluss Richtung Aalborg Stadt.",
+        "Von Aalborg weiter nordwestlich mit Zug oder Bus Richtung Hjørring, dann Richtung Løkken.",
+        "Das letzte Stück von Løkken zur Düne (ca. 10 Min) ist mit Mietwagen, Taxi oder Rad am einfachsten.",
+        "Ohne Auto taxi vorab buchen — der ländliche Nahverkehr ist begrenzt."
+      ],
+      "note": "Ein Mietwagen macht die Küstenschleife (Løkken–Rubjerg Knude–Lønstrup) viel leichter."
+    },
+    "public": {
+      "title": "Mit öffentlichen Verkehrsmitteln",
+      "intro": "Zug und Regionalbus erreichen die Region, halten aber nicht an der Düne; rechnen Sie mit Umstieg und letztem Taxi- oder Radweg.",
+      "steps": [
+        "Zug nach Hjørring (via Aalborg) — der Hauptbahnhub Nordjütlands.",
+        "Von Hjørring Regionalbus Richtung Løkken oder Direktverbindung falls vorhanden.",
+        "Von Løkken Taxi oder Rad für die letzten 10–15 Min zum Parkplatz.",
+        "Saisonfahrpläne vorab prüfen; ländliche Verbindungen im Winter seltener."
+      ],
+      "note": "ÖPNV ist möglich, aber langsam; Eigenanreise wird Erstbesuchern dringend empfohlen."
+    },
+    "taxi": {
+      "title": "Mit Taxi / Rideshare",
+      "intro": "Taxis und Rideshare bedienen das Gebiet, sollten außerhalb der Orte aber vorab gebucht werden.",
+      "steps": [
+        "Ab Aalborg: Taxi etwa 60 Min, nach Zähler.",
+        "Ab Hjørring: etwa 25 Min zum Parkplatz.",
+        "Ab Løkken: etwa 10 Min zum Parkplatz.",
+        "Vorab buchen, besonders abends oder außerhalb der Saison — vor Ort halten ist unsicher."
+      ],
+      "note": "Ziel als 'Fyrvejen 110, Løkken' angeben, um nicht am Turm abgesetzt zu werden."
+    },
+    "car": {
+      "title": "Mit dem Auto (empfohlen)",
+      "intro": "Das Auto ist am praktischsten und verbindet Dörfer und Düne in einer Schleife.",
+      "steps": [
+        "Ab Aalborg: E39/E17 Küstenroute westlich, dann nördlich Richtung Løkken (ca. 1 Std).",
+        "Ab Hjørring: Küstenstraße via Route 55 Richtung Løkken, dann Beschilderung Rubjerg Knude (ca. 25 Min).",
+        "Navigation auf 'Fyrvejen 110, 9800 Løkken' statt auf den Turm setzen.",
+        "Am Hauptplatz parken; zum Leuchtturm sind 1,2–1,5 km durch Sand."
+      ],
+      "note": "Der letzte Abschnitt ist weicher Sand — zusätzliche Zeit einplanen und feste Schuhe tragen."
+    }
   },
   "seasonal": {
     "title": "Saisonale Besuchsstrategie",
     "intro": "Die Nordseeküste hat einen stark saisonalen Rhythmus. Nutzen Sie die Tabelle, um Plan und Jahreszeit abzugleichen; Bedingungen schwanken von Jahr zu Jahr.",
     "category": "Aspekt",
-    "springName": "Frühling", "summerName": "Sommer", "autumnName": "Herbst", "winterName": "Winter",
-    "weatherLabel": "Wetter", "windSandLabel": "Wind & Sand", "activitiesLabel": "Geeignet für", "cautionLabel": "Vorsicht",
-    "spring": { "weather": "Kühl, helle Phasen; Schneeschmelze bringt langes, tiefes Licht.", "windSand": "Wind nimmt zu; Sanddrift beginnt mit längeren Tagen.", "activities": "Ruhige Fotografie, Vögel, erste Wildblumen.", "caution": "Instabile Pfade nach Winter; schichtenweise kleiden." },
-    "summer": { "weather": "Wärmste und trockenste Zeit; langes Tageslicht, gelegentlich Nebel.", "windSand": "Nachmittags Seewind; Sanddrift mäßig.", "activities": "Familien, Schwimmen, volle Versorgung, lange Spaziergänge.", "caution": "Spitzenandrang und volle Unterkünfte — früh buchen." },
-    "autumn": { "weather": "Anfangs mild, dann stürmischer; dramatische Himmel.", "windSand": "Zunehmender Wind und aktiver Sanddrift.", "activities": "Fotografie, Einsamkeit, dramatisches Küstenlicht.", "caution": "Kürzere Tage; Schließungen und Licht prüfen." },
-    "winter": { "weather": "Kalt, kurze Tage; Frost und gelegentlich Schnee.", "windSand": "Starke Windexposition; vereiste Stellen möglich.", "activities": "Einsamkeit, kahle Küstenlandschaft.", "caution": "Turminneres oft geschlossen; sehr warm kleiden." }
+    "springName": "Frühling",
+    "summerName": "Sommer",
+    "autumnName": "Herbst",
+    "winterName": "Winter",
+    "weatherLabel": "Wetter",
+    "windSandLabel": "Wind & Sand",
+    "activitiesLabel": "Geeignet für",
+    "cautionLabel": "Vorsicht",
+    "spring": {
+      "weather": "Kühl, helle Phasen; Schneeschmelze bringt langes, tiefes Licht.",
+      "windSand": "Wind nimmt zu; Sanddrift beginnt mit längeren Tagen.",
+      "activities": "Ruhige Fotografie, Vögel, erste Wildblumen.",
+      "caution": "Instabile Pfade nach Winter; schichtenweise kleiden."
+    },
+    "summer": {
+      "weather": "Wärmste und trockenste Zeit; langes Tageslicht, gelegentlich Nebel.",
+      "windSand": "Nachmittags Seewind; Sanddrift mäßig.",
+      "activities": "Familien, Schwimmen, volle Versorgung, lange Spaziergänge.",
+      "caution": "Spitzenandrang und volle Unterkünfte — früh buchen."
+    },
+    "autumn": {
+      "weather": "Anfangs mild, dann stürmischer; dramatische Himmel.",
+      "windSand": "Zunehmender Wind und aktiver Sanddrift.",
+      "activities": "Fotografie, Einsamkeit, dramatisches Küstenlicht.",
+      "caution": "Kürzere Tage; Schließungen und Licht prüfen."
+    },
+    "winter": {
+      "weather": "Kalt, kurze Tage; Frost und gelegentlich Schnee.",
+      "windSand": "Starke Windexposition; vereiste Stellen möglich.",
+      "activities": "Einsamkeit, kahle Küstenlandschaft.",
+      "caution": "Turminneres oft geschlossen; sehr warm kleiden."
+    }
   },
   "routePlans": {
     "title": "Vorgeschlagene Routen",
     "intro": "Drei zugeschnittene Routen für verschiedene Reisende plus ein allgemeiner Plan, den Sie je nach Wind und Licht anpassen können.",
     "plans": [
-      { "name": "Familien mit Kindern", "audience": "Langsam, erst Versorgung", "steps": ["Basis in oder bei Løkken für Toiletten, Essen und einfaches Parken.", "Vormittags ankommen; Dünenweg kurz halten, Trage im Sand nutzen.", "Picknick oder Mittag in der Stadt, dann kurzer, windsgeschützter Strandstopp.", "Vor späten Nachmittag zurück, wenn es schnell abkühlt."] },
-      { "name": "Fotografie & Natur", "audience": "Licht, Dünen, Erosion", "steps": ["Beginnen Sie an der Kliffkante bei Erosion und Meereshorizont.", "Zur Dünenrippe für die Turm-im-Sand-Komposition.", "Spätes westliches Tageslicht für Relief im Sand.", "Bei Wind Erweiterung zu Lønstrups Kliffs."] },
-      { "name": "Wenig Aufwand / barrierearm", "audience": "Stufenfrei, kürzere Strecken", "steps": ["Hauptparkplatz und strukturiertesten Aussichtspunkt nutzen.", "Sandiger Anstieg vermeiden; Zugangsbereich von festem Boden genießen.", "Oberen Zugangspfad halten und vor Ermüdung zurückkehren.", "Stadtbesuch mit gepflasterten Flächen kombinieren."] }
+      {
+        "name": "Familien mit Kindern",
+        "audience": "Langsam, erst Versorgung",
+        "steps": [
+          "Basis in oder bei Løkken für Toiletten, Essen und einfaches Parken.",
+          "Vormittags ankommen; Dünenweg kurz halten, Trage im Sand nutzen.",
+          "Picknick oder Mittag in der Stadt, dann kurzer, windsgeschützter Strandstopp.",
+          "Vor späten Nachmittag zurück, wenn es schnell abkühlt."
+        ]
+      },
+      {
+        "name": "Fotografie & Natur",
+        "audience": "Licht, Dünen, Erosion",
+        "steps": [
+          "Beginnen Sie an der Kliffkante bei Erosion und Meereshorizont.",
+          "Zur Dünenrippe für die Turm-im-Sand-Komposition.",
+          "Spätes westliches Tageslicht für Relief im Sand.",
+          "Bei Wind Erweiterung zu Lønstrups Kliffs."
+        ]
+      },
+      {
+        "name": "Wenig Aufwand / barrierearm",
+        "audience": "Stufenfrei, kürzere Strecken",
+        "steps": [
+          "Hauptparkplatz und strukturiertesten Aussichtspunkt nutzen.",
+          "Sandiger Anstieg vermeiden; Zugangsbereich von festem Boden genießen.",
+          "Oberen Zugangspfad halten und vor Ermüdung zurückkehren.",
+          "Stadtbesuch mit gepflasterten Flächen kombinieren."
+        ]
+      }
     ],
     "generalTitle": "Allgemeiner Plan",
-    "halfTitle": "Halbtag (2,5–3 h)", "halfDesc": "Parken, zum Leuchtturm gehen, Düne–Klippe beobachten, zurück. Løkken für eine Mahlzeit ergänzen.",
-    "fullTitle": "Ganztag (5–6 h)", "fullDesc": "Rubjerg Knude mit Løkken (Versorgung/Strand) und Lønstrup (Kunst/Klippen) kombinieren, Reihenfolge nach Wind und Licht."
+    "halfTitle": "Halbtag (2,5–3 h)",
+    "halfDesc": "Parken, zum Leuchtturm gehen, Düne–Klippe beobachten, zurück. Løkken für eine Mahlzeit ergänzen.",
+    "fullTitle": "Ganztag (5–6 h)",
+    "fullDesc": "Rubjerg Knude mit Løkken (Versorgung/Strand) und Lønstrup (Kunst/Klippen) kombinieren, Reihenfolge nach Wind und Licht."
   },
   "science": {
     "title": "Küstenforschung & Erbe",
     "intro": "Rubjerg Knude ist ein Lehrbuchbeispiel aktiver Küstenprozesse. Das Verständnis hilft Besuchern, die Landschaft zu lesen und warum man den Turm versetzte.",
     "topics": [
-      { "title": "Dünenwanderung", "body": "Feiner Sand, der von der erodierenden Kliffküste gehoben wird, wandert durch beständige Westwinde landeinwärts und baut sich zu wandernden Dünen auf. Rücken, Pfade und Sichtachsen können sich zwischen Besuchen merklich verschieben — die Stätte ist nie ganz gleich." },
-      { "title": "Klifferosion", "body": "Die Nordsee entfernt Jahr für Jahr Kliffmaterial und verschiebt die Küste stetig landwärts. Dieser Prozess erzwang letztlich die Versetzung des Leuchtturms 2019." },
-      { "title": "Gesteuertes Zurückweichen", "body": "Statt den Turm festzuhalten, versetzten Behörden ihn 2019 etwa 70 m auf Schienen landeinwärts. Es ist ein seltener, sichtbarer Fall von Erbe-Anpassung an eine sich wandelnde Küste." }
+      {
+        "title": "Dünenwanderung",
+        "body": "Feiner Sand, der von der erodierenden Kliffküste gehoben wird, wandert durch beständige Westwinde landeinwärts und baut sich zu wandernden Dünen auf. Rücken, Pfade und Sichtachsen können sich zwischen Besuchen merklich verschieben — die Stätte ist nie ganz gleich."
+      },
+      {
+        "title": "Klifferosion",
+        "body": "Die Nordsee entfernt Jahr für Jahr Kliffmaterial und verschiebt die Küste stetig landwärts. Dieser Prozess erzwang letztlich die Versetzung des Leuchtturms 2019."
+      },
+      {
+        "title": "Gesteuertes Zurückweichen",
+        "body": "Statt den Turm festzuhalten, versetzten Behörden ihn 2019 etwa 70 m auf Schienen landeinwärts. Es ist ein seltener, sichtbarer Fall von Erbe-Anpassung an eine sich wandelnde Küste."
+      }
     ],
     "responsibilityTitle": "Besucherverantwortung",
     "responsibilityIntro": "Da die Landschaft dynamisch und minimal erschlossen ist, schützen kleine Entscheidungen sie für andere.",
-    "responsibility": ["Auf markierten Pfaden und dem strukturierten Aussichtspunkt bleiben; instabile Kliffkanten meiden.", "Alle Abfälle mitnehmen — am Dünen gibt es keine Behälter.", "Hunde bei Wildtieren und Klippen unter Kontrolle halten.", "Temporären Schließungen oder Sicherheitsschildern folgen.", "Keine eingezäunten oder instabilen Bereiche besteigen, auch wenn Wind neuen Boden freilegt."]
+    "responsibility": [
+      "Auf markierten Pfaden und dem strukturierten Aussichtspunkt bleiben; instabile Kliffkanten meiden.",
+      "Alle Abfälle mitnehmen — am Dünen gibt es keine Behälter.",
+      "Hunde bei Wildtieren und Klippen unter Kontrolle halten.",
+      "Temporären Schließungen oder Sicherheitsschildern folgen.",
+      "Keine eingezäunten oder instabilen Bereiche besteigen, auch wenn Wind neuen Boden freilegt."
+    ]
   },
   "stories": {
     "title": "Geschichten & Hintergrund",
     "intro": "Jenseits der Geologie trägt Rubjerg Knude ein Jahrhundert menschlicher Geschichten. Die Notizen trennen belegte Historie von lokaler Folklore, die zum kulturellen Erbe gehört.",
     "items": [
-      { "title": "Leben der Wärter", "body": "Ab 1900 wurde der Turm von Wärtern besetzt, die ständig Sand räumten und das Licht bei hartem Nordsee-Wetter warteten. Ihr Alltag zeigt, wie anstrengend entlegene maritime Arbeit vor automatischer Navigation war." },
-      { "title": "Der Sand, der ein Museum verschlang", "body": "Im späten 20. Jahrhundert wurde am Stationshaus ein Museum eingerichtet — doch vorrückender Sand überwältigte es und erzwang 2002 die Schließung. Die Düne, nicht die Menschen, hatte das letzte Wort." },
-      { "title": "Der große Umzug 2019", "body": "Als die Kliffkante näher rückte, wurde der 23 m Turm auf ein Schienensystem gesetzt und etwa 70 m landeinwärts gerollt. Die Aktion erregte internationale Aufmerksamkeit als Symbol der Erbe-Anpassung an Erosion." },
-      { "title": "Lokale Sagen der wandernden Düne", "body": "Küstengemeinden sprachen lange von der 'wandernden Düne' als fast lebendiger Kraft, die Felder und Gebäude verschlang. Diese Volkserzählungen sind keine Messungen, fangen aber einen realen, beobachtbaren Prozess menschlich ein." }
+      {
+        "title": "Leben der Wärter",
+        "body": "Ab 1900 wurde der Turm von Wärtern besetzt, die ständig Sand räumten und das Licht bei hartem Nordsee-Wetter warteten. Ihr Alltag zeigt, wie anstrengend entlegene maritime Arbeit vor automatischer Navigation war."
+      },
+      {
+        "title": "Der Sand, der ein Museum verschlang",
+        "body": "Im späten 20. Jahrhundert wurde am Stationshaus ein Museum eingerichtet — doch vorrückender Sand überwältigte es und erzwang 2002 die Schließung. Die Düne, nicht die Menschen, hatte das letzte Wort."
+      },
+      {
+        "title": "Der große Umzug 2019",
+        "body": "Als die Kliffkante näher rückte, wurde der 23 m Turm auf ein Schienensystem gesetzt und etwa 70 m landeinwärts gerollt. Die Aktion erregte internationale Aufmerksamkeit als Symbol der Erbe-Anpassung an Erosion."
+      },
+      {
+        "title": "Lokale Sagen der wandernden Düne",
+        "body": "Küstengemeinden sprachen lange von der 'wandernden Düne' als fast lebendiger Kraft, die Felder und Gebäude verschlang. Diese Volkserzählungen sind keine Messungen, fangen aber einen realen, beobachtbaren Prozess menschlich ein."
+      }
     ]
   },
   "tides": {
@@ -767,5 +1091,53 @@
       "fogVisibility": "Schlechte Sicht — Fähren und Flüge können sich verzögern; Meerblick eingeschränkt.",
       "mask": "Mund-Nasen-Maske"
     }
+  },
+  "quickFacts": {
+    "title": "Kurzfakten",
+    "items": [
+      {
+        "label": "Parken",
+        "value": "Fyrvejen 110 – in der Regel kostenlos"
+      },
+      {
+        "label": "Eintritt",
+        "value": "Kostenlos – kein Ticket"
+      },
+      {
+        "label": "Öffnungszeit",
+        "value": "Rund um die Uhr, ganzjährig"
+      },
+      {
+        "label": "Fußweg ab Parkplatz",
+        "value": "Ca. 1,2–1,5 km / 20–25 Min."
+      },
+      {
+        "label": "Nächster Ort",
+        "value": "Løkken, ca. 10–15 Autominuten"
+      }
+    ]
+  },
+  "topics": {
+    "title": "Weiter zu einem Thema",
+    "intro": "Parken, Öffnungszeiten, die Versetzung, die Wanderdüne und der Fußweg sind die am häufigsten gesuchten Fragen. Jedes Thema hat eine eigene Seite mit konkreten Antworten."
+  },
+  "topicPage": {
+    "quickAnswerTitle": "Kurze Antwort",
+    "highlightsTitle": "Eckdaten",
+    "faqTitle": "Häufige Fragen",
+    "relatedTitle": "Weitere Themen",
+    "ctaTitle": "Den Besuch planen",
+    "ctaText": "Zur Hauptseite mit Parken, Wetter, Geschichte, Routen und Karte der Umgebung.",
+    "backHome": "Zur Hauptseite",
+    "updatedLabel": "Zuletzt aktualisiert",
+    "homeCrumb": "Startseite",
+    "sourcesTitle": "Quellen"
+  },
+  "trust": {
+    "title": "Über diesen Guide",
+    "independent": "Unabhängiger Besucher-Guide – nicht verbunden mit Naturstyrelsen, der Kommune Hjørring oder einem offiziellen Betreiber.",
+    "editorial": "Praktische Angaben werden aus offiziellen Quellen zusammengetragen und regelmäßig geprüft. Ändern sich die Verhältnisse vor Ort, gelten immer Beschilderung und behördliche Informationen.",
+    "sourcesTitle": "Quellen",
+    "lastUpdatedLabel": "Zuletzt aktualisiert"
   }
 }

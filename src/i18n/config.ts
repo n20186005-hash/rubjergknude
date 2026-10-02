@@ -2,7 +2,15 @@ export const supportedLocales = ['zh', 'en', 'de', 'da', 'nl'] as const;
 
 export type AppLocale = (typeof supportedLocales)[number];
 
-export const defaultLocale: AppLocale = 'zh';
+/**
+ * Root-domain entry language. Danish is the largest search market for this
+ * attraction (~63% of impressions) and Germany second (~19%), so `/` must not
+ * resolve to a language that carries almost no traffic.
+ */
+export const defaultLocale: AppLocale = 'da';
+
+/** Language served on `/` and used for hreflang x-default. */
+export const xDefaultLocale: AppLocale = 'da';
 
 export const siteConfig = {
   baseUrl: 'https://www.rubjergknude.com',
@@ -35,10 +43,17 @@ export function getLocalePath(locale: AppLocale | string, pathname = '/') {
   return `/${locale}${normalizedPath}`;
 }
 
+/**
+ * hreflang map for a given pathname. Always absolute, always on the www host,
+ * and always including an explicit x-default so Google never has to guess.
+ */
 export function getAlternateLanguageLinks(pathname = '/') {
-  return Object.fromEntries(
-    supportedLocales.map((locale) => [locale, `${siteConfig.baseUrl}${getLocalePath(locale, pathname)}`]),
-  );
+  return {
+    ...Object.fromEntries(
+      supportedLocales.map((locale) => [locale, `${siteConfig.baseUrl}${getLocalePath(locale, pathname)}`]),
+    ),
+    'x-default': `${siteConfig.baseUrl}${getLocalePath(xDefaultLocale, pathname)}`,
+  };
 }
 
 export const GUIDES = [

@@ -1,6 +1,9 @@
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import QuickFacts from '@/components/QuickFacts';
+import TopicsHub from '@/components/TopicsHub';
+import TrustSection from '@/components/TrustSection';
 import Intro from '@/components/Intro';
 import BasicInfo from '@/components/BasicInfo';
 import HoursSection from '@/components/HoursSection';
@@ -43,10 +46,12 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <QuickFacts />
         <Intro />
         <BasicInfo />
         <HoursSection />
         <TicketsSection />
+        <TopicsHub locale={locale} />
         <TransportSection />
         <TransportGuideSection />
         <PracticalInfoSection />
@@ -65,6 +70,7 @@ export default async function HomePage({
         <HotelsSection />
         <Gallery />
         <Reviews />
+        <TrustSection locale={locale} />
         <MapEmbed />
       </main>
       <Footer />

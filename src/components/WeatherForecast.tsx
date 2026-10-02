@@ -242,7 +242,15 @@ export default async function WeatherForecast() {
   const locale = await getLocale();
   const t = await getTranslations({ locale, namespace: 'weather' });
   const ta = await getTranslations({ locale, namespace: 'weatherTips' });
+  const trust = await getTranslations({ locale, namespace: 'trust' });
   const intl = INTL_LOCALE[locale] ?? 'en-GB';
+
+  const updatedLabel = trust('lastUpdatedLabel');
+  const generatedAt = new Intl.DateTimeFormat(intl, {
+    timeZone: 'Europe/Copenhagen',
+    dateStyle: 'medium',
+    timeStyle: 'short',
+  }).format(new Date());
 
   let data: any = null;
   try {
@@ -399,7 +407,14 @@ export default async function WeatherForecast() {
             );
           })}
         </div>
-        <p className="text-xs mt-4" style={{ color: 'var(--text-secondary)' }}>{t('updated')}</p>
+        <p className="text-xs mt-4" style={{ color: 'var(--text-secondary)' }}>
+          {t('updated')}
+        </p>
+        {/* Dynamic content must always carry a visible timestamp so crawlers
+            and visitors never treat a stale forecast as current. */}
+        <p className="text-xs mt-1" style={{ color: 'var(--text-muted)' }}>
+          {updatedLabel}: {generatedAt}
+        </p>
       </div>
     </section>
   );

@@ -24,10 +24,7 @@ export async function generateMetadata({
     description: messages.meta.description,
     alternates: {
       canonical: selfUrl,
-      languages: {
-        ...getAlternateLanguageLinks(),
-        'x-default': `${siteConfig.baseUrl}${getLocalePath('zh')}`,
-      },
+      languages: getAlternateLanguageLinks(),
     },
     openGraph: {
       title: messages.meta.title,

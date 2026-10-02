@@ -1,7 +1,7 @@
 import { setRequestLocale, getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
-import { getLocalePath, siteConfig, GUIDES } from '@/i18n/config';
+import { getLocalePath, siteConfig, GUIDES, defaultLocale } from '@/i18n/config';
 import type { Metadata } from 'next';
 import Script from 'next/script';
 import Header from '@/components/Header';
@@ -45,7 +45,7 @@ export async function generateRegionalMetadata(
         ...Object.fromEntries(
           routing.locales.map((l) => [l, `${siteConfig.baseUrl}${getLocalePath(l, path)}`]),
         ),
-        'x-default': `${siteConfig.baseUrl}${getLocalePath('zh', path)}`,
+        'x-default': `${siteConfig.baseUrl}${getLocalePath(defaultLocale, path)}`,
       },
     },
     openGraph: {
