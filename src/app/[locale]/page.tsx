@@ -3,6 +3,8 @@ import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import QuickFacts from '@/components/QuickFacts';
 import TopicsHub from '@/components/TopicsHub';
+import NearbyDirectory from '@/components/NearbyDirectory';
+import type { AppLocale } from '@/i18n/config';
 import TrustSection from '@/components/TrustSection';
 import Intro from '@/components/Intro';
 import BasicInfo from '@/components/BasicInfo';
@@ -52,6 +54,7 @@ export default async function HomePage({
         <HoursSection />
         <TicketsSection />
         <TopicsHub locale={locale} />
+        <NearbyDirectory locale={locale as AppLocale} />
         <TransportSection />
         <TransportGuideSection />
         <PracticalInfoSection />

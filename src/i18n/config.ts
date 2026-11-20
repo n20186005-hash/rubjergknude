@@ -2,11 +2,7 @@ export const supportedLocales = ['zh', 'en', 'de', 'da', 'nl'] as const;
 
 export type AppLocale = (typeof supportedLocales)[number];
 
-/**
- * Root-domain entry language. Danish is the largest search market for this
- * attraction (~63% of impressions) and Germany second (~19%), so `/` must not
- * resolve to a language that carries almost no traffic.
- */
+/** Default language for the root-domain entry point. */
 export const defaultLocale: AppLocale = 'da';
 
 /** Language served on `/` and used for hreflang x-default. */

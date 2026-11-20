@@ -5,11 +5,6 @@ import { ATTRACTION } from '@/data/facts';
 
 type FactItem = { label: string; value: string };
 
-/**
- * Above-the-fold decision strip. 89% of clicks come from mobile, so the first
- * screen has to answer parking / entry / opening hours / walking distance
- * before any background prose.
- */
 export default function QuickFacts() {
   const t = useTranslations('quickFacts');
   const messages = useMessages() as { quickFacts?: { items?: FactItem[] } };

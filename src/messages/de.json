@@ -18,11 +18,11 @@
     "title": "Rubjerg Knude",
     "subtitle": "Leuchtturm, Wanderdüne und Erosionskliff an der Nordseeküste Norddänemarks",
     "rating": "4.8",
-    "reviewCount": "9.070 Bewertungen",
+    "reviewCount": "9.156 Bewertungen",
     "hours": "Rund um die Uhr geöffnet · kostenlos",
     "openMaps": "In Google Maps öffnen",
     "source": "Google Maps",
-    "checked": "Geprüft Oktober 2026"
+    "checked": "Geprüft am 20. November 2026"
   },
   "intro": {
     "title": "Rubjerg Knude verstehen",
@@ -92,11 +92,11 @@
       },
       {
         "label": "Koordinaten",
-        "value": "57.4489, 9.7743"
+        "value": "57.44903, 9.77548"
       },
       {
         "label": "Google Maps",
-        "value": "4,8 / 5 basierend auf 9.070 Bewertungen (Google Maps, geprüft Oktober 2026)"
+        "value": "4,8 / 5 basierend auf 9.156 Bewertungen (Google Maps, geprüft am 20. November 2026)"
       },
       {
         "label": "Adresse",
@@ -678,7 +678,7 @@
       "title": "Reiseführer Råbjerg Mile",
       "subtitle": "NordEuropas größte wandernde Düne – ein riesiges Sandmeer bei Rubjerg Knude und Skagen."
     },
-    "intro": "Råbjerg Mile ist eine wandernde Küstendüne in Nordjütland, etwa 20–25 Minuten östlich von Rubjerg Knude. Sie ist die größte wandernde Düne Nordeuropas, eine dramatische Fläche aus bloßem Sand, die langsam landeinwärts wandert und dabei Pfade und Plantagen verschlingt. Kostenlos zugänglich und leicht zu begehen, ergänzt sie Rubjerg Knude als zweites Dünenerlebnis. Dieser Guide behandelt Zugang, Erwartetes und wie man beide Dünen an einem Tag plant.",
+    "intro": "Råbjerg Mile ist eine wandernde Küstendüne in Nordjütland, rund 55 Autominuten nordöstlich von Rubjerg Knude. Sie ist die größte wandernde Düne Nordeuropas, eine dramatische Fläche aus bloßem Sand, die langsam landeinwärts wandert und dabei Pfade und Plantagen verschlingt. Kostenlos zugänglich und leicht zu begehen, ergänzt sie Rubjerg Knude als zweites Dünenerlebnis. Dieser Guide behandelt Zugang, Erwartetes und wie man beide Dünen an einem Tag plant.",
     "sections": [
       {
         "id": "what",
@@ -698,7 +698,7 @@
       {
         "id": "getting",
         "title": "Anreise",
-        "body": "Råbjerg Mile erreicht man mit dem Auto von der Küstenstraße zwischen Frederikshavn und Skagen mit einem eigenen Parkplatz. Sie liegt etwa 20–25 Minuten von Rubjerg Knude, daher lässt sich beides in einem halben Tag kombinieren."
+        "body": "Råbjerg Mile erreicht man mit dem Auto von der Küstenstraße zwischen Frederikshavn und Skagen mit einem eigenen Parkplatz. Die Strecke ab Rubjerg Knude beträgt etwa 60 Straßenkilometer. Planen Sie beide Ziele als Tagesausflug."
       },
       {
         "id": "combine",
@@ -726,7 +726,7 @@
       }
     ],
     "ctaTitle": "Auch die Leuchtturm-Düne sehen",
-    "ctaText": "Rubjerg Knude mit seinem versetzten Leuchtturm im Sand ist 20–25 Minuten entfernt. Zurück zum Hauptführer für Parken, Öffnungszeiten und die Versetzungsgeschichte 2019.",
+    "ctaText": "Die Rückfahrt nach Rubjerg Knude dauert rund eine Stunde. Zurück zum Hauptführer für Parken, Öffnungszeiten und die Versetzungsgeschichte 2019.",
     "backHome": "Zurück zum Rubjerg-Knude-Führer",
     "footerLink": "Reiseführer Råbjerg Mile",
     "relatedTitle": "Weitere Reiseführer Nordjütland"
@@ -895,7 +895,7 @@
       "title": "Mit dem Auto (empfohlen)",
       "intro": "Das Auto ist am praktischsten und verbindet Dörfer und Düne in einer Schleife.",
       "steps": [
-        "Ab Aalborg: E39/E17 Küstenroute westlich, dann nördlich Richtung Løkken (ca. 1 Std).",
+        "Ab Aalborg auf der E39 Richtung Hirtshals bis Ausfahrt 5 Vrå, dann der Beschilderung zum Fyrvejen folgen. Die Route 55 über Løkken ist die Alternative an der Küste.",
         "Ab Hjørring: Küstenstraße via Route 55 Richtung Løkken, dann Beschilderung Rubjerg Knude (ca. 25 Min).",
         "Navigation auf 'Fyrvejen 110, 9800 Løkken' statt auf den Turm setzen.",
         "Am Hauptplatz parken; zum Leuchtturm sind 1,2–1,5 km durch Sand."

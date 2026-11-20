@@ -5,7 +5,6 @@ import { useRouter, usePathname } from 'next/navigation';
 import { routing, type Locale } from '@/i18n/routing';
 import { getLocalePath, siteConfig } from '@/i18n/config';
 import { TOPIC_ORDER, topicSlugForLocale } from '@/content/topics';
-import type { TopicSlug } from '@/content/topics';
 import { useState, useRef, useEffect } from 'react';
 
 export default function LanguageToggle() {
@@ -36,16 +35,12 @@ export default function LanguageToggle() {
       segments.shift();
     }
 
-    // Topic slugs are localised, so translate them instead of pushing the
-    // English slug and letting a redirect fix it afterwards.
-    const [firstSegment] = segments;
-    const pathWithoutLocale =
-      firstSegment && TOPIC_ORDER.includes(firstSegment as TopicSlug)
-        ? `/${topicSlugForLocale(firstSegment as TopicSlug, next)}`
-        : segments.length > 0
-          ? `/${segments.join('/')}`
-          : '/';
-    router.push(getLocalePath(next, pathWithoutLocale));
+    const [firstSegment, ...rest] = segments;
+    const topic = TOPIC_ORDER.find((slug) => slug === firstSegment ||
+      topicSlugForLocale(slug, locale) === firstSegment);
+    const localizedSegments = topic ? [topicSlugForLocale(topic, next), ...rest] : segments;
+    const pathWithoutLocale = localizedSegments.length ? `/${localizedSegments.join('/')}` : '/';
+    router.push(`${getLocalePath(next, pathWithoutLocale)}${window.location.search}${window.location.hash}`);
   }
 
   return (

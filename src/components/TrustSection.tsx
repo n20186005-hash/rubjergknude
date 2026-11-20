@@ -59,7 +59,7 @@ export default async function TrustSection({ locale }: { locale: string }) {
               {GOOGLE_SNAPSHOT.sourceLabel}
             </h3>
             <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>
-              {GOOGLE_SNAPSHOT.ratingValue}/5 · {GOOGLE_SNAPSHOT.reviewCount.toLocaleString('en-US')} ·{' '}
+              {GOOGLE_SNAPSHOT.ratingValue}/5 · {GOOGLE_SNAPSHOT.reviewCount.toLocaleString(locale)} ·{' '}
               {GOOGLE_SNAPSHOT.checked}
             </p>
             <p className="text-xs mt-2" style={{ color: 'var(--text-muted)' }}>

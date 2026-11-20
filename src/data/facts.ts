@@ -12,8 +12,8 @@ export const ATTRACTION = {
   addressLocality: 'Løkken',
   addressRegion: 'Nordjylland',
   addressCountry: 'DK',
-  latitude: 57.4489,
-  longitude: 9.7743,
+  latitude: 57.4490318,
+  longitude: 9.775481,
   plusCode: 'CQXG+J5 Løkken, Denmark',
   telephone: '+45 72 54 36 53',
   mapsUrl: 'https://maps.app.goo.gl/cVkELswJnWGKDpTs7',
@@ -28,8 +28,8 @@ export const ATTRACTION = {
  */
 export const GOOGLE_SNAPSHOT = {
   ratingValue: 4.8,
-  reviewCount: 9070,
-  checked: 'October 2026',
+  reviewCount: 9156,
+  checked: '2026-11-20',
   sourceLabel: 'Google Maps',
 } as const;
 

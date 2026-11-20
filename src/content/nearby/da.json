@@ -1,0 +1,362 @@
+{
+  "rubjerg-klitplantage": {
+    "history": "Klitplantagen blev anlagt for at dæmpe sandflugten. Skovens stier giver en læfyldt kontrast til den åbne klit ved fyret.",
+    "visit": "Gå fra skov til havtornskrat og kig efter skiftet i vegetationen. Naturstyrelsen beskriver orkidéer her, så nyd dem fra stien.",
+    "access": "Find den skiltede indgang ved Rubjergvej. Gå ud og hjem ad en skovsti, eller brug kortet til at følge Nordsøstien videre.",
+    "photoTip": "Indram de mørke træer mod klittens lyse åbning fra skovstien.",
+    "faq": [
+      {
+        "q": "Er der læ på en blæsende dag?",
+        "a": "Der er mere læ mellem træerne. Undgå skoven i kraftig vind, og følg officielle varsler."
+      }
+    ]
+  },
+  "strandfogedgaarden": {
+    "history": "Strandfogedens tidligere gård fortæller om de mennesker, der tog sig af strandinger og hændelser på denne kyst.",
+    "visit": "Rubjerg Knude-udstillingen lukkede i 2019. Gårdens bygninger og de sandede marker viser, hvor strandfogeden arbejdede. Se gården udefra, medmindre en offentlig åbning er bekræftet.",
+    "access": "Søg på Strandfogedgården i Rubjerg. Se den fra offentlig vej og respekter skiltning om privat adgang.",
+    "photoTip": "Fotografér gårdrummet og de lave længer fra den offentlige adgang.",
+    "faq": [
+      {
+        "q": "Er det museet ved fyret?",
+        "a": "Gården ligger inde i landet. Den tidligere Rubjerg Knude-udstilling lukkede i 2019."
+      }
+    ]
+  },
+  "maarup-kirkegaard": {
+    "history": "Den middelalderlige Mårup Kirke blev taget ned i etaper, da kystskrænten rykkede tæt på. Kirkegården markerer kirkens tidligere placering.",
+    "visit": "Læs stedets formidling ved gravene, og sammenlign kysten her med forholdene ved Rubjerg Knude.",
+    "access": "Kom ad Mårup Kirkevej fra Lønstrup. Brug den anviste adgang, og hold afstand til skrænten og afspærringerne.",
+    "photoTip": "Fotografér mod havet fra kirkegårdens landside, så gravene og landskabet ses sammen.",
+    "faq": [
+      {
+        "q": "Står kirken stadig?",
+        "a": "Kirken er taget ned. Kirkegården og beliggenheden ved kysten er det, du kan opleve."
+      }
+    ]
+  },
+  "rubjerg-gamle-kirkegaard": {
+    "history": "Rubjerg Gamle Kirkegård viser, hvor selve Rubjergs kirke lå. Stedet har en anden sognehistorie end kirketomten ved Mårup.",
+    "visit": "Se kirkegårdens afgrænsning i terrænet. Naturstyrelsen omtaler en formidlingspæl med stedets historie om sandflugt.",
+    "access": "Brug den markerede adgang syd for klitplantagen. Se Naturstyrelsens kort, før du vælger startsted.",
+    "photoTip": "Tag et oversigtsfoto fra adgangen, og giv plads omkring de enkelte grave.",
+    "faq": [
+      {
+        "q": "Er det Mårup Kirkegård?",
+        "a": "Nej. Mårup ligger ved kysten syd for Lønstrup. Søg på det fulde navn til dit besøg."
+      }
+    ]
+  },
+  "vennebjerg-moelle": {
+    "history": "Den restaurerede Vennebjerg Mølle står højt over markerne, hvor møllen kunne udnytte vinden.",
+    "visit": "Se især møllehatten, vingerne og bakkens frie placering. Mølledrift for gæster afhænger af programmet.",
+    "access": "Følg møllens egen vejvisning til Vennebjerg og gå fra den skiltede adgang. Tjek kalenderen før et besøg indenfor.",
+    "photoTip": "Fotografér nedefra, så møllen ses over et stykke åben mark.",
+    "faq": [
+      {
+        "q": "Kan jeg se møllen arbejde?",
+        "a": "Se efter annoncerede demonstrationer. Når møllen er lukket, kan du opleve dens placering udefra."
+      }
+    ]
+  },
+  "skallerup-kirke": {
+    "history": "Skallerup Kirke ligger i sognet inde bag kysten. Kirkegården og murværket fortæller en anden historie end stranden ved Skallerup Klit.",
+    "visit": "Gå rundt om kirken via den anviste adgang, og giv plads til gudstjenester og kirkegårdens besøgende.",
+    "access": "Søg på Skallerup Kirke i kortet. Brug pastoratets kalender til at planlægge eventuel adgang inde i kirken.",
+    "photoTip": "Indram kirken og kirkegårdsmuren fra indgangen.",
+    "faq": [
+      {
+        "q": "Hvem kan bekræfte adgangen?",
+        "a": "Kontakt Skallerup–Vennebjerg–Mårup Pastorat om gudstjenester og adgang."
+      }
+    ]
+  },
+  "lonstrup-strand": {
+    "history": "Lønstrups gamle fiskerleje møder havet ved stranden, hvor høfderne opdeler kysten i mindre afsnit.",
+    "visit": "Gå ned til en skiltet adgang, og se forskellen mellem vandet tæt ved høfderne og det åbne hav udenfor.",
+    "access": "Gå fra centrum af Lønstrup. Tjek vind og bølger, følg skiltene, og hold afstand til ustabile skrænter.",
+    "photoTip": "Brug høfdernes retning mod horisonten i et billede fra den offentlige strandadgang.",
+    "faq": [
+      {
+        "q": "Kan jeg nøjes med stranden?",
+        "a": "Ja. Stranden nås til fods fra centrum, og gallerierne længere oppe kan tilføjes efter behov."
+      }
+    ]
+  },
+  "furreby-kystbatteri": {
+    "history": "De tyske betonstillinger ved Furreby stammer fra anden verdenskrig. Erosion har siden ændret forholdet mellem bunkerne, skrænten og stranden.",
+    "visit": "Se anlæggenes form og placering på afstand. Den lokale bunkersti giver sammenhæng til de rester, du kan se.",
+    "access": "Brug skiltet offentlig adgang nord for Løkken. Tjek bølger og vandstand, og hold afstand til ustabile konstruktioner og skræntfoden.",
+    "photoTip": "Tag et oversigtsbillede fra åben strand med både betonrester og skrænt i billedet.",
+    "faq": [
+      {
+        "q": "Kan jeg gå ind i bunkerne?",
+        "a": "Planlæg at se dem udefra. Bølger og anlæggenes tilstand kan begrænse adgangen."
+      }
+    ]
+  },
+  "noerre-lyngby-strand": {
+    "history": "Havet skærer gennem gamle aflejringer ved Nørre Lyngby. Kysten mellem Løkken og Rubjerg Knude viser her en anden del af områdets geologi.",
+    "visit": "Iagttag lagene på afstand og sammenlign skræntprofilen med klitten ved Rubjerg. Gå kun så langt langs stranden, som forholdene tillader.",
+    "access": "Brug den skiltede strandadgang. Vend om, hvis bølgerne når skrænten, og hold afstand til nye skred.",
+    "photoTip": "Et skråt billede fra åben strand får de forskellige lag frem.",
+    "faq": [
+      {
+        "q": "Kan jeg lede efter fossiler i skrænten?",
+        "a": "Hold afstand, og undersøg lokale regler. Lagene kan studeres uden at grave eller klatre."
+      }
+    ]
+  },
+  "boerglum-kloster": {
+    "history": "Børglum Klosters middelalderlige anlæg ligger på en bakke øst for Løkken. Kirke, gårdsplads og udstillinger viser forskellige tider i stedets historie.",
+    "visit": "Begynd på gårdspladsen og brug besøgsruten til dagens åbne rum. Læg også mærke til udsynet over markerne.",
+    "access": "Søg mod klostrets besøgsindgang. Undersøg de aktuelle åbningstider, priser og adgangsforhold hos klostret.",
+    "photoTip": "Brug de åbne gårdrum til at indramme fløjene, eller fotografér bakken fra en tilladt adgangsvej.",
+    "faq": [
+      {
+        "q": "Gælder billet fra et andet museum?",
+        "a": "Klostret har sin egen besøgsordning. Se billetvilkårene på klostrets hjemmeside."
+      }
+    ]
+  },
+  "loekken-mole": {
+    "history": "Løkken Mole ligger mellem det gamle kystfiskeri og dagens strand- og surfliv. Molen rækker ud i Vesterhavet tæt ved byen.",
+    "visit": "Begynd på stranden ved molen og læg mærke til, hvor tæt husene ligger på kysten. Gå kun videre, hvis forholdene er gode.",
+    "access": "Gå fra bymidten ad strandadgangen. Følg skiltene og bliv på land, hvis bølgerne slår over molen.",
+    "photoTip": "Fotografér fra tørt land, så molen fører blikket ud mod horisonten.",
+    "faq": [
+      {
+        "q": "Kan jeg gå ud på molen i høj sø?",
+        "a": "Bliv på land, hvis bølgerne skyller over, eller skilte begrænser adgangen."
+      }
+    ]
+  },
+  "loekken-museum": {
+    "history": "Løkken Museum fortæller om en by formet af havet og kysthandelen. Besøget giver baggrund for det, du ser på stranden.",
+    "visit": "Se efter fortællinger om handelen og hverdagslivet før en tur til molen og fiskernes strand.",
+    "access": "Find museet i bymidten og tjek sæsonåbningen inden gåturen fra stranden.",
+    "photoTip": "Fotografér facaden fra fortovet, og spørg personalet om billeder indenfor.",
+    "faq": [
+      {
+        "q": "Er museet altid åbent, når stranden er tilgængelig?",
+        "a": "Museet har sin egen kalender. Bekræft åbningsdagen, før du kombinerer besøgene."
+      }
+    ]
+  },
+  "loekken-strand": {
+    "history": "Rækkerne af hvide badehuse viser Løkkens historie som badeby. Den brede sandstrand bruges også af fiskere og surfere.",
+    "visit": "Gå mod badehusene og molen fra byen. Husene er private og sæsonbetonede, så se dem fra det åbne sand.",
+    "access": "Følg en strandadgang fra centrum. Tjek badeflag, trafikskilte og vandforhold, før du vælger opholdssted.",
+    "photoTip": "Lad rækken af badehuse føre blikket mod himlen og klitterne.",
+    "faq": [
+      {
+        "q": "Står de hvide huse fremme hele året?",
+        "a": "Nej, husene hører sæsonen til. Tjek turistinformationen inden en tur med fokus på badehusene."
+      }
+    ]
+  },
+  "vendsyssel-kunstmuseum": {
+    "history": "Vendsyssel Kunstmuseum viser kunst med tilknytning til regionen og skiftende udstillinger centralt i Hjørring.",
+    "visit": "Vælg én udstilling først og brug museets program til at forstå dens tema, før du går videre.",
+    "access": "Gå fra Hjørring Station gennem bymidten. Tjek adgang, åbning og billet hos museet.",
+    "photoTip": "Tag et billede af indgangen fra fortovet og følg de gældende fotoregler i udstillingerne.",
+    "faq": [
+      {
+        "q": "Kan jeg altid se de samme værker?",
+        "a": "Udstillingerne skifter. Se museets program for din besøgsdag."
+      }
+    ]
+  },
+  "vendsyssel-historiske-museum": {
+    "history": "Hjørring-afdelingen af Vendsyssel Historiske Museum fortæller lokalhistorie gennem ting og bygninger.",
+    "visit": "Spørg til dagens åbne udstillinger ved indgangen, og fortsæt eventuelt til fods gennem den gamle bydel.",
+    "access": "Vælg afdelingen i Hjørring på museets hjemmeside. Tjek adressen og åbningstiden inden afgang.",
+    "photoTip": "Indram museets facade sammen med de nærliggende huse fra den offentlige vej.",
+    "faq": [
+      {
+        "q": "Er det samme sted som Hirtshals Museum?",
+        "a": "De hører til samme museumsorganisation og har hver deres adresse og udstillinger."
+      }
+    ]
+  },
+  "sankt-catharinae-kirke": {
+    "history": "Sankt Catharinæ Kirke er en af Hjørrings historiske kirker og et kendeligt ankerpunkt i den gamle bydel.",
+    "visit": "Se tårnet og murværket udefra, og gå kun ind i den annoncerede åbningstid med hensyn til kirkens brugere.",
+    "access": "Søg på hele kirkenavnet, da flere gamle kirker ligger nær hinanden. Gå fra bymidten, og læs kirkekalenderen.",
+    "photoTip": "Gå lidt tilbage på offentligt areal, så tårnet og resten af kirken er med.",
+    "faq": [
+      {
+        "q": "Kan jeg gå på sightseeing under en gudstjeneste?",
+        "a": "Planlæg besøget uden for gudstjenester og kirkelige handlinger."
+      }
+    ]
+  },
+  "svanelunden": {
+    "history": "Svanelunden er en bypark med sø, stier og træer. Her viser Hjørring en roligere side end gågaderne.",
+    "visit": "Gå en kort tur langs vandet på en sti, der passer til underlaget. Kig hen over vandet mod de åbne bredder og træerne.",
+    "access": "Gå fra centrum til en skiltet indgang. Bliv på stierne ved bredden, og vend om ved glat føre.",
+    "photoTip": "Prøv et lavt billede mod træernes spejling i stille vand.",
+    "faq": [
+      {
+        "q": "Skal jeg gå hele vejen rundt?",
+        "a": "Du kan gå et stykke langs vandet og vende tilbage ad samme vej."
+      }
+    ]
+  },
+  "hjoerring-bjerge": {
+    "history": "Hjørring Bjerge er et kuperet landskab ved byen. Bakker og stier giver udsyn over det indre Vendsyssel.",
+    "visit": "Vælg en skiltet rute, og tag en af udsigtsposterne, hvis underlaget passer. Stierne kan være stejlere end i byparken.",
+    "access": "Find en indgang på kommunens kort og tjek vejen tilbage, før du vælger en længere runde.",
+    "photoTip": "Se efter skiftende lys over bakkerne fra et kryds på stien.",
+    "faq": [
+      {
+        "q": "Er turen flad?",
+        "a": "Flere stier har stejle stigninger. Vælg indgang og vendepunkt efter gruppens behov."
+      }
+    ]
+  },
+  "hirtshals-fyr": {
+    "history": "Hirtshals Fyr står højt over havnen. Fyret fra 1800-tallet giver et andet indblik i sejladsen end fyret ved Rubjerg Knude.",
+    "visit": "Se først havnen og kystlinjen fra området udenfor. Tjek derefter, om tårnet og udstillingen er åbne.",
+    "access": "Vælg fyrets indgang på kortet frem for færgeterminalen. Regn med en stigning til fods fra byen.",
+    "photoTip": "Tag et billede af tårnet over den lave kystvegetation fra adgangsstien.",
+    "faq": [
+      {
+        "q": "Er der altid adgang til tårnet?",
+        "a": "Se fyrets aktuelle åbning, hvis turen til toppen er formålet."
+      }
+    ]
+  },
+  "bunkermuseet-hirtshals": {
+    "history": "Bunkermuseet bevarer et større forsvarsanlæg fra anden verdenskrig ved Hirtshals Fyr. Løbegrave og betonrum fortæller om anlæggets udbredelse i klitterne.",
+    "visit": "Følg den markerede rute og læs skiltene om både anlæg og landskab.",
+    "access": "Begynd ved museets indgang ved fyret. Underlaget er ujævnt, og museumsbesøg og omvisninger har deres egne vilkår.",
+    "photoTip": "Fotografér løbegrav og bunker fra den markerede rute uden at gå ind i lukkede anlæg.",
+    "faq": [
+      {
+        "q": "Er bunkermuseet det samme som fyret?",
+        "a": "De er naboer med forskellige emner og adgangsvilkår. Besøg begge på samme udflugt, hvis de er tilgængelige."
+      }
+    ]
+  },
+  "nordsoeen-oceanarium": {
+    "history": "Nordsøen Oceanarium formidler livet i havet ved Hirtshals. Det store bassin knytter udstillingerne til farvandet udenfor.",
+    "visit": "Vælg dagens fodring eller formidling efter programmet og brug tid på de mindre udstillinger mellem aktiviteterne.",
+    "access": "Brug indgangen på Willemoesvej. Se billetter, dagens program og transport hos oceanariet, før du tager af sted.",
+    "photoTip": "Hold blitzen slukket og brug lyset fra akvariet, hvor fotografering er tilladt.",
+    "faq": [
+      {
+        "q": "Skal jeg planlægge efter fodringen?",
+        "a": "Brug dagens program til at vælge, hvad du vil se. Tidspunkterne kan skifte."
+      }
+    ]
+  },
+  "hirtshals-museum": {
+    "history": "Hirtshals Museum ligger i et tidligere fiskerhjem. Her hænger dagliglivet sammen med fiskeriet og havnens udvikling.",
+    "visit": "Se udstillingen før en gåtur gennem byen, så den sætter bygninger og havnearbejde i perspektiv.",
+    "access": "Brug museets egen vejvisning og kalender. Adressen er en anden end bunkermuseets ved fyret.",
+    "photoTip": "Vis husets beskedne skala fra gaden, og spørg før fotografering indenfor.",
+    "faq": [
+      {
+        "q": "Hvor kan jeg lære om fiskernes dagligliv?",
+        "a": "Start på Hirtshals Museum. Bunkermuseet handler om befæstningen."
+      }
+    ]
+  },
+  "husmoderstranden": {
+    "history": "Husmoderstranden er en bystrand ved indsejlingen til Hirtshals. Her kan du se by, færger og åbent hav på samme korte besøg.",
+    "visit": "Kom ad promenaden og læg mærke til vind og kølvand. Respektér skiltningen og hold afstand til havnens anlæg.",
+    "access": "Gå fra byen via promenaden. Tjek forholdene, før du går tæt på vandet.",
+    "photoTip": "Brug fyret eller havnen som baggrund i et billede fra tørt sand.",
+    "faq": [
+      {
+        "q": "Er det et udsigtspunkt eller en strand?",
+        "a": "Det er en strand i et havnemiljø. Havnens arbejdsområder har deres egne regler."
+      }
+    ]
+  },
+  "tornby-koebmandsgaard": {
+    "history": "Den gamle købmandsgård viser handelen mellem kysten i Vendsyssel og Norge. Den historiske butik har et mere intimt format end havnemuseerne i Hirtshals.",
+    "visit": "Se butik og gårdmiljø som et samlet stop. Tjek stedets program for, hvilke dele der er åbne.",
+    "access": "Søg på Tornby Gamle Købmandsgård, og gå fra den anviste besøgsadgang. Tjek åbning inden turen.",
+    "photoTip": "Fotografér indgangspartiet og den lave bygning fra den offentlige adgang.",
+    "faq": [
+      {
+        "q": "Er butikken altid åben?",
+        "a": "Se købmandsgårdens kalender for åbningstider og arrangementer."
+      }
+    ]
+  },
+  "tornby-klitplantage": {
+    "history": "I Tornby Klitplantage møder plantet skov den åbne kyst. Stierne forbinder mørke træbevoksninger med lyse partier af sand.",
+    "visit": "Vælg en markeret sti, og se efter skiftet i vegetationen mod klitterne. Skov og strand kan også besøges hver for sig.",
+    "access": "Vælg en indgang på Naturstyrelsens kort. Følg skiltene, og bliv på stierne i sårbar natur.",
+    "photoTip": "Fotografér overgangen i lys fra stien uden at træde ud i klitvegetationen.",
+    "faq": [
+      {
+        "q": "Kan jeg gå til Tornby Strand?",
+        "a": "Brug det officielle kort til at finde en egnet forbindelse, og vurder vind og underlag."
+      }
+    ]
+  },
+  "tornby-strand": {
+    "history": "Tornby Strand vender ud mod Vesterhavet vest for plantagen. Her ses forskellen mellem læskoven og den åbne kyst.",
+    "visit": "Vælg et kort stykke af stranden, og brug klitterne som udsigt på tilbagevejen. Følg bade- og trafikskiltningen.",
+    "access": "Brug den anviste strandadgang i Tornby. Hold afstand til eventuelle kørebaner og områder med klitpleje.",
+    "photoTip": "Indram klitrækken fra stranden i god afstand fra trafikken.",
+    "faq": [
+      {
+        "q": "Starter plantagens stier på stranden?",
+        "a": "Strand og plantage har særskilte adgange. Vælg en skovindgang på Naturstyrelsens kort, hvis du vil gå i plantagen."
+      }
+    ]
+  },
+  "tversted-strand": {
+    "history": "Tversted Strand er en bred sandstrand ved Vesterhavet med klitter bagved. Fra landsbyen fører strandvejen naturligt ud til kysten.",
+    "visit": "Se ud over stranden ved klitåbningen og vælg en kort strækning efter vinden. Læs skiltene før badning.",
+    "access": "Følg den skiltede adgang fra Tversted. Brug de anviste gennemgange i klitterne og læs trafikskiltene.",
+    "photoTip": "Brug klitåbningen fra den markerede adgang til at vise strandens bredde.",
+    "faq": [
+      {
+        "q": "Ligger søerne her?",
+        "a": "Tverstedsøerne er et særskilt besøgsmål inde i Tversted Klitplantage."
+      }
+    ]
+  },
+  "tverstedsoeerne": {
+    "history": "Tverstedsøerne ligger i Tversted Klitplantages skovklitter. Søerne giver en mere læfyldt oplevelse end stranden i nærheden.",
+    "visit": "Begynd med udsigten over vandet, og fortsæt ad etablerede stier, hvis du ønsker en længere tur. Stierne kan være våde efter regn.",
+    "access": "Brug den skiltede adgang til søerne og Naturstyrelsens rutekort til en længere skovtur.",
+    "photoTip": "Fotografér træernes spejlinger fra en fast sti i god afstand fra den bløde bred.",
+    "faq": [
+      {
+        "q": "Skal jeg søge efter Tversted Strand?",
+        "a": "Søg efter Tverstedsøerne for at finde den rigtige adgang til søerne."
+      }
+    ]
+  },
+  "uggerby-klitplantage": {
+    "history": "Uggerby Klitplantage ligger i klitterne mellem Hirtshals og Tversted. Skov og åbent sand afspejler forskellige måder at forvalte kysten på.",
+    "visit": "Vælg en kort strækning med skov og en lysning på kortet. Bemærk, hvordan vinden ændrer sig ved skovkanten.",
+    "access": "Brug Naturstyrelsens kort til en skiltet indgang. Følg de anviste stier ved å og klit, især efter regn.",
+    "photoTip": "Fotografér overgangen fra skov til kystgræs gennem en lysning på den sandede sti.",
+    "faq": [
+      {
+        "q": "Kan jeg følge åen hele vejen?",
+        "a": "Tjek kort og skiltning. Høj vandstand og underlag kan ændre, hvor du kan gå."
+      }
+    ]
+  },
+  "mosbjerg-landbrugsmuseum": {
+    "history": "Landskabs- og Landbrugsmuseet forbinder bakkerne ved Mosbjerg med landbrugets historie. Museet beskriver ejendommene Bjørnager og Højen.",
+    "visit": "Brug formidlingen til at forbinde gårde, marker og skråninger. Tag sko til ujævnt terræn.",
+    "access": "Vælg det ankomststed, Vendsyssel Historiske Museum anviser. Tjek adgang til bygningerne og muligheder for gåture særskilt.",
+    "photoTip": "Fotografér markerne på tværs af terrænet eller en bygning fra den anviste rute.",
+    "faq": [
+      {
+        "q": "Er alle bygninger åbne samtidig?",
+        "a": "Se museets aktuelle oplysninger om de enkelte bygninger og adgang."
+      }
+    ]
+  }
+}

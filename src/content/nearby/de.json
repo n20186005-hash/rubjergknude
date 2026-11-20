@@ -1,0 +1,362 @@
+{
+  "rubjerg-klitplantage": {
+    "history": "Die Dünenpflanzung entstand, um Flugsand zu bremsen. Heute bieten ihre Waldwege mehr Schutz als die offene Düne am Leuchtturm.",
+    "visit": "Achten Sie auf den Übergang vom Wald zum Sanddorn. Laut Naturbehörde wachsen hier Orchideen, die sich vom Weg beobachten lassen.",
+    "access": "Nutzen Sie den beschilderten Zugang am Rubjergvej. Kehren Sie auf demselben Waldweg zurück oder planen Sie mit der Karte ein Stück Nordseewanderweg ein.",
+    "photoTip": "Setzen Sie die dunklen Bäume vom Waldweg aus gegen die helle Dünenöffnung.",
+    "faq": [
+      {
+        "q": "Eignet sich der Wald bei Wind?",
+        "a": "Er bietet etwas Windschutz. Beachten Sie Warnungen und meiden Sie den Wald bei Sturm."
+      }
+    ]
+  },
+  "strandfogedgaarden": {
+    "history": "Der einstige Hof des Strandvogts erzählt, wie die Küstenbevölkerung mit Strandungen und Vorfällen auf See umging.",
+    "visit": "Die Ausstellung über Rubjerg Knude schloss 2019. Die Hofbauten und sandigen Felder zeigen, wo der Strandvogt arbeitete. Planen Sie eine Außenansicht, sofern keine aktuelle Öffnung bestätigt ist.",
+    "access": "Suchen Sie Strandfogedgården in Rubjerg. Bleiben Sie auf dem öffentlichen Weg und beachten Sie Hinweise auf Privatgrund.",
+    "photoTip": "Fotografieren Sie Hof und niedrige Gebäude vom öffentlichen Zugang aus.",
+    "faq": [
+      {
+        "q": "Ist das das Museum am Leuchtturm?",
+        "a": "Der Hof ist ein eigener Standort im Landesinneren. Die frühere Rubjerg-Knude-Ausstellung ist seit 2019 geschlossen."
+      }
+    ]
+  },
+  "maarup-kirkegaard": {
+    "history": "Die mittelalterliche Mårup-Kirche wurde schrittweise abgetragen, als die Steilküste zurückwich. Ihr Friedhof markiert den alten Standort.",
+    "visit": "Lesen Sie die Hinweise bei den Gräbern und vergleichen Sie den Küstenabschnitt mit Rubjerg Knude.",
+    "access": "Folgen Sie dem Mårup Kirkevej von Lønstrup. Nutzen Sie den vorgesehenen Zugang und halten Sie Abstand zur Abbruchkante.",
+    "photoTip": "Nehmen Sie Gräber und Küste von der Landseite des Friedhofs gemeinsam ins Bild.",
+    "faq": [
+      {
+        "q": "Steht die Kirche noch?",
+        "a": "Sie wurde abgetragen. Zu sehen sind der Friedhof und seine Lage an der Küste."
+      }
+    ]
+  },
+  "rubjerg-gamle-kirkegaard": {
+    "history": "Der alte Friedhof markiert den früheren Kirchenstandort von Rubjerg. Er gehört zu einer anderen Pfarreigeschichte als der Standort der Mårup-Kirche.",
+    "visit": "Achten Sie auf die Einfassung im Gelände. Die Naturbehörde verweist hier auf eine Station zur Geschichte des Flugsands.",
+    "access": "Nutzen Sie den markierten Zugang südlich der Dünenpflanzung. Prüfen Sie die amtliche Karte, bevor Sie Ihren Startpunkt wählen.",
+    "photoTip": "Machen Sie eine Übersichtsaufnahme vom Zugang aus und halten Sie Abstand zu einzelnen Gräbern.",
+    "faq": [
+      {
+        "q": "Ist das der Friedhof von Mårup?",
+        "a": "Nein. Dieser heißt Rubjerg Gamle Kirkegård. Mårup liegt nahe Lønstrup an der Küste."
+      }
+    ]
+  },
+  "vennebjerg-moelle": {
+    "history": "Die restaurierte Vennebjerg Mølle steht oberhalb der Felder, wo die Mühle den Wind nutzen konnte.",
+    "visit": "Sehen Sie sich Haube und Flügel an. Ob eine Vorführung stattfindet, erfahren Sie im Programm.",
+    "access": "Folgen Sie der Wegbeschreibung der Mühle. Prüfen Sie vor einem Innenbesuch die Öffnung.",
+    "photoTip": "Fotografieren Sie vom Fuß des Hügels, sodass ein Stück offenes Feld sichtbar bleibt.",
+    "faq": [
+      {
+        "q": "Kann ich die Mühle in Betrieb sehen?",
+        "a": "Achten Sie auf angekündigte Vorführungen. Die Lage der Mühle lässt sich auch von außen erkunden."
+      }
+    ]
+  },
+  "skallerup-kirke": {
+    "history": "Die Kirche steht im Ort Skallerup landeinwärts. Friedhof und Mauerwerk erzählen eine andere Geschichte als der Strand von Skallerup Klit.",
+    "visit": "Gehen Sie vom vorgesehenen Zugang um die Kirche und nehmen Sie Rücksicht auf Gottesdienste und Friedhofsbesucher.",
+    "access": "Suchen Sie in der Karte nach Skallerup Kirke. Prüfen Sie für den Innenraum den Kalender der Pfarrei.",
+    "photoTip": "Rahmen Sie Kirche und Friedhofsmauer vom Eingang aus ein.",
+    "faq": [
+      {
+        "q": "Wer kann den Zugang bestätigen?",
+        "a": "Das Pfarramt Skallerup–Vennebjerg–Mårup informiert über Gottesdienste und die Zugangsregelung."
+      }
+    ]
+  },
+  "lonstrup-strand": {
+    "history": "Unterhalb des alten Fischerorts Lønstrup teilen Buhnen das Ufer in kleine Abschnitte.",
+    "visit": "Gehen Sie zum ausgeschilderten Strandzugang hinunter und achten Sie auf den Unterschied zwischen den Buchten und dem offenen Meer.",
+    "access": "Der Weg führt zu Fuß vom Ortskern hinunter. Beachten Sie Wind, Brandung und Beschilderung und meiden Sie instabile Kliffs.",
+    "photoTip": "Setzen Sie die Buhnen vom öffentlichen Zugang aus als Linien zum Horizont ein.",
+    "faq": [
+      {
+        "q": "Kann ich nur den Strand besuchen?",
+        "a": "Ja. Vom Ortskern ist er zu Fuß erreichbar. Die Galerien weiter oben können Sie zusätzlich einplanen."
+      }
+    ]
+  },
+  "furreby-kystbatteri": {
+    "history": "Die Betonreste bei Furreby gehörten zur deutschen Küstenverteidigung im Zweiten Weltkrieg. Die Erosion hat ihre Lage zur Steilküste und zum Strand verändert.",
+    "visit": "Betrachten Sie die Bauwerke mit Abstand. Informationen zum örtlichen Bunkerpfad erklären ihren früheren Zusammenhang.",
+    "access": "Folgen Sie dem öffentlichen Zugang nördlich von Løkken. Prüfen Sie Wasserstand und Brandung und meiden Sie instabile Anlagen sowie den Klifffuß.",
+    "photoTip": "Fotografieren Sie Bunkerreste und Steilküste gemeinsam vom offenen Strand.",
+    "faq": [
+      {
+        "q": "Darf ich die Bunker betreten?",
+        "a": "Planen Sie die Besichtigung von außen. Brandung und der Zustand der Anlagen können den Zugang einschränken."
+      }
+    ]
+  },
+  "noerre-lyngby-strand": {
+    "history": "Bei Nørre Lyngby schneidet die Nordsee durch alte Ablagerungen, die frühere Landschaften erkennen lassen.",
+    "visit": "Vergleichen Sie aus sicherer Entfernung die Schichten des Kliffs mit der Düne bei Rubjerg. Gehen Sie nur so weit, wie der Strand frei bleibt.",
+    "access": "Nutzen Sie den beschilderten Zugang und kehren Sie um, wenn die Brandung die Steilküste erreicht.",
+    "photoTip": "Eine schräge Ansicht vom freien Strand hebt die Sedimentschichten hervor.",
+    "faq": [
+      {
+        "q": "Kann ich am Kliff nach Fossilien suchen?",
+        "a": "Halten Sie Abstand und prüfen Sie die örtlichen Regeln. Die Schichten sind ohne Graben oder Klettern sichtbar."
+      }
+    ]
+  },
+  "boerglum-kloster": {
+    "history": "Das mittelalterliche Kloster liegt auf einem Hügel östlich von Løkken. Kirche, Hof und Ausstellungen zeigen verschiedene Zeiten seiner Geschichte.",
+    "visit": "Beginnen Sie im Hof und folgen Sie dem Besucherweg zu den geöffneten Räumen. Nehmen Sie sich auch Zeit für den Blick über die Felder.",
+    "access": "Navigieren Sie zum Besuchereingang und prüfen Sie Öffnung, Eintrittspreise und Zugang beim Kloster.",
+    "photoTip": "Nutzen Sie die Hofflügel als Rahmen oder fotografieren Sie den Hügel von einem erlaubten Zugang.",
+    "faq": [
+      {
+        "q": "Gilt eine Eintrittskarte eines anderen Museums?",
+        "a": "Das Kloster hat eigene Eintrittsbedingungen. Prüfen Sie diese vor der Anfahrt."
+      }
+    ]
+  },
+  "loekken-mole": {
+    "history": "An der Mole treffen Løkkens Fischereigeschichte und das heutige Strand- und Surferleben aufeinander.",
+    "visit": "Beginnen Sie am Strand bei der Mole und blicken Sie zurück auf den nahen Ort. Gehen Sie nur bei geeigneten Bedingungen weiter.",
+    "access": "Zu Fuß vom Ortskern über den Strandzugang. Bleiben Sie an Land, wenn Wellen über die Mole schlagen.",
+    "photoTip": "Fotografieren Sie vom trockenen Boden mit der Mole als Linie zum Horizont.",
+    "faq": [
+      {
+        "q": "Kann ich bei hohem Wellengang bis zur Spitze gehen?",
+        "a": "Bleiben Sie an Land, sobald Wellen die Mole überspülen oder Schilder den Zugang sperren."
+      }
+    ]
+  },
+  "loekken-museum": {
+    "history": "Das Museum erzählt die Geschichte eines vom Meer und Küstenhandel geprägten Orts. Ein Besuch hilft, den Strand und die Stadt einzuordnen.",
+    "visit": "Suchen Sie nach Geschichten zum Handel und zum Alltag, bevor Sie zur Mole und zum Fischerstrand weitergehen.",
+    "access": "Das Museum liegt im Ortskern. Prüfen Sie die saisonale Öffnung vor dem Fußweg vom Strand.",
+    "photoTip": "Fotografieren Sie die Fassade vom Gehweg und fragen Sie nach den Regeln für Innenaufnahmen.",
+    "faq": [
+      {
+        "q": "Ist das Museum immer geöffnet, wenn man an den Strand kann?",
+        "a": "Das Museum hat seinen eigenen Kalender. Prüfen Sie den gewünschten Besuchstag."
+      }
+    ]
+  },
+  "loekken-strand": {
+    "history": "Die Reihen weißer Badehäuser erinnern an Løkkens Geschichte als Seebad. Der breite Strand ist auch durch Fischerei und Surfen geprägt.",
+    "visit": "Gehen Sie vom Ortszugang zu Häusern und Mole. Die saisonalen Häuser sind privat, bleiben Sie daher auf dem offenen Sand.",
+    "access": "Nehmen Sie einen Strandzugang aus dem Ortskern und prüfen Sie Badeflaggen, Verkehrsschilder und Seegang.",
+    "photoTip": "Richten Sie die Kamera entlang der Häuserreihe auf Himmel und Dünen.",
+    "faq": [
+      {
+        "q": "Stehen die Badehäuser das ganze Jahr?",
+        "a": "Sie werden saisonal aufgestellt. Prüfen Sie die Tourist-Information, wenn Sie vor allem die Häuser sehen möchten."
+      }
+    ]
+  },
+  "vendsyssel-kunstmuseum": {
+    "history": "Das Kunstmuseum in Hjørring zeigt Werke mit Bezug zur Region sowie wechselnde Ausstellungen.",
+    "visit": "Wählen Sie zunächst eine Ausstellung und nutzen Sie das Museumsprogramm, um ihr Thema einzuordnen.",
+    "access": "Gehen Sie vom Bahnhof durch das Zentrum. Prüfen Sie Öffnung, Eintritt und Zugänglichkeit beim Museum.",
+    "photoTip": "Fotografieren Sie den Eingang vom öffentlichen Gehweg und beachten Sie die Regeln der jeweiligen Ausstellung.",
+    "faq": [
+      {
+        "q": "Sind dieselben Werke immer zu sehen?",
+        "a": "Die Ausstellungen wechseln. Sehen Sie ins Programm für Ihren Besuchstag."
+      }
+    ]
+  },
+  "vendsyssel-historiske-museum": {
+    "history": "Der Standort Hjørring vermittelt Lokalgeschichte anhand von Gegenständen und Gebäuden und führt in die Geschichte der Region ein.",
+    "visit": "Fragen Sie am Eingang nach den geöffneten Ausstellungen. Verbinden Sie den Besuch mit einem Spaziergang durch die Altstadt.",
+    "access": "Planen Sie den Weg zum Standort Hjørring mit der offiziellen Museumsseite. Prüfen Sie die Adresse und Öffnungszeiten.",
+    "photoTip": "Setzen Sie die Fassade mit den Nachbarhäusern vom öffentlichen Straßenraum aus ins Bild.",
+    "faq": [
+      {
+        "q": "Ist das das Hirtshals Museum?",
+        "a": "Beide gehören zum selben Museumsverbund, haben jedoch eigene Standorte und Ausstellungen."
+      }
+    ]
+  },
+  "sankt-catharinae-kirke": {
+    "history": "Sankt Catharinæ ist eine historische Kirche in Hjørring. Ihr Ziegelbau ist ein markantes Ziel in der Altstadt.",
+    "visit": "Sehen Sie sich Turm und Mauerwerk von außen an. Besuchen Sie den Innenraum nur während angekündigter Öffnungen.",
+    "access": "Suchen Sie nach dem vollständigen Namen. Gehen Sie vom Zentrum zu Fuß und prüfen Sie den Kalender der Kirchengemeinde.",
+    "photoTip": "Gehen Sie auf öffentlichem Grund etwas zurück, um Turm und Kirchenschiff zusammen aufzunehmen.",
+    "faq": [
+      {
+        "q": "Kann ich während eines Gottesdienstes besichtigen?",
+        "a": "Planen Sie die Besichtigung außerhalb der Gottesdienstzeiten."
+      }
+    ]
+  },
+  "svanelunden": {
+    "history": "Svanelunden ist ein Stadtpark mit Teich, Wegen und Baumbestand. Hier lernen Sie eine ruhige Seite Hjørrings kennen.",
+    "visit": "Wählen Sie einen kurzen Spaziergang am Wasser und achten Sie auf den Wechsel von offenen Ufern und Bäumen.",
+    "access": "Gehen Sie vom Zentrum zu einem ausgeschilderten Eingang. Bleiben Sie am Ufer auf den Wegen und kehren Sie bei Glätte um.",
+    "photoTip": "Bei stillem Wasser zeigen sich die Spiegelungen der Bäume besonders gut aus niedriger Perspektive.",
+    "faq": [
+      {
+        "q": "Muss ich um den ganzen Teich gehen?",
+        "a": "Sie können an einem Eingang starten und auf demselben Weg zurückkehren."
+      }
+    ]
+  },
+  "hjoerring-bjerge": {
+    "history": "Hjørring Bjerge ist eine offene Hügellandschaft am Stadtrand. Die Wege eröffnen Ausblicke über das Binnenland von Vendsyssel.",
+    "visit": "Wählen Sie eine markierte Route zu einem Aussichtspunkt, wenn die Bedingungen passen. Rechnen Sie mit steileren Wegen als im Stadtpark.",
+    "access": "Nutzen Sie die offizielle Karte für den Einstieg und prüfen Sie vor längeren Runden den Rückweg.",
+    "photoTip": "Fotografieren Sie über die Hänge hinweg von einer Wegkreuzung. Seitliches Licht betont die Form der Hügel.",
+    "faq": [
+      {
+        "q": "Ist es ein ebener Spaziergang?",
+        "a": "Einige Wege sind steil. Wählen Sie Einstieg und Wendepunkt passend zur Gruppe."
+      }
+    ]
+  },
+  "hirtshals-fyr": {
+    "history": "Hirtshals Fyr steht auf einer Anhöhe über dem Hafen. Der Leuchtturm aus dem 19. Jahrhundert zeigt die Seefahrt aus einem anderen Blickwinkel als Rubjerg Knude.",
+    "visit": "Beginnen Sie draußen mit Blick auf Hafen und Küste. Klären Sie, ob Turm und Ausstellungsräume geöffnet sind.",
+    "access": "Navigieren Sie zum Eingang des Leuchtturms, nicht zum Fährterminal. Der Fußweg aus der Stadt führt bergauf.",
+    "photoTip": "Fotografieren Sie den Turm vom Zugangsweg aus über der niedrigen Küstenvegetation.",
+    "faq": [
+      {
+        "q": "Ist der Turm immer zugänglich?",
+        "a": "Prüfen Sie die Öffnung für Ihren Besuchstag, wenn Sie hinaufsteigen möchten."
+      }
+    ]
+  },
+  "bunkermuseet-hirtshals": {
+    "history": "Das Bunkermuseum am Leuchtturm bewahrt eine Verteidigungsstellung aus dem Zweiten Weltkrieg. Gräben und Betonbauten zeigen die Anlage in den Dünen.",
+    "visit": "Folgen Sie dem markierten Weg und lesen Sie die Tafeln zur Anlage und zur Landschaft.",
+    "access": "Beginnen Sie am eigenen Museumseingang beim Leuchtturm. Die Wege sind uneben. Führungen folgen dem Museumsprogramm.",
+    "photoTip": "Nehmen Sie Graben und Bunker vom markierten Weg gemeinsam ins Bild.",
+    "faq": [
+      {
+        "q": "Ist das Bunkermuseum der Leuchtturm?",
+        "a": "Beide liegen nebeneinander und haben unterschiedliche Themen und Zugänge."
+      }
+    ]
+  },
+  "nordsoeen-oceanarium": {
+    "history": "Das Oceanarium in Hirtshals vermittelt die Tierwelt der Nordsee. Das zentrale Becken stellt die Verbindung zum Meer vor der Küste her.",
+    "visit": "Wählen Sie aus dem Tagesprogramm eine Fütterung oder Vorführung und nehmen Sie sich dazwischen Zeit für die kleineren Becken.",
+    "access": "Nutzen Sie den Eingang am Willemoesvej. Prüfen Sie Tickets, Programm und Anreise beim Betreiber.",
+    "photoTip": "Nutzen Sie das Licht des Beckens und lassen Sie den Blitz aus, wo Fotos erlaubt sind.",
+    "faq": [
+      {
+        "q": "Soll ich mich nach der Fütterung richten?",
+        "a": "Prüfen Sie das Tagesprogramm. Die Uhrzeiten können sich ändern."
+      }
+    ]
+  },
+  "hirtshals-museum": {
+    "history": "Das Museum befindet sich im früheren Wohnhaus einer Fischerfamilie. Der Maßstab des Hauses verdeutlicht den Zusammenhang von Haushalt, Fischerei und Hafen.",
+    "visit": "Sehen Sie zuerst die Ausstellung und vergleichen Sie anschließend die historischen Eindrücke mit der Stadt von heute.",
+    "access": "Nutzen Sie den Museumskalender und dessen Wegbeschreibung. Das Bunkermuseum liegt an einer anderen Adresse beim Leuchtturm.",
+    "photoTip": "Fotografieren Sie das kleine Haus von der Straße und fragen Sie nach den Regeln für Innenaufnahmen.",
+    "faq": [
+      {
+        "q": "Welches Museum behandelt den Fischeralltag?",
+        "a": "Das Hirtshals Museum. Im Bunkermuseum stehen die Verteidigungsanlagen im Mittelpunkt."
+      }
+    ]
+  },
+  "husmoderstranden": {
+    "history": "Husmoderstranden liegt an der Hafeneinfahrt. Stadt, Fähren und offenes Meer sind hier auf kurzem Weg zu sehen.",
+    "visit": "Kommen Sie über die Promenade und beobachten Sie Brandung, Wind und Schiffswellen. Halten Sie Abstand zu Hafenanlagen.",
+    "access": "Gehen Sie von der Stadt über die Uferpromenade zum Strand. Prüfen Sie die Lage, bevor Sie ans Wasser gehen.",
+    "photoTip": "Rahmen Sie Leuchtturm oder Hafen vom trockenen Sand aus im Hintergrund ein.",
+    "faq": [
+      {
+        "q": "Ist es ein Aussichtspunkt oder ein Strand?",
+        "a": "Es ist ein Strand am Hafen. Für die Betriebsflächen des Hafens gelten eigene Regeln."
+      }
+    ]
+  },
+  "tornby-koebmandsgaard": {
+    "history": "Der alte Kaufmannshof zeigt den Handel zwischen Nordjütlands Küste und Norwegen. Das historische Geschäft macht diese Geschichte auf kleinem Raum greifbar.",
+    "visit": "Sehen Sie Laden und Hof zusammen. Im Programm erfahren Sie, welche Räume geöffnet sind.",
+    "access": "Suchen Sie nach Tornby Gamle Købmandsgård und nutzen Sie den Besuchereingang. Prüfen Sie die Öffnungszeiten.",
+    "photoTip": "Fotografieren Sie Eingang und niedriges Gebäude vom öffentlichen Zugang aus.",
+    "faq": [
+      {
+        "q": "Ist der Laden an jedem Tag geöffnet?",
+        "a": "Prüfen Sie den Kalender des Kaufmannshofs."
+      }
+    ]
+  },
+  "tornby-klitplantage": {
+    "history": "Im Dünenwald von Tornby grenzen gepflanzte Bäume an offene Küstenflächen. Wege verbinden dunkle Waldbereiche mit hellen Sandstellen.",
+    "visit": "Wählen Sie einen markierten Weg und achten Sie beim Gang Richtung Dünen auf die Vegetation. Wald und Strand lassen sich auch separat besuchen.",
+    "access": "Wählen Sie den Zugang auf der Karte der Naturbehörde. Folgen Sie der Beschilderung und schonen Sie empfindliche Dünenbereiche.",
+    "photoTip": "Fotografieren Sie den Lichtwechsel vom Weg aus, ohne die Vegetation zu betreten.",
+    "faq": [
+      {
+        "q": "Lässt sich der Strand einbauen?",
+        "a": "Suchen Sie auf der amtlichen Karte eine geeignete Verbindung und prüfen Sie Wetter und Untergrund."
+      }
+    ]
+  },
+  "tornby-strand": {
+    "history": "Tornby Strand liegt westlich des Dünenwalds an der Nordsee. Hier zeigt sich der Übergang vom geschützten Wald zur offenen Küste.",
+    "visit": "Wählen Sie einen kurzen Strandabschnitt und achten Sie auf dem Rückweg auf die Dünen. Beachten Sie Bade- und Verkehrsschilder.",
+    "access": "Nutzen Sie den vorgesehenen Strandzugang und halten Sie Abstand zu Fahrspuren und geschützten Dünenflächen.",
+    "photoTip": "Fotografieren Sie die Dünen vom Strand aus abseits des Verkehrs.",
+    "faq": [
+      {
+        "q": "Beginnen hier die Waldwege?",
+        "a": "Strand und Wald haben getrennte Zugänge. Wählen Sie für den Wald einen Einstieg auf der amtlichen Karte."
+      }
+    ]
+  },
+  "tversted-strand": {
+    "history": "Der breite Nordseestrand wird von Dünen begrenzt. Die Strandstraße aus Tversted führt direkt in die Küstenlandschaft.",
+    "visit": "Halten Sie an der Dünenöffnung und wählen Sie je nach Wind einen kurzen Strandabschnitt. Beachten Sie die Hinweise zum Baden.",
+    "access": "Folgen Sie dem ausgeschilderten Zugang vom Ort. Nutzen Sie die vorgesehenen Dünenübergänge und lesen Sie die Verkehrshinweise.",
+    "photoTip": "Setzen Sie die Dünenöffnung vom markierten Weg aus als Rahmen für den breiten Sandstrand ein.",
+    "faq": [
+      {
+        "q": "Sind die Seen am Ortsstrand?",
+        "a": "Die Tverstedsøerne liegen getrennt vom Strand im Dünenwald von Tversted."
+      }
+    ]
+  },
+  "tverstedsoeerne": {
+    "history": "Die Seen liegen zwischen bewaldeten Dünen in der Tversted Klitplantage. Hier ist das Wasser geschützter als am nahen offenen Meer.",
+    "visit": "Beginnen Sie mit dem Blick über das Wasser. Längere Wege führen durch den Wald und können nach Regen nass sein.",
+    "access": "Nutzen Sie den markierten Zugang zu den Seen. Für längere Wege hilft die Karte der Naturbehörde.",
+    "photoTip": "Fotografieren Sie Baumspiegelungen vom festen Weg und meiden Sie weiche Uferbereiche.",
+    "faq": [
+      {
+        "q": "Soll ich Tversted Strand als Ziel eingeben?",
+        "a": "Wählen Sie Tverstedsøerne. Der Zugang zum Ortsstrand führt nicht direkt zu den Seen."
+      }
+    ]
+  },
+  "uggerby-klitplantage": {
+    "history": "Dieser Dünenwald liegt zwischen Hirtshals und Tversted. Bepflanzte und offene Flächen zeigen unterschiedliche Formen der Küstenpflege.",
+    "visit": "Wählen Sie einen kurzen Weg mit Wald und Lichtung. Am Waldrand verändert sich der Wind deutlich.",
+    "access": "Wählen Sie einen markierten Einstieg auf der Behördenkarte und bleiben Sie am Fluss und in den Dünen auf den vorgesehenen Wegen.",
+    "photoTip": "Rahmen Sie durch eine Lichtung den Übergang von Bäumen zu Küstengräsern ein.",
+    "faq": [
+      {
+        "q": "Kann ich durchgehend am Fluss entlanglaufen?",
+        "a": "Prüfen Sie Karte und Beschilderung. Wasserstand und Boden beeinflussen die begehbare Strecke."
+      }
+    ]
+  },
+  "mosbjerg-landbrugsmuseum": {
+    "history": "Das Landschafts- und Landwirtschaftsmuseum verbindet die Hügel bei Mosbjerg mit der Landwirtschaftsgeschichte. Es beschreibt die Höfe Bjørnager und Højen.",
+    "visit": "Nutzen Sie die Hinweise vor Ort, um Gebäude, Felder und Hänge einzuordnen. Festes Schuhwerk ist sinnvoll.",
+    "access": "Wählen Sie den vom Museum empfohlenen Ankunftspunkt. Prüfen Sie Gebäudeöffnungen getrennt von den Außenwegen.",
+    "photoTip": "Fotografieren Sie quer über die Feldhänge oder vom markierten Weg auf eines der Gebäude.",
+    "faq": [
+      {
+        "q": "Sind alle Gebäude gleichzeitig geöffnet?",
+        "a": "Prüfen Sie beim Museum die aktuellen Angaben zu den einzelnen Gebäuden."
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "rubjerg-klitplantage": {
+    "history": "Dit bos is aangeplant om stuivend zand af te remmen. De bospaden bieden meer beschutting dan het open duin rond de vuurtoren.",
+    "visit": "Let op de overgang van bomen naar duindoorn. Volgens de Deense natuurbeheerder groeien hier orchideeën. Bekijk ze vanaf het pad.",
+    "access": "Gebruik de aangegeven ingang aan de Rubjergvej. Loop over hetzelfde bospad terug of volg op de kaart een deel van het Noordzeepad.",
+    "photoTip": "Fotografeer de donkere bomen tegen de lichte duinopening vanaf het bospad.",
+    "faq": [
+      {
+        "q": "Is het bos geschikt bij wind?",
+        "a": "Tussen de bomen is het beschutter. Volg waarschuwingen en vermijd het bos bij harde wind."
+      }
+    ]
+  },
+  "strandfogedgaarden": {
+    "history": "De voormalige hoeve van de strandvoogd vertelt hoe kustbewoners omgingen met strandingen en voorvallen op zee.",
+    "visit": "De tentoonstelling over Rubjerg Knude sloot in 2019. De gebouwen en zandgronden laten zien waar de strandvoogd werkte. Reken op een kijkje van buiten, tenzij openbare toegang is bevestigd.",
+    "access": "Zoek Strandfogedgården in Rubjerg. Bekijk de plek vanaf de openbare weg en volg de borden voor privéterrein.",
+    "photoTip": "Leg de binnenplaats en lage gebouwen vast vanaf de openbare toegang.",
+    "faq": [
+      {
+        "q": "Is dit het museum bij de vuurtoren?",
+        "a": "Het is een afzonderlijke hoeve landinwaarts. De vroegere Rubjerg Knude-tentoonstelling sloot in 2019."
+      }
+    ]
+  },
+  "maarup-kirkegaard": {
+    "history": "De middeleeuwse kerk van Mårup is in fasen afgebroken toen de klif dichterbij kwam. De begraafplaats markeert de voormalige plek.",
+    "visit": "Lees de informatie bij de graven en vergelijk dit stuk kust met Rubjerg Knude.",
+    "access": "Volg de Mårup Kirkevej vanaf Lønstrup. Gebruik de aangegeven toegang en houd afstand van de afbrokkelende klif.",
+    "photoTip": "Breng graven en kust samen in beeld vanaf de landzijde van de begraafplaats.",
+    "faq": [
+      {
+        "q": "Staat de kerk er nog?",
+        "a": "De kerk is afgebroken. Je bezoekt hier de begraafplaats en haar bijzondere ligging."
+      }
+    ]
+  },
+  "rubjerg-gamle-kirkegaard": {
+    "history": "Deze oude begraafplaats markeert de vroegere kerk van Rubjerg. De plek heeft een andere parochiegeschiedenis dan het terrein van de kerk van Mårup.",
+    "visit": "Bekijk de begrenzing in het landschap. De natuurbeheerder beschrijft hier een informatiepunt over de zandverstuiving.",
+    "access": "Gebruik de gemarkeerde toegang ten zuiden van het duinbos. Bekijk eerst de kaart van de natuurbeheerder.",
+    "photoTip": "Maak een overzichtsfoto vanaf de ingang en houd afstand tot individuele graven.",
+    "faq": [
+      {
+        "q": "Is dit de begraafplaats van Mårup?",
+        "a": "Nee. Zoek op Rubjerg Gamle Kirkegård. Mårup ligt aan zee bij Lønstrup."
+      }
+    ]
+  },
+  "vennebjerg-moelle": {
+    "history": "De gerestaureerde molen van Vennebjerg staat boven de velden, waar de molen goed wind kon vangen.",
+    "visit": "Let op de kap en wieken. Het programma vermeldt of er een demonstratie plaatsvindt.",
+    "access": "Volg de routebeschrijving van de molen naar de aangegeven toegang. Controleer de openingstijden voor een binnenbezoek.",
+    "photoTip": "Fotografeer vanaf de voet van de heuvel en laat een strook open land in beeld.",
+    "faq": [
+      {
+        "q": "Kan ik de molen in bedrijf zien?",
+        "a": "Kijk of er een demonstratie is aangekondigd. Ook vanaf buiten is de ligging goed te zien."
+      }
+    ]
+  },
+  "skallerup-kirke": {
+    "history": "Skallerup Kirke is de kerk van het dorp achter de kust. Het kerkhof en metselwerk vertellen een ander verhaal dan het strand van Skallerup Klit.",
+    "visit": "Loop vanaf de aangegeven ingang rond de kerk en geef kerkgangers en bezoekers van het kerkhof ruimte.",
+    "access": "Zoek Skallerup Kirke op de kaart. Raadpleeg voor een binnenbezoek de kalender van de parochie.",
+    "photoTip": "Breng de kerk en de kerkhofmuur vanaf de ingang samen in beeld.",
+    "faq": [
+      {
+        "q": "Wie kan de toegang bevestigen?",
+        "a": "Het parochiekantoor van Skallerup–Vennebjerg–Mårup kan je informeren over diensten en toegang."
+      }
+    ]
+  },
+  "lonstrup-strand": {
+    "history": "Onder het oude vissersdorp Lønstrup verdelen golfbrekers de kust in kleine stukken.",
+    "visit": "Loop naar een aangegeven strandtoegang en kijk naar het verschil tussen de beschutte stukken en de open zee.",
+    "access": "Loop omlaag vanuit het centrum. Let op wind, branding en borden en blijf uit de buurt van instabiele kliffen.",
+    "photoTip": "Gebruik de golfbrekers als lijnen naar de horizon vanaf een openbare toegang.",
+    "faq": [
+      {
+        "q": "Kan ik alleen het strand bezoeken?",
+        "a": "Ja. Het strand ligt op loopafstand van het centrum. Voor de galeries hogerop kun je extra tijd uittrekken."
+      }
+    ]
+  },
+  "furreby-kystbatteri": {
+    "history": "De betonnen resten bij Furreby behoorden tot de Duitse kustverdediging uit de Tweede Wereldoorlog. De erosie heeft hun ligging ten opzichte van de klif en het strand veranderd.",
+    "visit": "Bekijk de vormen en ligging op afstand. Het plaatselijke bunkerpad legt uit hoe de constructies bij elkaar hoorden.",
+    "access": "Gebruik de openbare toegang ten noorden van Løkken. Controleer stand van het water en branding en mijd instabiele bouwsels en de voet van de klif.",
+    "photoTip": "Leg bunkerresten en klif samen vast vanaf het open strand.",
+    "faq": [
+      {
+        "q": "Mag ik de bunkers in?",
+        "a": "Reken op een bezoek van buitenaf. Branding en de staat van het beton kunnen toegang beperken."
+      }
+    ]
+  },
+  "noerre-lyngby-strand": {
+    "history": "Bij Nørre Lyngby snijdt de zee door afzettingen die sporen van oude landschappen bevatten.",
+    "visit": "Vergelijk de sedimentlagen op afstand met het duin bij Rubjerg. Loop alleen over het strand zolang er voldoende ruimte is.",
+    "access": "Neem de aangegeven strandtoegang. Keer om als de branding tot aan de klif komt en mijd verse afschuivingen.",
+    "photoTip": "Fotografeer de wand schuin vanaf het open strand om de lagen te laten uitkomen.",
+    "faq": [
+      {
+        "q": "Kan ik fossielen zoeken in de klif?",
+        "a": "Houd afstand en controleer de lokale regels. De lagen zijn te zien zonder te graven of te klimmen."
+      }
+    ]
+  },
+  "boerglum-kloster": {
+    "history": "Børglum Kloster is een middeleeuws kloostercomplex op een heuvel landinwaarts. Kerk, binnenplaats en exposities laten verschillende perioden zien.",
+    "visit": "Begin op de binnenplaats en volg de bezoekersroute naar de geopende ruimtes. Kijk ook uit over de weilanden.",
+    "access": "Navigeer naar de bezoekersingang en controleer bij het klooster de opening, tickets en toegankelijkheid.",
+    "photoTip": "Gebruik de vleugels om de binnenplaats te kaderen of fotografeer de heuvel vanaf een toegestane route.",
+    "faq": [
+      {
+        "q": "Geldt een kaartje van een ander museum?",
+        "a": "Het klooster heeft eigen toegangsvoorwaarden. Kijk die na voor vertrek."
+      }
+    ]
+  },
+  "loekken-mole": {
+    "history": "Bij de pier van Løkken komen de visserijgeschiedenis en het strand- en surfleven samen.",
+    "visit": "Begin op het strand naast de pier en kijk terug naar het dorp. Bepaal aan de hand van de zee of je verder kunt lopen.",
+    "access": "Loop vanuit het centrum via de strandtoegang. Blijf aan land als golven over de pier slaan.",
+    "photoTip": "Fotografeer vanaf droge grond met de pier als lijn naar de horizon.",
+    "faq": [
+      {
+        "q": "Kan ik bij ruwe zee naar het uiteinde lopen?",
+        "a": "Blijf op het strand bij overslaande golven of wanneer borden de toegang beperken."
+      }
+    ]
+  },
+  "loekken-museum": {
+    "history": "Løkken Museum vertelt over een dorp gevormd door zee en kusthandel. De collectie geeft een kader voor wat je langs de kust ziet.",
+    "visit": "Zoek naar verhalen over handel en dagelijks leven voordat je naar de pier en het vissersstrand wandelt.",
+    "access": "Het museum ligt in het centrum. Controleer de seizoensopening voordat je vanaf het strand vertrekt.",
+    "photoTip": "Fotografeer de gevel vanaf de stoep en vraag naar de regels voor foto’s binnen.",
+    "faq": [
+      {
+        "q": "Is het museum open als het strand toegankelijk is?",
+        "a": "Het museum heeft een eigen kalender. Controleer je bezoekdatum voordat je de stops combineert."
+      }
+    ]
+  },
+  "loekken-strand": {
+    "history": "De witte strandhuisjes verwijzen naar de geschiedenis van Løkken als badplaats. Ook visserij en surfen horen bij dit brede zandstrand.",
+    "visit": "Loop vanaf het dorp richting huisjes en pier. De huisjes zijn privé en seizoensgebonden. Bekijk ze vanaf het open zand.",
+    "access": "Neem een strandtoegang vanuit het centrum en let op zwemvlaggen, verkeersborden en de zee.",
+    "photoTip": "Fotografeer langs de rij huisjes en laat lucht en duinen in beeld.",
+    "faq": [
+      {
+        "q": "Staan de huisjes er het hele jaar?",
+        "a": "Het zijn seizoenshuisjes. Raadpleeg de lokale toeristische informatie als je speciaal daarvoor komt."
+      }
+    ]
+  },
+  "vendsyssel-kunstmuseum": {
+    "history": "Het kunstmuseum in Hjørring toont kunst met banden met de regio en wisselende tentoonstellingen.",
+    "visit": "Kies eerst één tentoonstelling en lees het programma voor de achtergrond van het thema.",
+    "access": "Loop vanaf het station door het centrum. Controleer openingstijden, toegang en prijzen bij het museum.",
+    "photoTip": "Fotografeer de ingang vanaf de stoep en volg de regels van de tentoonstelling voor foto’s binnen.",
+    "faq": [
+      {
+        "q": "Zijn altijd dezelfde werken te zien?",
+        "a": "De tentoonstellingen wisselen. Bekijk het programma voor je bezoekdag."
+      }
+    ]
+  },
+  "vendsyssel-historiske-museum": {
+    "history": "De locatie in Hjørring vertelt de plaatselijke geschiedenis met voorwerpen en gebouwen en vormt een kennismaking met de regio.",
+    "visit": "Vraag bij de ingang welke exposities open zijn en koppel het bezoek aan een wandeling door de oude straten.",
+    "access": "Zoek de locatie Hjørring op de officiële museumsite. Controleer adres en openingstijd.",
+    "photoTip": "Fotografeer de gevel samen met de buurpanden vanaf de openbare weg.",
+    "faq": [
+      {
+        "q": "Is dit hetzelfde als het museum in Hirtshals?",
+        "a": "De locaties horen bij dezelfde organisatie en hebben elk een eigen ingang, tentoonstelling en kalender."
+      }
+    ]
+  },
+  "sankt-catharinae-kirke": {
+    "history": "Sankt Catharinæ is een historische kerk in Hjørring. De markante bakstenen kerk vormt een herkenningspunt in de oude stad.",
+    "visit": "Bekijk de toren en het metselwerk buiten. Bezoek de binnenruimte alleen tijdens aangegeven opening.",
+    "access": "Zoek op de volledige kerknaam. Loop vanuit het centrum en kijk in de parochiekalender.",
+    "photoTip": "Ga op openbaar terrein iets naar achteren om toren en schip samen te fotograferen.",
+    "faq": [
+      {
+        "q": "Kan ik de kerk tijdens een dienst bekijken?",
+        "a": "Plan een bezoek buiten de diensten."
+      }
+    ]
+  },
+  "svanelunden": {
+    "history": "Svanelunden is een stadspark met een vijver, paden en bomen. Het ligt in een rustiger deel van Hjørring dan de winkelstraten.",
+    "visit": "Kies een kort traject aan het water en let op de afwisseling van open oever en bomen.",
+    "access": "Loop vanuit het centrum naar een aangegeven ingang. Blijf bij de oever op het pad en keer om bij gladheid.",
+    "photoTip": "Probeer bij rustig water een laag standpunt voor de weerspiegeling van de bomen.",
+    "faq": [
+      {
+        "q": "Moet ik helemaal rond de vijver lopen?",
+        "a": "Je kunt ook vanaf een ingang een kort stuk heen en terug lopen."
+      }
+    ]
+  },
+  "hjoerring-bjerge": {
+    "history": "Hjørring Bjerge is een heuvelgebied aan de rand van de stad. De open hellingen geven zicht op het binnenland van Vendsyssel.",
+    "visit": "Kies een aangegeven route naar een uitzichtpunt als de omstandigheden goed zijn. De paden zijn steiler dan die in een stadspark.",
+    "access": "Gebruik de officiële kaart voor de ingang en controleer de terugweg voordat je een lange lus kiest.",
+    "photoTip": "Fotografeer vanaf een kruising van paden over de hellingen, waar het zijlicht hun vorm zichtbaar maakt.",
+    "faq": [
+      {
+        "q": "Is de wandeling vlak?",
+        "a": "Sommige stukken zijn steil. Kies ingang en keerpunt passend bij de groep."
+      }
+    ]
+  },
+  "hirtshals-fyr": {
+    "history": "Hirtshals Fyr staat op een hoogte boven de haven. De vuurtoren uit de negentiende eeuw geeft een andere kijk op scheepvaart dan Rubjerg Knude.",
+    "visit": "Begin buiten met zicht op haven en kust. Controleer vooraf of toren en tentoonstellingen open zijn.",
+    "access": "Navigeer naar de ingang van de vuurtoren, niet naar de veerterminal. Vanuit de stad loopt het pad omhoog.",
+    "photoTip": "Leg de toren vanaf het toegangspad vast boven de lage kustvegetatie.",
+    "faq": [
+      {
+        "q": "Kan ik altijd de toren in?",
+        "a": "Controleer de actuele tijden als je naar boven wilt."
+      }
+    ]
+  },
+  "bunkermuseet-hirtshals": {
+    "history": "Het bunkermuseum naast de vuurtoren bewaart een verdedigingscomplex uit de Tweede Wereldoorlog. Loopgraven en betonbouw laten zien hoe het in de duinen lag.",
+    "visit": "Volg de aangegeven route en lees de borden over het gebied en zijn geschiedenis.",
+    "access": "Begin bij de ingang van het museum naast de vuurtoren. De paden zijn ongelijk en rondleidingen volgen de museumkalender.",
+    "photoTip": "Breng een bunker en loopgraaf samen in beeld vanaf de gemarkeerde route.",
+    "faq": [
+      {
+        "q": "Is het bunkermuseum de vuurtoren?",
+        "a": "Ze liggen naast elkaar en hebben verschillende onderwerpen en toegang."
+      }
+    ]
+  },
+  "nordsoeen-oceanarium": {
+    "history": "Het oceanarium in Hirtshals laat het dierenleven van de Noordzee zien. Het grote centrale bassin legt de verbinding met de zee buiten.",
+    "visit": "Kies een voeder- of informatiemoment uit het dagprogramma en bekijk tussendoor de kleinere bassins.",
+    "access": "Gebruik de ingang aan de Willemoesvej. Controleer tickets, tijden en vervoer bij het oceanarium.",
+    "photoTip": "Fotografeer zonder flits en gebruik het licht in het bassin waar foto’s zijn toegestaan.",
+    "faq": [
+      {
+        "q": "Moet ik rond een voedertijd plannen?",
+        "a": "Gebruik het dagprogramma. Tijden en toegangsvoorwaarden kunnen veranderen."
+      }
+    ]
+  },
+  "hirtshals-museum": {
+    "history": "Het museum zit in de voormalige woning van een vissersgezin. Het laat zien hoe huishouden, visserij en haven samenhingen.",
+    "visit": "Bekijk de tentoonstelling en loop daarna door de stad om de geschiedenis met het huidige havenleven te vergelijken.",
+    "access": "Gebruik de routebeschrijving en kalender van het museum. Het bunkermuseum bij de vuurtoren ligt op een ander adres.",
+    "photoTip": "Fotografeer het bescheiden huis vanaf de straat en vraag naar de regels voor binnenfoto’s.",
+    "faq": [
+      {
+        "q": "Welk museum vertelt over het leven van vissers?",
+        "a": "Begin bij Hirtshals Museum. Het bunkermuseum behandelt de oorlogsverdediging."
+      }
+    ]
+  },
+  "husmoderstranden": {
+    "history": "Husmoderstranden ligt bij de haveningang. De stad, veerboten en open zee komen in één kort bezoek samen.",
+    "visit": "Kom via de boulevard en kijk naar wind, branding en scheepsgolven. Blijf weg van havenconstructies.",
+    "access": "Loop vanuit de stad over de boulevard. Beoordeel de zee voordat je naar de waterlijn gaat.",
+    "photoTip": "Gebruik de vuurtoren of haven als achtergrond vanaf het droge zand.",
+    "faq": [
+      {
+        "q": "Is het een uitzichtpunt of een strand?",
+        "a": "Het is een strand bij de haven. Voor werkterreinen gelden aparte regels."
+      }
+    ]
+  },
+  "tornby-koebmandsgaard": {
+    "history": "Het oude koopmanshuis vertelt over de handel tussen Noord-Jutland en Noorwegen. De historische winkel brengt dat op kleine schaal in beeld.",
+    "visit": "Bekijk de winkel en de boerderij samen. Het programma vermeldt welke delen open zijn.",
+    "access": "Zoek op Tornby Gamle Købmandsgård, volg de bezoekersingang en controleer de openingstijden vooraf.",
+    "photoTip": "Zet de ingang en het lage gebouw samen op de foto vanaf de openbare toegang.",
+    "faq": [
+      {
+        "q": "Is de winkel elke dag open?",
+        "a": "Controleer de kalender van het koopmanshuis."
+      }
+    ]
+  },
+  "tornby-klitplantage": {
+    "history": "In het duinbos van Tornby grenzen aangeplante bomen aan open kustgrond. De paden lopen van donkere bosvakken naar licht zand.",
+    "visit": "Kies een gemarkeerd pad en let onderweg naar de duinen op de veranderingen in planten. Bos en strand zijn ook apart te bezoeken.",
+    "access": "Kies een ingang op de officiële natuurkaart en volg de borden. Blijf op de paden in kwetsbare gebieden.",
+    "photoTip": "Fotografeer de overgang in licht vanaf het pad zonder de duinplanten te betreden.",
+    "faq": [
+      {
+        "q": "Kan ik Tornby Strand combineren met het bos?",
+        "a": "Zoek een passende verbinding op de officiële kaart en beoordeel weer en ondergrond."
+      }
+    ]
+  },
+  "tornby-strand": {
+    "history": "Tornby Strand ligt westelijk van het duinbos aan de Noordzee. Je ziet hier de overgang van beschut bos naar open kust.",
+    "visit": "Kies een kort strandtraject en kijk op de terugweg naar de duinen. Volg zwem- en verkeersborden.",
+    "access": "Neem de aangegeven strandtoegang. Blijf weg van rijsporen en gebieden waar duinen worden hersteld.",
+    "photoTip": "Fotografeer de duinen vanaf het strand op afstand van verkeer.",
+    "faq": [
+      {
+        "q": "Beginnen de bospaden op het strand?",
+        "a": "Strand en bos hebben eigen toegangen. Kies de bosingang op de officiële kaart als je vooral wilt wandelen."
+      }
+    ]
+  },
+  "tversted-strand": {
+    "history": "Dit brede Noordzeestrand met duinen is een natuurlijk eindpunt van een wandeling vanuit Tversted.",
+    "visit": "Kijk bij de duinopening naar buiten en kies een strandtraject op basis van de wind. Lees de aanwijzingen voor zwemmen.",
+    "access": "Volg de aangegeven toegang vanuit het dorp. Gebruik de toegestane duinpassages en raadpleeg de verkeersborden.",
+    "photoTip": "Gebruik de duinopening vanaf de gemarkeerde route om de breedte van het strand te tonen.",
+    "faq": [
+      {
+        "q": "Liggen de meren bij het dorpsstrand?",
+        "a": "Tverstedsøerne liggen apart in het duinbos van Tversted."
+      }
+    ]
+  },
+  "tverstedsoeerne": {
+    "history": "Deze meren liggen tussen de beboste duinen van Tversted. Aan het water zit je meer beschut dan aan zee.",
+    "visit": "Begin met het uitzicht over een meer. Volg voor een langere wandeling aangelegde bospaden, die na regen nat kunnen zijn.",
+    "access": "Neem de aangegeven toegang tot de meren en gebruik de routekaart van de natuurbeheerder voor een langere wandeling.",
+    "photoTip": "Fotografeer weerspiegelingen vanaf een stevig pad en blijf weg van zachte oevers.",
+    "faq": [
+      {
+        "q": "Moet ik Tversted Strand als bestemming kiezen?",
+        "a": "Gebruik Tverstedsøerne. De route naar het dorpsstrand komt niet direct bij de meren uit."
+      }
+    ]
+  },
+  "uggerby-klitplantage": {
+    "history": "Het duinbos ligt tussen Hirtshals en Tversted. Bos en open zand weerspiegelen verschillende vormen van kustbeheer.",
+    "visit": "Kies op de kaart een kort pad met zowel bos als een open plek. Let op het verschil in wind aan de bosrand.",
+    "access": "Kies een aangegeven ingang op de natuurkaart. Blijf bij rivier en duinen op de aangewezen paden, vooral na regen.",
+    "photoTip": "Leg de overgang van bomen naar duingras vast vanaf een open plek op het zandpad.",
+    "faq": [
+      {
+        "q": "Kan ik de hele tijd langs de rivier lopen?",
+        "a": "Kijk op de kaart en naar de borden. Waterstand en ondergrond bepalen welk traject begaanbaar is."
+      }
+    ]
+  },
+  "mosbjerg-landbrugsmuseum": {
+    "history": "Dit museum verbindt de heuvels bij Mosbjerg met de landbouwgeschiedenis. De locaties Bjørnager en Højen vormen samen het verhaal.",
+    "visit": "Gebruik de informatie op locatie om boerderijen, velden en hellingen met elkaar te verbinden. Draag schoenen voor ongelijke grond.",
+    "access": "Kies het aankomstpunt dat het museum aangeeft. Controleer toegang tot de gebouwen apart van de mogelijkheden om buiten te wandelen.",
+    "photoTip": "Fotografeer dwars over de hellende velden of zet een boerderij vanaf een gemarkeerd pad in beeld.",
+    "faq": [
+      {
+        "q": "Zijn alle gebouwen tegelijk open?",
+        "a": "Controleer de actuele toegang per gebouw bij het museum."
+      }
+    ]
+  }
+}

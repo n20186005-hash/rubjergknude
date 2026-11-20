@@ -18,11 +18,11 @@
     "title": "Rubjerg Knude",
     "subtitle": "Vuurtoren, wandelduin en eroderende klif aan de Noordzeekust van Noord-Denemarken",
     "rating": "4.8",
-    "reviewCount": "9.070 beoordelingen",
+    "reviewCount": "9.156 beoordelingen",
     "hours": "24/7 open · gratis toegang",
     "openMaps": "Openen in Google Maps",
     "source": "Google Maps",
-    "checked": "Gecontroleerd oktober 2026"
+    "checked": "Gecontroleerd op 20 november 2026"
   },
   "intro": {
     "title": "Rubjerg Knude begrijpen",
@@ -92,11 +92,11 @@
       },
       {
         "label": "Coördinaten",
-        "value": "57.4489, 9.7743"
+        "value": "57.44903, 9.77548"
       },
       {
         "label": "Google Maps",
-        "value": "4,8 / 5 op basis van 9.070 beoordelingen (Google Maps, gecontroleerd oktober 2026)"
+        "value": "4,8 / 5 op basis van 9.156 beoordelingen (Google Maps, gecontroleerd op 20 november 2026)"
       },
       {
         "label": "Adres",
@@ -678,7 +678,7 @@
       "title": "Reisgids Råbjerg Mile",
       "subtitle": "Noord-Europa's grootste wandelduin – een enorm zandzee bij Rubjerg Knude en Skagen."
     },
-    "intro": "Råbjerg Mile is een wandelende kustduin in Noord-Jutland, ongeveer 20–25 minuten ten oosten van Rubjerg Knude. Het is het grootste verplaatsende duin van Noord-Europa, een dramatisch vlak bar zand dat langzaam landinwaarts trekt en onderweg paden en plantages opslokt. Gratis toegankelijk en makkelijk te bewandelen, het vormt een natuurlijke aanvulling op Rubjerg Knude als een tweede duinbeleving. Deze gids behandelt toegang, wat je kunt verwachten en hoe je beide duinen op één tocht plant.",
+    "intro": "Råbjerg Mile is een wandelende kustduin in Noord-Jutland, ongeveer 55 minuten rijden ten noordoosten van Rubjerg Knude. Het is het grootste verplaatsende duin van Noord-Europa, een dramatisch vlak bar zand dat langzaam landinwaarts trekt en onderweg paden en plantages opslokt. Gratis toegankelijk en makkelijk te bewandelen, het vormt een natuurlijke aanvulling op Rubjerg Knude als een tweede duinbeleving. Deze gids behandelt toegang, wat je kunt verwachten en hoe je beide duinen op één tocht plant.",
     "sections": [
       {
         "id": "what",
@@ -698,7 +698,7 @@
       {
         "id": "getting",
         "title": "Ergens komen",
-        "body": "Råbjerg Mile bereik je met de auto vanaf de kustweg tussen Frederikshavn en Skagen, met een eigen parkeerplaats. Het ligt ongeveer 20–25 minuten van Rubjerg Knude, dus beide zijn op een halve dag te combineren."
+        "body": "Råbjerg Mile bereik je met de auto vanaf de kustweg tussen Frederikshavn en Skagen, met een eigen parkeerplaats. Vanaf Rubjerg Knude is het ongeveer 60 km over de weg. Trek voor beide plekken een dag uit."
       },
       {
         "id": "combine",
@@ -726,7 +726,7 @@
       }
     ],
     "ctaTitle": "Zie ook het vuurtorenduin",
-    "ctaText": "Rubjerg Knude met zijn verplaatste vuurtoren in het zand ligt 20–25 minuten verder. Terug naar de hoofdgids voor parkeren, openingstijden en de verplaatsing van 2019.",
+    "ctaText": "Het is ongeveer een uur rijden terug naar Rubjerg Knude. Terug naar de hoofdgids voor parkeren, openingstijden en de verplaatsing van 2019.",
     "backHome": "Terug naar de Rubjerg Knude-gids",
     "footerLink": "Reisgids Råbjerg Mile",
     "relatedTitle": "Meer reisgidsen Noord-Jutland"
@@ -895,7 +895,7 @@
       "title": "Met de auto (aanbevolen)",
       "intro": "Rijden is het praktischst en verbindt dorpen en duin in één lus.",
       "steps": [
-        "Van Aalborg: volg de E39/E17 kustroute west, dan noord richting Løkken (ca. 1 uur).",
+        "Neem vanuit Aalborg de E39 richting Hirtshals tot afrit 5 Vrå en volg de borden naar Fyrvejen. Route 55 via Løkken is het kustalternatief.",
         "Van Hjørring: kustweg via route 55 richting Løkken, dan borden Rubjerg Knude (ca. 25 min).",
         "Zet navigatie op 'Fyrvejen 110, 9800 Løkken' in plaats van de toren.",
         "Parkeer op het hoofdterrein; naar de vuurtoren is 1,2–1,5 km te voet door zand."

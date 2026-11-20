@@ -18,11 +18,11 @@
     "title": "Rubjerg Knude",
     "subtitle": "A North Sea lighthouse, wandering dune and eroding cliff landscape in Northern Denmark",
     "rating": "4.8",
-    "reviewCount": "9,070 reviews",
+    "reviewCount": "9,156 reviews",
     "hours": "Open 24/7 · free entry",
     "openMaps": "Open in Google Maps",
     "source": "Google Maps",
-    "checked": "Checked October 2026"
+    "checked": "Checked November 20, 2026"
   },
   "intro": {
     "title": "Discover Rubjerg Knude",
@@ -92,11 +92,11 @@
       },
       {
         "label": "Coordinates",
-        "value": "57.4489, 9.7743"
+        "value": "57.44903, 9.77548"
       },
       {
         "label": "Google Maps rating",
-        "value": "4.8 / 5 based on 9,070 reviews (Google Maps, checked October 2026)"
+        "value": "4.8 / 5 based on 9,156 reviews (Google Maps, checked November 20, 2026)"
       },
       {
         "label": "Address",
@@ -678,7 +678,7 @@
       "title": "Råbjerg Mile Travel Guide",
       "subtitle": "Northern Europe's largest migrating dune — a vast sea of sand near Rubjerg Knude and Skagen."
     },
-    "intro": "Råbjerg Mile is a migrating coastal dune in North Jutland, about 20–25 minutes east of Rubjerg Knude. It is the largest moving dune in Northern Europe, a dramatic expanse of bare sand that slowly travels inland, swallowing paths and plantations as it goes. Free to visit and easy to walk, it pairs naturally with Rubjerg Knude as a second dune experience. This guide covers access, what to expect and how to plan both dunes in one trip.",
+    "intro": "Råbjerg Mile is a migrating coastal dune in North Jutland, about a 55-minute drive northeast of Rubjerg Knude. It is the largest moving dune in Northern Europe, a dramatic expanse of bare sand that slowly travels inland, swallowing paths and plantations as it goes. Free to visit and easy to walk, it pairs naturally with Rubjerg Knude as a second dune experience. This guide covers access, what to expect and how to plan both dunes in one trip.",
     "sections": [
       {
         "id": "what",
@@ -698,7 +698,7 @@
       {
         "id": "getting",
         "title": "Getting there",
-        "body": "Råbjerg Mile is reached by car from the coastal road between Frederikshavn and Skagen, with a dedicated parking area. It is roughly 20–25 minutes from Rubjerg Knude, so the two are easy to combine in a half day."
+        "body": "Råbjerg Mile is reached by car from the coastal road between Frederikshavn and Skagen, with a dedicated parking area. It is about 60 km by road from Rubjerg Knude. Allow a full outing to visit both sites."
       },
       {
         "id": "combine",
@@ -726,7 +726,7 @@
       }
     ],
     "ctaTitle": "See the lighthouse dune too",
-    "ctaText": "Rubjerg Knude, with its relocated lighthouse in the sand, is 20–25 minutes away. Return to the main guide for parking, opening hours and the 2019 relocation story.",
+    "ctaText": "Rubjerg Knude is about an hour away by car. Return to the main guide for parking, opening hours and the 2019 relocation story.",
     "backHome": "Back to Rubjerg Knude guide",
     "footerLink": "Råbjerg Mile Guide",
     "relatedTitle": "More North Jutland guides"
@@ -895,7 +895,7 @@
       "title": "By car (recommended)",
       "intro": "Driving is the most practical option and links the villages and the dune in one loop.",
       "steps": [
-        "From Aalborg: follow the E39/E17 coastal route west, then north toward Løkken (about 1 hour).",
+        "From Aalborg, take the E39 towards Hirtshals to exit 5 Vrå, then follow signs for Fyrvejen. Route 55 via Løkken is the coastal alternative.",
         "From Hjørring: take the coastal road via route 55 toward Løkken, then follow signs to Rubjerg Knude (about 25 minutes).",
         "Set navigation to 'Fyrvejen 110, 9800 Løkken' rather than the tower.",
         "Park at the main area; the lighthouse is a 1.2–1.5 km walk across sand."

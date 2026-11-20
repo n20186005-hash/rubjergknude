@@ -1,0 +1,362 @@
+{
+  "rubjerg-klitplantage": {
+    "history": "The dune plantation grew out of efforts to hold back windblown sand. Today its sheltered tracks offer a very different walk from the open dune by the lighthouse.",
+    "visit": "Look for the transition from woodland to sea-buckthorn scrub. The Danish Nature Agency notes orchids in the plantation, so watch from the path and leave plants undisturbed.",
+    "access": "Use the signed entrance off Rubjergvej. Follow the forest tracks for an out-and-back walk, or use the mapped North Sea Trail for a longer connection.",
+    "photoTip": "Frame the shadowed trees against the bright edge of the dunes from a forest track.",
+    "faq": [
+      {
+        "q": "Can I visit on a windy day?",
+        "a": "The trees offer some shelter, but check official warnings and avoid the woodland during strong winds."
+      }
+    ]
+  },
+  "strandfogedgaarden": {
+    "history": "This former strand warden’s farm gives the coastal landscape a human history. The role connected the community ashore with wrecks and incidents at sea.",
+    "visit": "The Rubjerg Knude exhibition closed in 2019. The farm buildings and sandy farmland help explain where the warden worked. Treat the farm as an exterior stop unless a current public opening is confirmed.",
+    "access": "Navigate to Strandfogedgården in Rubjerg. Observe from the public approach and respect any private access signs.",
+    "photoTip": "Frame the courtyard and low farm buildings from a public approach.",
+    "faq": [
+      {
+        "q": "Is this the lighthouse museum?",
+        "a": "It is a separate farm site inland. Its former Rubjerg Knude exhibition closed in 2019."
+      }
+    ]
+  },
+  "maarup-kirkegaard": {
+    "history": "The medieval Mårup Church stood close to a retreating cliff and was taken down in stages. The cemetery marks the former church site.",
+    "visit": "Read the site information and pause by the graves, then compare the coastal setting with Rubjerg Knude. The landscape offers a direct view of what erosion meant for the village.",
+    "access": "Approach on Mårup Kirkevej from Lønstrup. Keep to designated access and behind any barriers, as the cliff edge can change after rain or storms.",
+    "photoTip": "Use the inland side of the cemetery for a wide view that keeps the graves and coast in context.",
+    "faq": [
+      {
+        "q": "Will I see a standing church?",
+        "a": "The former church has been dismantled. The cemetery and its coastal setting are the reasons to visit."
+      }
+    ]
+  },
+  "rubjerg-gamle-kirkegaard": {
+    "history": "The old cemetery marks the church site of Rubjerg itself. It belongs to a different parish history from the former Mårup Church near Lønstrup.",
+    "visit": "See how the small burial site sits in the landscape. Naturstyrelsen describes an interpretation post here, which helps connect the site with the history of drifting sand.",
+    "access": "Use the marked approach to Rubjerg Gamle Kirkegård south of the plantation. Check the agency map before setting out from either lighthouse car park.",
+    "photoTip": "Photograph the outline of the enclosed site from its approach and leave space around individual graves.",
+    "faq": [
+      {
+        "q": "Is it the same place as Mårup cemetery?",
+        "a": "No. Search for Rubjerg Gamle Kirkegård for this visit and Mårup Kirkegård for the coastal church site near Lønstrup."
+      }
+    ]
+  },
+  "vennebjerg-moelle": {
+    "history": "Vennebjerg Mølle is a restored windmill set above the surrounding farmland. It shows how a local mill used an exposed inland position for wind power.",
+    "visit": "Look at the cap and sails as well as the hilltop setting. A working demonstration depends on the mill’s programme.",
+    "access": "Follow the mill’s own directions to Vennebjerg and walk from the signed approach. Check the operator calendar before planning an interior visit.",
+    "photoTip": "From the foot of the hill, place the mill above an open strip of farmland to show its position.",
+    "faq": [
+      {
+        "q": "Can I watch milling?",
+        "a": "Look for an announced demonstration on the mill’s site. Exterior viewing is the simpler option when the mill is closed."
+      }
+    ]
+  },
+  "skallerup-kirke": {
+    "history": "Skallerup Kirke is a parish church in the settlement east of the coast. Its churchyard and masonry give a different view of the area from the beach at Skallerup Klit.",
+    "visit": "Walk around the church from the designated entrance and allow space for services. The church pairs well with a short inland stop at Vennebjerg.",
+    "access": "Use Skallerup Kirke in the map search, not the coastal resort. Check the parish timetable before planning to go inside.",
+    "photoTip": "Frame the church and its churchyard wall from the entrance and respect people visiting graves.",
+    "faq": [
+      {
+        "q": "Who can confirm access?",
+        "a": "The Skallerup–Vennebjerg–Mårup parish office can confirm services and churchyard arrangements."
+      }
+    ]
+  },
+  "lonstrup-strand": {
+    "history": "Lønstrup’s fishing settlement meets the sea at this stretch of coast. Groynes divide the shore into small sections below the village.",
+    "visit": "Descend through the village to look at the shore from a signed access point. Notice the contrast between the sheltered pockets and the exposed water beyond the groynes.",
+    "access": "Walk down from central Lønstrup. Check wind, surf and local signs before using the beach and keep away from unstable cliff faces.",
+    "photoTip": "From a public access point, use the groynes as leading lines toward the horizon.",
+    "faq": [
+      {
+        "q": "Is the beach the same visit as the village?",
+        "a": "The shore is reached on foot from central Lønstrup and can be visited on its own. Allow extra time if you plan to stop at the galleries uphill."
+      }
+    ]
+  },
+  "furreby-kystbatteri": {
+    "history": "The concrete remains at Furreby formed part of the German coastal defences of the Second World War. Erosion has changed the relationship between the bunkers, bluff and beach.",
+    "visit": "See the shapes and positions of the remains from a safe distance. Use the local bunker trail information to understand how they once fitted together.",
+    "access": "Use signed public access north of central Løkken and check tides and surf first. Do not climb, enter unstable structures or walk against the foot of an eroding cliff.",
+    "photoTip": "Use a long view from open beach with the structures and bluff in one frame.",
+    "faq": [
+      {
+        "q": "Can I enter the bunkers?",
+        "a": "Plan to view them from outside. Access and structural conditions vary, and surf can cut off parts of the beach."
+      }
+    ]
+  },
+  "noerre-lyngby-strand": {
+    "history": "At Nørre Lyngby the sea cuts through deposits with evidence of the area’s ancient landscapes. It is a coastal geology stop between Løkken and Rubjerg Knude.",
+    "visit": "Observe the coloured layers from a distance and compare the bluff profile with the dune at Rubjerg. Walk the open beach only as far as conditions allow.",
+    "access": "Use the signed Nørre Lyngby beach access. Turn back if surf reaches the base of the cliff and stay clear of fresh falls.",
+    "photoTip": "A side-on view from the open beach brings out the bands of sediment without approaching the bluff.",
+    "faq": [
+      {
+        "q": "Can I search for fossils in the bluff?",
+        "a": "Keep away from the cliff and check local rules. A good view of the layers is possible without digging or climbing."
+      }
+    ]
+  },
+  "boerglum-kloster": {
+    "history": "Børglum Kloster preserves a medieval religious complex on a hill inland from Løkken. Its church, courtyard and exhibitions trace different periods of the estate.",
+    "visit": "Start in the courtyard and use the visitor route to connect the church and exhibitions open on the day. Allow time to look back over the fields.",
+    "access": "Navigate to the monastery’s visitor entrance at Børglum. Check current opening, ticket prices and room accessibility on the operator’s site.",
+    "photoTip": "From the visitor route use the courtyard to frame building wings, or photograph the hill from an authorised approach.",
+    "faq": [
+      {
+        "q": "Can I use the same ticket as another museum?",
+        "a": "Børglum Kloster runs its own visitor operation. Check its ticket terms before planning the day."
+      }
+    ]
+  },
+  "loekken-mole": {
+    "history": "Løkken Mole reaches into the North Sea where the town’s long fishing tradition meets today’s beach and surf activity.",
+    "visit": "Start on the shore by the pier and look back at the beach, where the sea and town are unusually close. Watch conditions before walking any exposed part of the structure.",
+    "access": "Walk from the town centre via the seafront access. Follow signs and stop on land if waves are breaking across the pier.",
+    "photoTip": "Shoot from dry ground with the pier pointing into the horizon. A wider frame includes the beach activity.",
+    "faq": [
+      {
+        "q": "Can I walk to the end in rough seas?",
+        "a": "Stay ashore if waves wash over the pier or a sign restricts access. The shore still gives a clear view."
+      }
+    ]
+  },
+  "loekken-museum": {
+    "history": "Løkken Museum tells the story of a town shaped by the sea and coastal trade. An indoor visit gives context to the places you can see along the shore.",
+    "visit": "Look for material on trade and local life before comparing the town centre with the mole and fishing beach.",
+    "access": "Find Løkken Museum in the town centre and check the current seasonal opening before walking over from the beach.",
+    "photoTip": "Photograph the street frontage from the pavement and ask staff about photography inside.",
+    "faq": [
+      {
+        "q": "Is the museum open whenever the beach is accessible?",
+        "a": "The museum has its own opening calendar. Look up confirmed dates before combining the two visits."
+      }
+    ]
+  },
+  "loekken-strand": {
+    "history": "The rows of white beach huts reflect Løkken’s history as a seaside resort. The broad sand also connects to the town’s fishing and surf culture.",
+    "visit": "Walk toward the huts and mole from the town access. The huts are seasonal and private, so look from the open beach and leave doors and terraces clear.",
+    "access": "Walk down to the beach from central Løkken. Check flags, traffic signs and water conditions before choosing where to stop.",
+    "photoTip": "Line up the hut fronts from the open sand and leave space for the sky and dunes.",
+    "faq": [
+      {
+        "q": "Are the white huts there all year?",
+        "a": "They are a seasonal feature. Check local tourism information if the huts are the reason for the visit."
+      }
+    ]
+  },
+  "vendsyssel-kunstmuseum": {
+    "history": "Vendsyssel Kunstmuseum presents visual art connected with the region as well as temporary exhibitions. Its central Hjørring building makes it a useful complement to the coast on an indoor day.",
+    "visit": "Pick one exhibition and allow time to follow its themes before moving on. The official programme explains what is on view.",
+    "access": "Walk from Hjørring station through central town. Check opening, admission and access information with the museum before travel.",
+    "photoTip": "Photograph the approach from a public pavement and follow the current exhibition’s indoor photo rules.",
+    "faq": [
+      {
+        "q": "Will the same artworks always be on view?",
+        "a": "Exhibitions change. Look up the museum programme for your date."
+      }
+    ]
+  },
+  "vendsyssel-historiske-museum": {
+    "history": "The Hjørring branch of Vendsyssel Historiske Museum interprets local history through objects and buildings. It serves as an introduction before visiting the museum’s other locations in the region.",
+    "visit": "Start at the visitor entrance and ask which displays are open. Pair the displays with a walk through Hjørring’s older streets.",
+    "access": "Use the Hjørring location on the museum’s official site to plan the walk from the centre. Check the correct branch and visitor hours.",
+    "photoTip": "Frame the museum frontage and neighbouring townscape from public ground.",
+    "faq": [
+      {
+        "q": "Is this the same site as Hirtshals Museum?",
+        "a": "The two sites belong to the same museum organisation but have separate entrances, exhibits and schedules."
+      }
+    ]
+  },
+  "sankt-catharinae-kirke": {
+    "history": "Sankt Catharinæ Kirke is one of Hjørring’s historic churches. Its prominent brick exterior anchors a walk through the older part of town.",
+    "visit": "Take time outside to look at the tower and brickwork. Go inside only during posted access and leave room for worshippers.",
+    "access": "Navigate by the full church name, since several historic churches stand nearby. Walk from the city centre and check the parish calendar.",
+    "photoTip": "Stand back on the public side for a view of the tower and the rest of the church together.",
+    "faq": [
+      {
+        "q": "Can I visit during a service?",
+        "a": "Check the church calendar and plan sightseeing outside services."
+      }
+    ]
+  },
+  "svanelunden": {
+    "history": "Svanelunden is a town park with a pond, paths and wooded edges. Its established planting gives a quieter view of Hjørring than the shopping streets.",
+    "visit": "Build a short walk around the water on paths that suit your footing. Look across the pond to see the mix of open banks and trees.",
+    "access": "Walk from central Hjørring to a signed park entrance. Keep to the paths near the banks and turn back if ice or mud makes the route difficult.",
+    "photoTip": "Try a low view over the water from the path for tree reflections, especially in still conditions.",
+    "faq": [
+      {
+        "q": "Do I need to complete a circuit?",
+        "a": "No. An out-and-back walk from one entrance is an easy way to adapt the visit."
+      }
+    ]
+  },
+  "hjoerring-bjerge": {
+    "history": "Hjørring Bjerge is a hilly, open landscape at the edge of town. Its paths and slopes give a view of inland Vendsyssel beyond the coastline.",
+    "visit": "Choose a signed route that matches your time and climb one of the viewpoints if conditions suit. Expect steeper, less even ground than in a town park.",
+    "access": "Use an official map to pick a trail entrance. Check your return route before following any long loop.",
+    "photoTip": "Photograph across the slopes from a path junction. The changing light shows the shape of the hills.",
+    "faq": [
+      {
+        "q": "Is it a level walk?",
+        "a": "Paths vary and several climbs are steep. Choose the access and turnaround point with your group in mind."
+      }
+    ]
+  },
+  "hirtshals-fyr": {
+    "history": "Hirtshals Fyr stands on a rise above the harbour. The nineteenth-century lighthouse offers a different perspective on navigation and the coast from Rubjerg Knude.",
+    "visit": "Begin outside and look for the harbour and coastline below. Check in advance whether the tower and any exhibition rooms are open.",
+    "access": "Use the lighthouse entrance rather than the ferry terminal as your destination. From town, allow for an uphill walk.",
+    "photoTip": "Frame the tower above the low coastal vegetation from the walking approach.",
+    "faq": [
+      {
+        "q": "Is tower access guaranteed?",
+        "a": "No. Check the lighthouse’s current opening arrangements before travelling for the climb."
+      }
+    ]
+  },
+  "bunkermuseet-hirtshals": {
+    "history": "The Bunker Museum preserves a large Second World War defence position beside Hirtshals Fyr. Trenches and concrete structures show how the position was laid out across the dunes.",
+    "visit": "Follow the marked route and read the information boards. The historical context and the open dune setting are both worth time.",
+    "access": "Start at the signed museum entrance by the lighthouse. Paths are uneven, and any guided access follows the museum’s own arrangements.",
+    "photoTip": "Capture a trench and bunker together from a marked route to show the layout without entering closed features.",
+    "faq": [
+      {
+        "q": "Is the Bunker Museum the lighthouse?",
+        "a": "They are neighbours with different subjects. You can plan both in one stop and check their access separately."
+      }
+    ]
+  },
+  "nordsoeen-oceanarium": {
+    "history": "Nordsøen Oceanarium interprets North Sea marine life in Hirtshals. A large central aquarium connects the displays to the water off this coast.",
+    "visit": "Choose feeding or interpretation sessions from the day’s programme, with time for quieter displays between them.",
+    "access": "Use the official entrance on Willemoesvej and check tickets, programme timings and transport on the operator’s site. Avoid confusing the venue with the ferry port.",
+    "photoTip": "For an aquarium photograph, stand back, keep flash off and use the tank as the light source where permitted.",
+    "faq": [
+      {
+        "q": "Do I need to book around a feeding?",
+        "a": "Use the current programme to set priorities. Sessions and admission details can vary by date."
+      }
+    ]
+  },
+  "hirtshals-museum": {
+    "history": "Hirtshals Museum occupies a former fisherman’s home. Its scale helps explain the relationship between household life, fishing and the town’s harbour.",
+    "visit": "Use the displays to put buildings and work around the port in context. Then walk into the town centre for a comparison with present-day Hirtshals.",
+    "access": "Use the museum’s own directions and opening calendar. It is a different address from the Bunker Museum by the lighthouse.",
+    "photoTip": "Photograph the domestic scale of the building from the street and check before taking pictures inside.",
+    "faq": [
+      {
+        "q": "Which museum covers everyday fishing life?",
+        "a": "Start with Hirtshals Museum. The separate Bunker Museum deals with the wartime defences."
+      }
+    ]
+  },
+  "husmoderstranden": {
+    "history": "Husmoderstranden is a city beach beside the harbour approaches in Hirtshals. The town, ferries and open sea are all visible in a short visit.",
+    "visit": "Use the promenade approach and watch how the beach changes with the wakes and wind. Stay away from harbour structures and obey beach signs.",
+    "access": "Walk from town via the waterfront promenade to Husmoderstranden. Check sea conditions before getting close to the water.",
+    "photoTip": "Use the lighthouse or harbour as a distant reference from the dry sand.",
+    "faq": [
+      {
+        "q": "Is it a harbour viewpoint or a beach?",
+        "a": "It is a beach with a harbour setting. Ports and nearby working areas have their own access rules."
+      }
+    ]
+  },
+  "tornby-koebmandsgaard": {
+    "history": "Tornby’s old merchant’s house records the coastal trade between northern Jutland and Norway. Its historic shop is much smaller in scale than the maritime institutions in Hirtshals.",
+    "visit": "Look at the shop and farm setting together to understand how trade fitted into everyday life. The operator’s programme governs what is open.",
+    "access": "Navigate to Tornby Gamle Købmandsgård. Use the visitor approach and check opening before adding it to a forest or beach outing.",
+    "photoTip": "From the public approach, show the entrance and low building in the same frame.",
+    "faq": [
+      {
+        "q": "Can I visit the old shop on any date?",
+        "a": "Opening follows the operator’s calendar. Check ahead before planning an indoor visit."
+      }
+    ]
+  },
+  "tornby-klitplantage": {
+    "history": "Tornby Klitplantage is a managed dune woodland where earlier planting and exposed coastal ground meet. The paths connect darker stands of trees with lighter sandy openings.",
+    "visit": "Choose a marked path and look for changes in the vegetation on the way toward the dunes. Forest walking and a beach visit can be planned separately.",
+    "access": "Use the Nature Agency’s map for a suitable entrance. Check signs before following a through route and stay on designated paths in sensitive habitat.",
+    "photoTip": "Photograph the change in light where the path leaves the trees rather than stepping into the dune vegetation.",
+    "faq": [
+      {
+        "q": "Can I include Tornby Strand?",
+        "a": "Yes if access and weather suit. Check the official trail map for the particular route between woodland and beach."
+      }
+    ]
+  },
+  "tornby-strand": {
+    "history": "Tornby Strand opens onto the North Sea west of the plantation. The dune-backed beach makes the transition from sheltered woodland to exposed coast easy to see.",
+    "visit": "Choose one short stretch of open shore and make the dunes the focus of the return view. Follow signs for traffic and bathing.",
+    "access": "Use the marked beach access in Tornby and check surf and wind. Stay out of dune restoration areas and keep clear of any vehicle lane.",
+    "photoTip": "Frame the dune line from the beach away from traffic. Overcast light can show details in the sand.",
+    "faq": [
+      {
+        "q": "Is this where the plantation trails start?",
+        "a": "The beach and plantation have separate access points. Use the official map to choose a trailhead if woodland walking is the priority."
+      }
+    ]
+  },
+  "tversted-strand": {
+    "history": "Tversted Strand is a broad North Sea beach shaped by the wind and backed by dunes. Its approach from the village makes the sea a natural endpoint for a walk.",
+    "visit": "Pause at the point where the village route meets the dunes, then choose a stretch of sand based on the wind. Look for beach signs before bathing.",
+    "access": "Follow the signed beach approach from Tversted. Keep to designated access through the dunes and check bathing and vehicle notices.",
+    "photoTip": "Use the sandy approach or dune edge on the marked path to frame the open width of the beach.",
+    "faq": [
+      {
+        "q": "Are the lakes at the village beach?",
+        "a": "No. Tverstedsøerne is a separate inland stop in Tversted Klitplantage."
+      }
+    ]
+  },
+  "tverstedsoeerne": {
+    "history": "Tverstedsøerne are lakes in the forested dunes of Tversted Klitplantage. The water and wooded margins offer a sheltered landscape within a short trip of the coast.",
+    "visit": "Start with a view across the water. Continue on the established trails if you want a longer woodland walk, allowing for wet paths after rain.",
+    "access": "Use the marked lake access in the plantation and refer to the Nature Agency route map before leaving the lakeside paths.",
+    "photoTip": "Photograph the trees reflected in calm water from a signed path, keeping clear of soft banks.",
+    "faq": [
+      {
+        "q": "Should I navigate to Tversted Strand?",
+        "a": "Use Tverstedsøerne as the destination. The coastal beach approach does not take you directly to the lakes."
+      }
+    ]
+  },
+  "uggerby-klitplantage": {
+    "history": "Uggerby Klitplantage occupies dunes on the coast between Hirtshals and Tversted. Its planted woodland and open sand record different approaches to stabilising and managing the coast.",
+    "visit": "Take a short walk that includes both woodland and an opening if the official trail map allows. Notice how quickly shelter changes at the forest edge.",
+    "access": "Select a signed entrance on the Nature Agency map. Keep to authorised routes near the river and dunes and adjust the walk after heavy rain.",
+    "photoTip": "Use a sandy path opening to frame the transition between woodland and coastal grass.",
+    "faq": [
+      {
+        "q": "Can I count on walking right along the river?",
+        "a": "Use the official map and local signs. Water levels and footing can affect the available route."
+      }
+    ]
+  },
+  "mosbjerg-landbrugsmuseum": {
+    "history": "The Landscape and Agriculture Museum in Mosbjerg connects the hilly interior of Vendsyssel to its farming history. Bjørnager and Højen are the two estate sites described by the museum.",
+    "visit": "Use site information to link the buildings, fields and slopes. The distance and terrain between features make footwear useful even on a short visit.",
+    "access": "Choose the arrival point recommended by Vendsyssel Historiske Museum. Confirm building access and opening separately from outdoor walking possibilities.",
+    "photoTip": "Photograph across the contours of the cultivated land, or frame a farm building from a marked route.",
+    "faq": [
+      {
+        "q": "Do all the buildings open together?",
+        "a": "Check the operator’s current information for individual access and open hours."
+      }
+    ]
+  }
+}

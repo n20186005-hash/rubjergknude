@@ -18,11 +18,11 @@
     "title": "Rubjerg Knude",
     "subtitle": "Fyrtårn, vandreklit og erosionsklint på Nordjyllands vestkyst",
     "rating": "4.8",
-    "reviewCount": "9.070 anmeldelser",
+    "reviewCount": "9.156 anmeldelser",
     "hours": "Åbent hele døgnet · gratis adgang",
     "openMaps": "Åbn i Google Maps",
     "source": "Google Maps",
-    "checked": "Kontrolleret oktober 2026"
+    "checked": "Kontrolleret 20. november 2026"
   },
   "intro": {
     "title": "Forstå Rubjerg Knude",
@@ -92,11 +92,11 @@
       },
       {
         "label": "Koordinater",
-        "value": "57.4489, 9.7743"
+        "value": "57.44903, 9.77548"
       },
       {
         "label": "Google Maps",
-        "value": "4,8 / 5 baseret på 9.070 anmeldelser (Google Maps, kontrolleret oktober 2026)"
+        "value": "4,8 / 5 baseret på 9.156 anmeldelser (Google Maps, kontrolleret 20. november 2026)"
       },
       {
         "label": "Adresse",
@@ -678,7 +678,7 @@
       "title": "Rejseguide Råbjerg Mile",
       "subtitle": "Nordeuropas største vandrende klit – et vældigt sandhav ved Rubjerg Knude og Skagen."
     },
-    "intro": "Råbjerg Mile er en vandrende kystklit i Nordjylland, cirka 20–25 minutter øst for Rubjerg Knude. Den er den største vandrende klit i Nordeuropa, et dramatisk stykke bar sand, der langsomt vandrer ind i landet og opsluger stier og plantager undervejs. Fri at besøge og let at gå på, den passer naturligt sammen med Rubjerg Knude som en anden klitoplevelse. Denne guide dækker adgang, hvad man kan forvente, og hvordan man planlægger begge klitter på én tur.",
+    "intro": "Råbjerg Mile er en vandrende kystklit i Nordjylland, cirka 55 minutters kørsel nordøst for Rubjerg Knude. Den er den største vandrende klit i Nordeuropa, et dramatisk stykke bar sand, der langsomt vandrer ind i landet og opsluger stier og plantager undervejs. Fri at besøge og let at gå på, den passer naturligt sammen med Rubjerg Knude som en anden klitoplevelse. Denne guide dækker adgang, hvad man kan forvente, og hvordan man planlægger begge klitter på én tur.",
     "sections": [
       {
         "id": "what",
@@ -698,7 +698,7 @@
       {
         "id": "getting",
         "title": "Transport",
-        "body": "Råbjerg Mile nås i bil fra kystvejen mellem Frederikshavn og Skagen med en dedikeret parkeringsplads. Den ligger cirka 20–25 minutter fra Rubjerg Knude, så de to let kombineres på en halv dag."
+        "body": "Råbjerg Mile nås i bil fra kystvejen mellem Frederikshavn og Skagen med en dedikeret parkeringsplads. Turen fra Rubjerg Knude er omkring 60 km ad vej. Afsæt en hel udflugt til begge stop."
       },
       {
         "id": "combine",
@@ -726,7 +726,7 @@
       }
     ],
     "ctaTitle": "Se også fyr-klitten",
-    "ctaText": "Rubjerg Knude med sit flyttede fyr i sandet ligger 20–25 minutter væk. Vend tilbage til hovedguiden for parkering, åbningstider og Flytningen i 2019.",
+    "ctaText": "Der er cirka en times kørsel tilbage til Rubjerg Knude. Vend tilbage til hovedguiden for parkering, åbningstider og Flytningen i 2019.",
     "backHome": "Tilbage til Rubjerg Knude-guiden",
     "footerLink": "Rejseguide Råbjerg Mile",
     "relatedTitle": "Flere rejseguider Nordjylland"
@@ -895,7 +895,7 @@
       "title": "Med bil (anbefales)",
       "intro": "Kørsel er den mest praktiske løsning og binder landsbyer og klitter i en rute.",
       "steps": [
-        "Fra Aalborg: følg E39/E17 kystruten vestpå, derefter nordpå mod Løkken (ca. 1 time).",
+        "Fra Aalborg: tag E39 mod Hirtshals til afkørsel 5 Vrå, og følg skiltene mod Fyrvejen. Vej 55 via Løkken er kystalternativet.",
         "Fra Hjørring: kystvejen via rute 55 mod Løkken, derefter skilte til Rubjerg Knude (ca. 25 min).",
         "Sæt navigation til 'Fyrvejen 110, 9800 Løkken' frem for tårnet.",
         "Parkér ved hovedområdet; fyret er 1,2–1,5 km til fods gennem sand."

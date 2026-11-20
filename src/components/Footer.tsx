@@ -1,6 +1,7 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
-import { getLocalePath, GUIDES } from '@/i18n/config';
+import { getLocalePath, GUIDES, type AppLocale } from '@/i18n/config';
+import labels from '@/content/nearby/labels';
 import { LAST_UPDATED } from '@/data/facts';
 import { TOPIC_ORDER, getTopicLabel, topicSlugForLocale } from '@/content/topics';
 
@@ -68,6 +69,9 @@ export default function Footer() {
             {t('topicsTitle')}
           </h4>
           <div className="flex flex-wrap gap-3 text-sm">
+            <a href={getLocalePath(locale, '/nearby')} className="hover:underline" style={{ color: 'var(--accent)' }}>
+              {labels[locale as AppLocale].menu}
+            </a>
             {TOPIC_ORDER.map((slug) => (
               <a
                 key={slug}

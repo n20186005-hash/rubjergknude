@@ -4,6 +4,7 @@ import { siteConfig, getLocalePath, defaultLocale } from '@/i18n/config';
 import { TOPIC_ORDER, topicSlugForLocale } from '@/content/topics';
 import type { TopicSlug } from '@/content/topics';
 import { LAST_UPDATED } from '@/data/facts';
+import { getPlacePath, nearbyPath, nearbyPlaces, nearbyReviewed } from '@/content/nearby';
 
 const lastModified = new Date(LAST_UPDATED);
 
@@ -16,7 +17,8 @@ function localizedPath(locale: string, basePath: string) {
   return basePath;
 }
 
-const basePaths = [...Object.values(routing.pathnames), ...TOPIC_ORDER.map((slug) => `/${slug}`)];
+const nearbyPaths = [nearbyPath, ...nearbyPlaces.map(({ slug }) => getPlacePath(slug))];
+const basePaths = [...Object.values(routing.pathnames), ...TOPIC_ORDER.map((slug) => `/${slug}`), ...nearbyPaths];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return basePaths.flatMap((basePath) =>
@@ -24,7 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       const path = localizedPath(locale, basePath);
       return {
         url: `${siteConfig.baseUrl}${getLocalePath(locale, path)}`,
-        lastModified,
+        lastModified: nearbyPaths.includes(basePath) ? new Date(nearbyReviewed) : lastModified,
         changeFrequency: 'monthly' as const,
         priority: basePath === '/' ? 1 : 0.6,
         alternates: {

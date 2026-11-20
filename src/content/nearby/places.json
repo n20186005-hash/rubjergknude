@@ -1,0 +1,406 @@
+[
+  {
+    "slug": "rubjerg-klitplantage",
+    "group": "rubjerg",
+    "name": "Rubjerg Klitplantage",
+    "locality": "Rubjerg",
+    "kind": "nature",
+    "manager": "agency",
+    "sources": [
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/rubjerg-knude-og-rubjerg-klitplantage",
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/rubjerg-knude-og-rubjerg-klitplantage/praktisk",
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/rubjerg-knude-og-rubjerg-klitplantage/dyr-og-planter"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "strandfogedgaarden",
+    "group": "rubjerg",
+    "name": "Strandfogedgården",
+    "locality": "Rubjerg",
+    "kind": "museum",
+    "manager": null,
+    "sources": [
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/rubjerg-knude-og-rubjerg-klitplantage/oplevelser",
+      "https://arkiv.dk/vis/5709897"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "maarup-kirkegaard",
+    "group": "rubjerg",
+    "name": "Mårup Kirkegård",
+    "locality": "Lønstrup",
+    "kind": "heritage",
+    "manager": null,
+    "sources": [
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/rubjerg-knude-og-rubjerg-klitplantage/historie",
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/rubjerg-knude-og-rubjerg-klitplantage/praktisk"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "rubjerg-gamle-kirkegaard",
+    "group": "rubjerg",
+    "name": "Rubjerg Gamle Kirkegård",
+    "locality": "Rubjerg",
+    "kind": "heritage",
+    "manager": null,
+    "sources": [
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/rubjerg-knude-og-rubjerg-klitplantage/oplevelser",
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/rubjerg-knude-og-rubjerg-klitplantage/praktisk"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "vennebjerg-moelle",
+    "group": "rubjerg",
+    "name": "Vennebjerg Mølle",
+    "locality": "Vennebjerg",
+    "kind": "heritage",
+    "manager": null,
+    "sources": [
+      "https://vennebjerg-moelle.dk/"
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Vennebjerg_M%C3%B8lle.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Vennebjerg_M%C3%B8lle.JPG",
+      "author": "Sarrus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "slug": "skallerup-kirke",
+    "group": "rubjerg",
+    "name": "Skallerup Kirke",
+    "locality": "Skallerup",
+    "kind": "heritage",
+    "manager": "skallerup-parish",
+    "sources": [
+      "https://www.svmpastorat.dk/kontakt/medarbejdere"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "lonstrup-strand",
+    "group": "rubjerg",
+    "name": "Lønstrup Strand",
+    "locality": "Lønstrup",
+    "kind": "beach",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/loenstrup-strand-gdk595182"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "furreby-kystbatteri",
+    "group": "loekken",
+    "name": "Furreby Kystbatteri",
+    "locality": "Furreby, Løkken",
+    "kind": "heritage",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/bunkerne-i-loekken-og-omegn-gdk1104104"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "noerre-lyngby-strand",
+    "group": "loekken",
+    "name": "Nørre Lyngby Strand",
+    "locality": "Nørre Lyngby",
+    "kind": "beach",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/nr-lyngby-strand-gdk739220",
+      "https://researchprofiles.ku.dk/da/publications/late-palaeolithic-n%C3%B8rre-lyngby-a-northern-outpost-close-to-the-we/"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "boerglum-kloster",
+    "group": "loekken",
+    "name": "Børglum Kloster",
+    "locality": "Børglum",
+    "kind": "heritage",
+    "manager": "abbey",
+    "sources": [
+      "https://www.boerglumkloster.dk/"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "loekken-mole",
+    "group": "loekken",
+    "name": "Løkken Mole",
+    "locality": "Løkken",
+    "kind": "beach",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/loekken-strand-gdk738248"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "loekken-museum",
+    "group": "loekken",
+    "name": "Løkken Museum",
+    "locality": "Løkken",
+    "kind": "museum",
+    "manager": "loekken-museum",
+    "sources": [
+      "https://www.loekkenmuseum.dk/",
+      "https://www.visitnordvestkysten.dk/nordvestkysten/inspiration/kunst-og-historie-i-loekken"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "loekken-strand",
+    "group": "loekken",
+    "name": "Løkken Strand",
+    "locality": "Løkken",
+    "kind": "beach",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/loekken-strand-gdk738248"
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Beach_houses_at_lokken.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Beach_houses_at_lokken.JPG",
+      "author": "Maerten32",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "slug": "vendsyssel-kunstmuseum",
+    "group": "hjoerring",
+    "name": "Vendsyssel Kunstmuseum",
+    "locality": "Hjørring",
+    "kind": "museum",
+    "manager": "art",
+    "sources": [
+      "https://vkm.dk/"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "vendsyssel-historiske-museum",
+    "group": "hjoerring",
+    "name": "Vendsyssel Historiske Museum",
+    "locality": "Hjørring",
+    "kind": "museum",
+    "manager": "history",
+    "sources": [
+      "https://vhm.dk/museerne/"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "sankt-catharinae-kirke",
+    "group": "hjoerring",
+    "name": "Sankt Catharinæ Kirke",
+    "locality": "Hjørring",
+    "kind": "heritage",
+    "manager": "hjoerring-parish",
+    "sources": [
+      "https://www.hjorringbykirker.dk/sct-catharina-kirke/om-kirken",
+      "https://www.hjorringbykirker.dk/kontakt/abningstider"
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/SaintCatherinechurch.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:SaintCatherinechurch.jpg",
+      "author": "Hjart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "slug": "svanelunden",
+    "group": "hjoerring",
+    "name": "Svanelunden",
+    "locality": "Hjørring",
+    "kind": "nature",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/svanelunden-gdk643031",
+      "https://vhm.dk/den-gode-historie/hjoerringhistorier/svanelunden-og-folkeparken/"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "hjoerring-bjerge",
+    "group": "hjoerring",
+    "name": "Hjørring Bjerge",
+    "locality": "Hjørring",
+    "kind": "nature",
+    "manager": null,
+    "sources": [
+      "https://www.visitdenmark.dk/danmark/explore/hjoerring-bjerge-gdk642434",
+      "https://hjoerring.dk/borger/tilflytter/byer-og-landsbyer/naturskoenne-steder-du-skal-besoege"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "hirtshals-fyr",
+    "group": "hirtshals",
+    "name": "Hirtshals Fyr",
+    "locality": "Hirtshals",
+    "kind": "heritage",
+    "manager": "fyr-foundation",
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/feriesteder/top-oplevelser-i-hirtshals-tornby-tversted",
+      "https://www.proff.dk/firma/hirtshals-fyr-fond/hirtshals/historiske-steder-og-bygninger/0IP2NDI10NY"
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hirtshals_Fyr.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hirtshals_Fyr.jpg",
+      "author": "Siegbert Brey",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "slug": "bunkermuseet-hirtshals",
+    "group": "hirtshals",
+    "name": "Bunkermuseet Hirtshals",
+    "locality": "Hirtshals",
+    "kind": "museum",
+    "manager": "history",
+    "sources": [
+      "https://vhm.dk/museerne/bunkermuseet/"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "nordsoeen-oceanarium",
+    "group": "hirtshals",
+    "name": "Nordsøen Oceanarium",
+    "locality": "Hirtshals",
+    "kind": "museum",
+    "manager": "oceanarium",
+    "sources": [
+      "https://nordsoenoceanarium.dk/",
+      "https://en.nordsoenoceanarium.dk/plan-your-visit"
+    ],
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Nords%C3%B8en_Oceanarium_-_panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nords%C3%B8en_Oceanarium_-_panoramio.jpg",
+      "author": "Andy Mendyk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "slug": "hirtshals-museum",
+    "group": "hirtshals",
+    "name": "Hirtshals Museum",
+    "locality": "Hirtshals",
+    "kind": "museum",
+    "manager": "history",
+    "sources": [
+      "https://vhm.dk/museerne/"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "husmoderstranden",
+    "group": "hirtshals",
+    "name": "Husmoderstranden",
+    "locality": "Hirtshals",
+    "kind": "beach",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/inspiration/strande"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "tornby-koebmandsgaard",
+    "group": "hirtshals",
+    "name": "Tornby Gamle Købmandsgård",
+    "locality": "Tornby",
+    "kind": "heritage",
+    "manager": "tornby-institution",
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/tornby-gamle-koebmandsgaard-gdk595089",
+      "https://tornby.info/vi-tilbyder/oplevelser-et-besoeg-vaerd/tornby-gl-koebmandsgaard-og-sognearkiv/"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "tornby-klitplantage",
+    "group": "hirtshals",
+    "name": "Tornby Klitplantage",
+    "locality": "Tornby",
+    "kind": "nature",
+    "manager": "agency",
+    "sources": [
+      "https://naturstyrelsen.dk/find-et-naturomraade/naturguider/thy-og-vendsyssel/tornby-klitplantage"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "tornby-strand",
+    "group": "hirtshals",
+    "name": "Tornby Strand",
+    "locality": "Tornby",
+    "kind": "beach",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/nordvestkysten/feriesteder/naturoplevelser-i-hirtshals-tornby-tversted"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "tversted-strand",
+    "group": "tversted",
+    "name": "Tversted Strand",
+    "locality": "Tversted",
+    "kind": "beach",
+    "manager": null,
+    "sources": [
+      "https://www.visitnordvestkysten.dk/inspiration/strande"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "tverstedsoeerne",
+    "group": "tversted",
+    "name": "Tverstedsøerne",
+    "locality": "Tversted",
+    "kind": "nature",
+    "manager": "agency",
+    "sources": [
+      "https://naturstyrelsen.dk/kontakt-os-lokalt/lokale-nyheder/2022/december/tverstedsoeerne-staar-klar-til-juleferien",
+      "https://naturstyrelsen.dk/publikationer/2008/tversted-klitplantage"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "uggerby-klitplantage",
+    "group": "tversted",
+    "name": "Uggerby Klitplantage",
+    "locality": "Uggerby",
+    "kind": "nature",
+    "manager": "agency",
+    "sources": [
+      "https://naturstyrelsen.dk/vildere-natur/planer-for-naturen/driftsplaner/vendsyssel/arealbeskrivelser"
+    ],
+    "photo": null
+  },
+  {
+    "slug": "mosbjerg-landbrugsmuseum",
+    "group": "tversted",
+    "name": "Landskabs- og Landbrugsmuseet",
+    "locality": "Mosbjerg",
+    "kind": "museum",
+    "manager": "history",
+    "sources": [
+      "https://vhm.dk/museerne/landskabs-og-landbrugsmuseet/"
+    ],
+    "photo": null
+  }
+]
